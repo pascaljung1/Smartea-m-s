@@ -1,0 +1,2 @@
+http://fhem.de/fhemupdate/controls_fhem.txt
+https://raw.githubusercontent.com/dominikkarall/fhempy/master/controls_pythonbinding.txt

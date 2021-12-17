@@ -1,0 +1,29 @@
+#Wed Dec  1 14:46:38 2021
+setstate Kann_bearbeitet_werden on
+setstate Kann_bearbeitet_werden 2021-12-01 13:43:40 state on
+setstate Logfile active
+setstate WEB 2021-11-29 16:28:29 state Initialized
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2021-11-29 16:28:29 state validFor:WEB
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck active
+setstate initialUsbCheck 2021-11-29 16:28:29 state active
+setstate initialUsbCheck 2021-11-27 16:17:12 triggeredByDev global
+setstate initialUsbCheck 2021-11-27 16:17:12 triggeredByEvent INITIALIZED
+setstate shelly Error
+setstate shelly 2021-11-29 16:36:05 cloud disabled
+setstate shelly 2021-11-29 16:36:21 config mode=relay [channel s]
+setstate shelly 2021-11-30 11:00:57 energy_0 0
+setstate shelly 2021-11-30 11:00:57 energy_1 0
+setstate shelly 2021-11-29 16:36:05 firmware v1.9.2(update needed to v1.11.7)
+setstate shelly 2021-12-01 14:45:41 network not connected
+setstate shelly 2021-11-29 16:37:22 overpower_0 0
+setstate shelly 2021-11-29 16:40:52 overpower_0&1 0
+setstate shelly 2021-11-29 16:37:33 overpower_1 0
+setstate shelly 2021-11-29 16:40:53 power_0 0
+setstate shelly 2021-11-29 16:37:34 power_1 0
+setstate shelly 2021-11-29 16:40:53 relay_0 off
+setstate shelly 2021-11-29 16:40:52 relay_0&1 off
+setstate shelly 2021-11-29 16:37:33 relay_1 off
+setstate shelly 2021-12-01 14:45:41 state Error

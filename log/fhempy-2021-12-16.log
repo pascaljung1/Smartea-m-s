@@ -1,0 +1,72 @@
+[2021-12-16 02:53:48,043] [tuya-openmq] error while get mqtt config
+2021-12-16 02:53:48,043 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'
+2021-12-16 09:39:33,722 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2021-12-16 09:39:33,755 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2021-12-16 09:39:33,911 - WARNING  - asyncio: Executing <Task pending name='Task-1' coro=<async_main() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py:530> wait_for=<_GatheringFuture pending cb=[<TaskWakeupMethWrapper object at 0x752305b0>()] created at /usr/lib/python3.9/asyncio/tasks.py:704> cb=[_run_until_complete_cb() at /usr/lib/python3.9/asyncio/base_events.py:184] created at /usr/lib/python3.9/asyncio/base_events.py:621> took 0.188 seconds
+2021-12-16 09:39:33,916 - INFO     - websockets.server: server listening on 0.0.0.0:15733
+2021-12-16 10:16:41,402 - WARNING  - asyncio: Executing <Handle BaseSelectorEventLoop._accept_connection(functools.par..., logger=None), <socket.socke....0.0', 15733)>, None, <Server socke...0', 15733)>,)>, 100, None) created at /usr/lib/python3.9/asyncio/selector_events.py:259> took 1.302 seconds
+2021-12-16 10:16:41,471 - INFO     - websockets.server: connection open
+2021-12-16 10:16:41,478 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
+2021-12-16 10:16:41,594 - WARNING  - zeroconf: Error with socket 10 (('10.6.0.1', 5353))): [Errno 126] Required key not available
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/selector_events.py", line 1056, in sendto
+    self._sock.sendto(data, addr)
+OSError: [Errno 126] Required key not available
+[2021-12-16 14:13:23,732] [tuya-openmq] error while get mqtt config
+2021-12-16 14:13:23,732 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'
+[2021-12-16 18:10:03,838] [tuya-openmq] error while get mqtt config
+2021-12-16 18:10:03,838 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'
+[2021-12-16 22:06:43,824] [tuya-openmq] error while get mqtt config
+2021-12-16 22:06:43,824 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'

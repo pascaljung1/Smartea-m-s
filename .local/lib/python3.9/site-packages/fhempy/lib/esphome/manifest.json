@@ -1,0 +1,5 @@
+{
+  "requirements": [
+    "esphome==2021.9.3"
+  ]
+}
