@@ -25,7 +25,9 @@ sub Heizungsstart ($$){
 	#Zeiten in Sec
 	my $Pausenzeit = 900;
 	my $Arbeitszeit = 7200;
-	
+        #aktuelle Zeite
+	my $zeitstempel = convert_to_fhemtime(time());
+
 	#heizung
 	my $status_infrarot = ReadingsVal("$Infrarotheizung","relay_1","1");
 	my $pause_flag = $attr{"$Infrarotheizung"}{'userattr'};
@@ -40,17 +42,17 @@ sub Heizungsstart ($$){
 		#Wenn nicht im 15 Minuten Cooldown-Intervall
 		if($no_Cooldown eq "true") {
 			fhem("set infrarotheizung on");
+			fhem("att infrarotheizung userattr $zeitstempel");
 		}
 	}
-	#wenn ausgeschalten
+	#wenn eingeschalten
 	else {
 		
-		my $last_changed_sec = convert_to_seconds ($last_changed);
-		my $overheated = is_time_passed ($last_changed_sec,$Arbeitszeit);
+		my $overheated = is_time_passed ($last_changed,$Arbeitszeit);
 		#Wenn länger als definierte Arbeitszeit an
 		if ($overheated eq "true"){
 			fhem("set infrarotheizung off");
-			fhem("att infrarotheizung userattr zeitstempel");
+			fhem("att infrarotheizung userattr $zeitstempel");
 		}
 		else {
 			if ( $power <= $schwellenwert){

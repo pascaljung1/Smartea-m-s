@@ -23,16 +23,12 @@ sub convert_to_seconds ($){
 	
 	my ($Zeitstempel) = @_;
 	
-	my @Zeitarray = split(/[-: ]/,$Zeitstempel);
+	my @Zeitarray = split(/[-: ]/,$Zeitstempel,6);
+
 	
-	my $second = $Zeitarray[5];
-	my $minute = $Zeitarray[4];
-	my $hour = $Zeitarray[3];
-	my $day = $Zeitarray[2];
-	my $month = $Zeitarray[1];
-	my $year = $Zeitarray[0];
-	
-	my $returntime = timelocal($second,$minute,$hour,$day,$month-1,$year);
+	my $returntime = timelocal($Zeitarray[5],$Zeitarray[4],$Zeitarray[3],$Zeitarray[2],--$Zeitarray[1],$Zeitarray[0]);
+
+Log 1, $returntime;
 
 	return $returntime;
 }
@@ -45,9 +41,23 @@ sub convert_to_fhemtime ($){
 
 	my ($Zeitstempel) = @_;
 
-	my $returntime = localtime($Zeitstempel)->strftime('%F %T');
+	my $returntimez = localtime($Zeitstempel)->strftime('%F %T');
 	
-	return $returntime;
+	return $returntimez;
+}
+
+sub is_time_passed ($$){
+	# Zeitstempel der Überprüft wird
+	my ($Zeitstempel,$Zeitspanne) = @_;
+	my $time = time();
+	
+	my $differenz = $time - $Zeitstempel;
+	
+	if ($differenz < $Zeitspanne) {
+		return "false";
+	}	
+	
+	return "true";
 }
 
 1;

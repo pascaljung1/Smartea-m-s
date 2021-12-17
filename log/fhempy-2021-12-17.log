@@ -58,3 +58,48 @@ Traceback (most recent call last):
   File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
     time.sleep(self.mq_config.expire_time - 60)
 AttributeError: 'NoneType' object has no attribute 'expire_time'
+2021-12-17 15:48:23,409 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2021-12-17 15:48:23,426 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2021-12-17 15:48:23,493 - INFO     - websockets.server: server listening on 0.0.0.0:15733
+2021-12-17 15:48:32,619 - INFO     - websockets.server: connection open
+2021-12-17 15:48:32,626 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
+2021-12-17 15:48:32,725 - WARNING  - zeroconf: Error with socket 9 (('10.6.0.1', 5353))): [Errno 126] Required key not available
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/selector_events.py", line 1056, in sendto
+    self._sock.sendto(data, addr)
+OSError: [Errno 126] Required key not available
+2021-12-17 16:40:12,119 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2021-12-17 16:40:12,140 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2021-12-17 16:40:12,221 - INFO     - websockets.server: server listening on 0.0.0.0:15733
+2021-12-17 16:40:21,853 - INFO     - websockets.server: connection open
+2021-12-17 16:40:21,859 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
+2021-12-17 16:40:21,962 - WARNING  - zeroconf: Error with socket 9 (('10.6.0.1', 5353))): [Errno 126] Required key not available
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/selector_events.py", line 1056, in sendto
+    self._sock.sendto(data, addr)
+OSError: [Errno 126] Required key not available
+[2021-12-17 16:56:26,067] [tuya-openmq] Unexpected disconnection.16
+2021-12-17 16:56:26,067 - ERROR    - tuya iot: Unexpected disconnection.16
+[2021-12-17 16:56:26,093] [tuya-openmq] Unexpected disconnection.16
+2021-12-17 16:56:26,093 - ERROR    - tuya iot: Unexpected disconnection.16
+2021-12-17 16:56:42,389 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73987070>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2021-12-17 16:56:42,393 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x751c0178>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2021-12-17 16:56:42,399 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73987130>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2021-12-17 16:56:42,417 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73962dd8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2021-12-17 16:56:42,421 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73962460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2021-12-17 16:56:42,425 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73962c40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+[2021-12-17 20:37:04,496] [tuya-openmq] error while get mqtt config
+2021-12-17 20:37:04,496 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'
