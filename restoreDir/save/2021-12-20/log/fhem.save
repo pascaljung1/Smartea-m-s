@@ -1,4 +1,4 @@
-#Mon Dec 20 17:32:10 2021
+#Mon Dec 20 17:31:27 2021
 setstate Kann_bearbeitet_werden off
 setstate Kann_bearbeitet_werden 2021-12-20 17:14:33 state off
 setstate Logfile active
@@ -36,7 +36,7 @@ setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-20 17:23:15 uuid bdf36574
 setstate allowed_WEB validFor:WEB
 setstate allowed_WEB 2021-12-20 17:22:55 state validFor:WEB
 setstate check inactive
-setstate check 2021-12-20 17:32:09 state inactive
+setstate check 2021-12-20 17:31:19 state inactive
 setstate checkKraftwerk inactive
 setstate checkKraftwerk 2021-12-20 17:27:59 state inactive
 setstate eventTypes active
@@ -47,43 +47,43 @@ setstate funksteckdose 2021-12-06 11:45:22 protocol V1
 setstate funksteckdose 2021-12-20 17:14:56 state off
 setstate global no definition
 setstate iPhone1 absent
-setstate iPhone1 2021-12-20 17:31:58 .absenceThresholdCounter 0
-setstate iPhone1 2021-12-20 17:31:58 .presenceThresholdCounter 0
+setstate iPhone1 2021-12-20 17:31:15 .absenceThresholdCounter 0
+setstate iPhone1 2021-12-20 17:31:15 .presenceThresholdCounter 0
 setstate iPhone1 2021-12-20 17:22:59 model lan-ping
-setstate iPhone1 2021-12-20 17:31:58 presence absent
-setstate iPhone1 2021-12-20 17:31:58 state absent
+setstate iPhone1 2021-12-20 17:31:15 presence absent
+setstate iPhone1 2021-12-20 17:31:15 state absent
 setstate iPhone2 absent
-setstate iPhone2 2021-12-20 17:31:58 .absenceThresholdCounter 0
-setstate iPhone2 2021-12-20 17:31:58 .presenceThresholdCounter 0
+setstate iPhone2 2021-12-20 17:31:15 .absenceThresholdCounter 0
+setstate iPhone2 2021-12-20 17:31:15 .presenceThresholdCounter 0
 setstate iPhone2 2021-12-20 17:22:59 model lan-ping
-setstate iPhone2 2021-12-20 17:31:58 presence absent
-setstate iPhone2 2021-12-20 17:31:58 state absent
+setstate iPhone2 2021-12-20 17:31:15 presence absent
+setstate iPhone2 2021-12-20 17:31:15 state absent
 setstate iPhone3 absent
-setstate iPhone3 2021-12-20 17:31:58 .absenceThresholdCounter 0
-setstate iPhone3 2021-12-20 17:31:58 .presenceThresholdCounter 0
+setstate iPhone3 2021-12-20 17:31:15 .absenceThresholdCounter 0
+setstate iPhone3 2021-12-20 17:31:15 .presenceThresholdCounter 0
 setstate iPhone3 2021-12-20 17:22:59 model lan-ping
-setstate iPhone3 2021-12-20 17:31:58 presence absent
-setstate iPhone3 2021-12-20 17:31:58 state absent
+setstate iPhone3 2021-12-20 17:31:15 presence absent
+setstate iPhone3 2021-12-20 17:31:15 state absent
 setstate iPhone4 absent
-setstate iPhone4 2021-12-20 17:31:58 .absenceThresholdCounter 0
-setstate iPhone4 2021-12-20 17:31:58 .presenceThresholdCounter 0
+setstate iPhone4 2021-12-20 17:31:15 .absenceThresholdCounter 0
+setstate iPhone4 2021-12-20 17:31:15 .presenceThresholdCounter 0
 setstate iPhone4 2021-12-20 17:22:59 model lan-ping
-setstate iPhone4 2021-12-20 17:31:58 presence absent
-setstate iPhone4 2021-12-20 17:31:58 state absent
+setstate iPhone4 2021-12-20 17:31:15 presence absent
+setstate iPhone4 2021-12-20 17:31:15 state absent
 setstate infrarotheizung Error
 setstate infrarotheizung 2021-12-07 13:57:36 cloud disabled
 setstate infrarotheizung 2021-12-07 13:58:09 config mode=relay [channel s]
 setstate infrarotheizung 2021-12-17 17:51:28 energy_0 11.1
 setstate infrarotheizung 2021-12-17 17:51:28 energy_1 5.1
 setstate infrarotheizung 2021-12-07 13:57:36 firmware v1.9.2(update needed to v1.11.7)
-setstate infrarotheizung 2021-12-20 17:31:31 network not connected
+setstate infrarotheizung 2021-12-20 17:30:28 network not connected
 setstate infrarotheizung 2021-12-07 14:45:48 overpower_0 0
 setstate infrarotheizung 2021-12-18 03:55:09 overpower_1 0
 setstate infrarotheizung 2021-12-17 17:51:28 power_0 0
 setstate infrarotheizung 2021-12-17 17:51:28 power_1 0
 setstate infrarotheizung 2021-12-17 17:51:28 relay_0 off
 setstate infrarotheizung 2021-12-18 03:55:09 relay_1 off
-setstate infrarotheizung 2021-12-20 17:31:31 state Error
+setstate infrarotheizung 2021-12-20 17:30:28 state Error
 setstate initialUsbCheck 2021-12-20 17:22:59
 setstate initialUsbCheck 2021-12-20 17:22:55 state active
 setstate initialUsbCheck 2021-12-20 17:22:59 triggeredByDev global
@@ -94,16 +94,20 @@ setstate local_pybinding 2021-12-20 17:23:12 version 0.1.183
 setstate myCUL 2021-12-06 12:12:47 ccconf freq:433.920MHz bWidth:325KHz rAmpl:42dB sens:4dB
 setstate myCUL 2021-12-20 17:22:59 cmds  A B C E e F f G h i K k l M m R T t U V W X x Y Z z
 setstate myCUL 2021-12-06 11:53:04 fhtbuf AE
-setstate myCUL 2021-12-20 17:31:49 raw is000000000110
+setstate myCUL 2021-12-20 17:31:26 raw is000000000110
 setstate myCUL 2021-12-20 17:22:59 state Initialized
 setstate myCUL 2021-12-06 14:13:03 version V 1.67 nanoCUL433
+setstate schalter1 off
+setstate schalter1 2021-12-20 17:31:25 IODev myCUL
+setstate schalter1 2021-12-20 17:21:25 protocol V1
+setstate schalter1 2021-12-20 17:31:26 state off
 setstate shelly Error
 setstate shelly 2021-11-29 16:36:05 cloud disabled
 setstate shelly 2021-11-29 16:36:21 config mode=relay [channel s]
 setstate shelly 2021-12-17 17:51:28 energy_0 11.1
 setstate shelly 2021-12-17 17:51:28 energy_1 5.1
 setstate shelly 2021-12-06 11:47:46 firmware v1.9.2(update needed to v1.11.7)
-setstate shelly 2021-12-20 17:31:31 network not connected
+setstate shelly 2021-12-20 17:30:28 network not connected
 setstate shelly 2021-12-17 17:52:53 overpower_0 0
 setstate shelly 2021-12-07 13:51:23 overpower_0&1 0
 setstate shelly 2021-11-29 16:37:33 overpower_1 0
@@ -112,6 +116,6 @@ setstate shelly 2021-12-17 17:51:28 power_1 0
 setstate shelly 2021-12-17 17:52:53 relay_0 off
 setstate shelly 2021-12-07 13:51:23 relay_0&1 off
 setstate shelly 2021-12-17 17:51:28 relay_1 off
-setstate shelly 2021-12-20 17:31:31 state Error
+setstate shelly 2021-12-20 17:30:28 state Error
 setstate tuya_cloud_connector1 connected
 setstate tuya_cloud_connector1 2021-12-20 17:23:14 state connected

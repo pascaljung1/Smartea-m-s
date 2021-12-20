@@ -1,41 +1,41 @@
-7 Kann_bearbeitet_werden state: off
-6 Kann_bearbeitet_werden state: on
-14 Phytenbinding_15733 fhempy: running FHEM/bindings/python/bin/fhempy
+8 Kann_bearbeitet_werden state: off
+7 Kann_bearbeitet_werden state: on
+16 Phytenbinding_15733 fhempy: running FHEM/bindings/python/bin/fhempy
 3 Phytenbinding_15733 fhempy: stopped
 1 Phytenbinding_15733 fhempy: stopping
 1 Phytenbinding_15733 state: active
 1 WEB JS:location.href='/fhem?detail=m2s'
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax active_time: .*
-337 WLAN_Steckdose_bfadefdc3b039db8d0ttax add_ele: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax biz_type: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax category: cz
-337 WLAN_Steckdose_bfadefdc3b039db8d0ttax countdown_1: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax create_time: .*
-337 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_current: .*
-337 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_power: .*
-337 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_voltage: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax id: bfadefdc3b039db8d0ttax
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax ip: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax lat: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax local_key: 6462e67f1fad3677
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax lon: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax name: WLAN Steckdose
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax active_time: .*
+372 WLAN_Steckdose_bfadefdc3b039db8d0ttax add_ele: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax biz_type: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax category: cz
+372 WLAN_Steckdose_bfadefdc3b039db8d0ttax countdown_1: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax create_time: .*
+372 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_current: .*
+372 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_power: .*
+372 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_voltage: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax id: bfadefdc3b039db8d0ttax
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax ip: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax lat: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax local_key: 6462e67f1fad3677
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax lon: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax name: WLAN Steckdose
 5 WLAN_Steckdose_bfadefdc3b039db8d0ttax off
 5 WLAN_Steckdose_bfadefdc3b039db8d0ttax on
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax online: on
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax owner_id: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_id: fbvia0apnlnattcy
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_name: Smart Socket-16A
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax online: on
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax owner_id: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_id: fbvia0apnlnattcy
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_name: Smart Socket-16A
 2 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Python server offline
-330 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: off
+365 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: off
 7 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: on
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: ready
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax sub: off
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax time_zone: +.*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax uid: eu1637938451839MThWC
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax update_time: .*
-9 WLAN_Steckdose_bfadefdc3b039db8d0ttax uuid: bdf36574c645ebc7
-2041 check state: Next: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: ready
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax sub: off
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax time_zone: +.*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax uid: eu1637938451839MThWC
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax update_time: .*
+11 WLAN_Steckdose_bfadefdc3b039db8d0ttax uuid: bdf36574c645ebc7
+28216 check state: Next: .*
 4 check state: inactive
 10 checkKraftwerk state: Next: .*
 1 checkKraftwerk state: inactive
@@ -43,46 +43,46 @@
 7 funksteckdose dim: off
 14 funksteckdose dim: on
 2 funksteckdose state: dimup
-53 funksteckdose state: off
-55 funksteckdose state: on
+61 funksteckdose state: off
+63 funksteckdose state: on
 1 iPhone1 state: absent
 1 iPhone2 state: absent
 1 iPhone3 state: absent
 1 iPhone4 state: absent
 1 infrarotheizung cloud: disabled
 1 infrarotheizung config: mode=relay [channel s]
-255 infrarotheizung energy_0: .*
-209 infrarotheizung energy_1: .*
+310 infrarotheizung energy_0: .*
+223 infrarotheizung energy_1: .*
 1 infrarotheizung firmware: v1.*)
-6 infrarotheizung network: not connected
-35 infrarotheizung off
-286 infrarotheizung on
+3555 infrarotheizung network: not connected
+25781 infrarotheizung off
+288 infrarotheizung on
 1 infrarotheizung overpower_0: .*
-321 infrarotheizung overpower_1: .*
-526 infrarotheizung power_0: .*
-428 infrarotheizung power_1: .*
-9 infrarotheizung relay_0: off
-9 infrarotheizung relay_0: on
-35 infrarotheizung relay_1: off
-286 infrarotheizung relay_1: on
-7 infrarotheizung state: Error
-334 infrarotheizung state: OK
-8 infrarotheizung state: initialized
-11 local_pybinding CONNECTED
+3948 infrarotheizung overpower_1: .*
+592 infrarotheizung power_0: .*
+444 infrarotheizung power_1: .*
+11 infrarotheizung relay_0: off
+10 infrarotheizung relay_0: on
+3660 infrarotheizung relay_1: off
+288 infrarotheizung relay_1: on
+25681 infrarotheizung state: Error
+3963 infrarotheizung state: OK
+10 infrarotheizung state: initialized
+13 local_pybinding CONNECTED
 3 local_pybinding DISCONNECTED
 3 local_pybinding state: Python server offline
 1 local_pybinding update
-11 local_pybinding version: .*
+13 local_pybinding version: .*
 1 local_pybinding version: update finished...please wait
 1 local_pybinding version: update started...
-14 myCUL CONNECTED
-3 myCUL DISCONNECTED
+17 myCUL CONNECTED
+4 myCUL DISCONNECTED
 1 myCUL UNKNOWNCODE KFC
 1 myCUL UNKNOWNCODE i99a699a65555559da
 1 myCUL UNKNOWNCODE i99a699a65555569da
 1 myCUL UNKNOWNCODE i99a699a6555556bdb
 5 myCUL ccconf: freq:.*.920MHz bWidth:325KHz rAmpl:42dB sens:4dB
-8 myCUL cmds: A B C E e F f G h i K k l M m R T t U V W X x Y Z z
+9 myCUL cmds: A B C E e F f G h i K k l M m R T t U V W X x Y Z z
 1 myCUL fhtbuf: .*
 3 myCUL led .*
 4 myCUL raw: .*
@@ -90,40 +90,40 @@
 2 myCUL raw: is00000011110F
 2 myCUL raw: is0000001111F0
 4 myCUL raw: is000000FFFF00
-18 myCUL raw: is000000FFFF0F
-29 myCUL raw: is000000FFFFF0
-11 myCUL raw: is000000FFFFFF
+21 myCUL raw: is000000FFFF0F
+37 myCUL raw: is000000FFFFF0
+16 myCUL raw: is000000FFFFFF
 8 myCUL raw: is0FFFFF0FFF0F
 26 myCUL raw: is0FFFFF0FFFF0
 7 myCUL raw: is0FFFFF0FFFFF
 1 myCUL raw: isF00000F000F0
 2 myCUL raw: isF00000F000FF
-7 myCUL state: Initialized
+8 myCUL state: Initialized
 2 myCUL version: V .* nanoCUL433
 1 shelly cloud: disabled
 1 shelly config: mode=relay [channel s]
-264 shelly energy_0: .*
-211 shelly energy_1: .*
+319 shelly energy_0: .*
+225 shelly energy_1: .*
 1 shelly firmware: v1.*
 2 shelly firmware: v1.*)
-8488 shelly network: not connected
-21 shelly off
+12036 shelly network: not connected
+25 shelly off
 2 shelly off .*
-20 shelly on
+23 shelly on
 2 shelly on .*
 19 shelly overpower_0&.*
-24 shelly overpower_0: .*
+31 shelly overpower_0: .*
 3 shelly overpower_1: .*
-344 shelly power_0: .*
-214 shelly power_1: .*
+415 shelly power_0: .*
+230 shelly power_1: .*
 10 shelly relay_0&.*: off
 9 shelly relay_0&.*: on
-20 shelly relay_0: off
-20 shelly relay_0: on
-12 shelly relay_1: off
-13 shelly relay_1: on
-8492 shelly state: Error
-67 shelly state: OK
-12 shelly state: initialized
-9 tuya_cloud_connector1 state: connected
-9 tuya_cloud_connector1 state: connecting
+24 shelly relay_0: off
+23 shelly relay_0: on
+14 shelly relay_1: off
+15 shelly relay_1: on
+12041 shelly state: Error
+76 shelly state: OK
+14 shelly state: initialized
+11 tuya_cloud_connector1 state: connected
+11 tuya_cloud_connector1 state: connecting
