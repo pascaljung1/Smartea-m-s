@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!--
+     /* FHEM tablet ui */
+     /*
+     * UI builder framework for FHEM
+     *
+     * Version: 2.5.*
+     * URL: https://github.com/knowthelist/fhem-tablet-ui
+     *
+     * Copyright (c) 2015-2017 Mario Stephan <mstephan@shared-files.de>
+     * Under MIT License (http://www.opensource.org/licenses/mit-license.php)
+     *
+     * - create a new folder named 'tablet' in /<fhem-path>/www
+     * - copy all files incl. sub folders into /<fhem-path>/www/tablet
+     * - add 'define TABLETUI HTTPSRV ftui ./www/tablet Tablet' in fhem.cfg
+     * - Tadaaa! A new fhem ui in http://<fhem-url>:8083/fhem/tablet/
+     */
+    -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    
+
+    <!-- define your personal style here, it wont be overwritten  -->
+   
+    <link rel="stylesheet" href="css/fhem-blue-ui.css">
+
+    <script src="js/fhem-tablet-ui.js" defer></script>
+
+
+    <!-- Remove this line to enable for usage with WebViewControl
+    <script defer>var wvcDevices = {'12345': 'Tablet'}; var wvcUserCssFile="webviewcontrol.css"</script>
+    <script src="../pgm2/cordova-2.3.0.js" defer></script>
+    <script src="../pgm2/webviewcontrol.js" defer></script>
+    <!- End for WebViewControl -->
+
+    <title>FHEM-Tablet-UI</title>
+</head>
+
+<body>
+
+    <div class="gridster">
+        <ul>
+           
+            <li data-row="1" data-col="1" data-sizex="1" data-sizey="6">
+                <header>MENÜ</header>
+                <div class="sheet">
+                    <div class="row">
+                    
+                            <div data-type="pagebutton" data-url="index.html" data-icon="mi-home" id="menue" class="big"></div>
+                            <div data-type="pagebutton" data-url="a4.html" data-icon="fa-lightbulb" id="menue" class="big"></div>
+                            <div data-type="pagebutton" data-url="a5.html" data-icon="fa-mobile-alt" id="menue" class="big"></div>
+                            <div data-type="pagebutton" data-url="a6.html" data-icon="fa-car-battery" id="menue" class="big"></div>
+                            
+                        
+                    </div>
+                </div>
+            </li>
+            <li data-row="1" data-col="2" data-sizey="2" data-sizex="2">
+                <header>EIN-AUSSCHALTEN</header>
+                <div class="sheet">
+                    <div class="row">
+                        <div class="cell">
+                            <div data-type="switch" data-device="GartenLicht" class="big"></div>
+                            <div data-type="label" class="">WLAN-Steckdose</div>
+                        </div>
+                        <div class="cell">
+                            <div data-type="switch" data-device="GartenLicht" class="big"></div>
+                            <div data-type="label" class="">Funksteckdose</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </li>
+            <li data-row="1" data-col="3" data-sizey="2" data-sizex="2">
+                <header>GEPLANTE EINSCHALTZEIT - Funksteckdose</header>
+                <div class="sheet">
+                    <div class="row">
+                        
+                        <div class="cell">
+                            <div data-type="clock" data-format="H:i" class="tall"></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li data-row="1" data-col="4" data-sizey="2" data-sizex="2">
+                <header>GEPLANTE AUSSCHALTZEIT - Funksteckdose</header>
+                <div class="sheet">
+                    <div class="row">
+                        
+                        <div class="cell">
+                            <div data-type="clock" data-format="H:i" class="tall"></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+           
+            <li data-row="2" data-col="2" data-sizey="2" data-sizex="2">
+                <header>BETRIEBSMODI - WLAN-Steckdose</header>
+                <div class="sheet">
+                    <div class="row">
+                       
+                        <div class="cell">
+                            <div class="cell-50" data-type="select" data-device="dummy" data-items='["Festdefinierte Betriebszeit","Betreibszeit abhängig Sonnenauf/untergang","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]' data-get="input" data-set="input"></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li data-row="3" data-col="2" data-sizey="2" data-sizex="2">
+                <header>BETRIEBSMODI - Funksteckdose</header>
+                <div class="sheet">
+                    <div class="row">
+                        <div class="cell">
+                        <div class="cell-50" data-type="select" data-device="dummy" data-items='["Festdefinierte Betriebszeit","Betreibszeit abhängig Sonnenauf/untergang","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]' data-get="input" data-set="input"></div>
+                    </div>
+                    </div>
+                </div>
+            </li>
+            <li data-row="2" data-col="4" data-sizey="2" data-sizex="2">
+                <header>GEPLANTE EINSCHALTZEIT - WLAN-Steckdose</header>
+                <div class="sheet">
+                    <div class="row">
+                      
+                        <div class="cell">
+                            <div data-type="clock" data-format="H:i" class="tall"></div>
+                        </div>
+                       
+                    </div>
+                </div>
+            </li>
+            <li data-row="2" data-col="6" data-sizey="2" data-sizex="2">
+                <header>GEPLANTE AUSSCHALTZEIT - WLAN-Steckdose</header>
+                <div class="sheet">
+                    <div class="row">
+                       
+                        <div class="cell">
+                           <label></label>
+                        </div>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>
+</body>
+
+</html>

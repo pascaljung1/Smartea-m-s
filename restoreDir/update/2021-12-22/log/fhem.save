@@ -1,0 +1,117 @@
+#Wed Dec 22 11:11:15 2021
+setstate Kann_bearbeitet_werden off
+setstate Kann_bearbeitet_werden 2021-12-20 17:14:33 state off
+setstate Logfile active
+setstate Phytenbinding_15733 active
+setstate Phytenbinding_15733 2021-12-22 10:56:01 fhempy running FHEM/bindings/python/bin/fhempy
+setstate Phytenbinding_15733 2021-12-22 10:55:58 state active
+setstate WEB 2021-12-22 10:55:57 state Initialized
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax off
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 active_time 1638109114
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 add_ele 0.0
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 biz_type 18
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 category cz
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 countdown_1 0.0
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 create_time 1606824639
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 cur_current 0.0
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 cur_power 0.0
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 cur_voltage 233.2
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 icon https://images.tuyaeu.com/smart/icon/ay1514359068372Hd98B/c3a67a5857f715ff87995c5875cce60f.jpg
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 id bfadefdc3b039db8d0ttax
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 ip 217.240.212.99
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 lat 49.1115
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 local_key 6462e67f1fad3677
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 lon 9.7444
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 name WLAN Steckdose
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 online on
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 owner_id 42955629
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 product_id fbvia0apnlnattcy
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 product_name Smart Socket-16A
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 state off
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 sub off
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 time_zone +01:00
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 uid eu1637938451839MThWC
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 update_time 1640053062
+setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2021-12-22 10:56:16 uuid bdf36574c645ebc7
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2021-12-22 10:55:57 state validFor:WEB
+setstate check inactive
+setstate check 2021-12-22 11:11:11 state inactive
+setstate checkKraftwerk inactive
+setstate checkKraftwerk 2021-12-22 11:11:01 state inactive
+setstate eventTypes active
+setstate funksteckdose off
+setstate funksteckdose 2021-12-22 10:56:01 IODev myCUL
+setstate funksteckdose 2021-12-08 19:58:34 dim on
+setstate funksteckdose 2021-12-06 11:45:22 protocol V1
+setstate funksteckdose 2021-12-20 17:14:56 state off
+setstate global no definition
+setstate iPhone1 absent
+setstate iPhone1 2021-12-22 11:10:46 .absenceThresholdCounter 0
+setstate iPhone1 2021-12-22 11:10:46 .presenceThresholdCounter 0
+setstate iPhone1 2021-12-22 10:56:01 model lan-ping
+setstate iPhone1 2021-12-22 11:10:46 presence absent
+setstate iPhone1 2021-12-22 11:10:46 state absent
+setstate iPhone2 absent
+setstate iPhone2 2021-12-22 11:10:46 .absenceThresholdCounter 0
+setstate iPhone2 2021-12-22 11:10:46 .presenceThresholdCounter 0
+setstate iPhone2 2021-12-22 10:56:01 model lan-ping
+setstate iPhone2 2021-12-22 11:10:46 presence absent
+setstate iPhone2 2021-12-22 11:10:46 state absent
+setstate iPhone3 absent
+setstate iPhone3 2021-12-22 11:10:46 .absenceThresholdCounter 0
+setstate iPhone3 2021-12-22 11:10:46 .presenceThresholdCounter 0
+setstate iPhone3 2021-12-22 10:56:01 model lan-ping
+setstate iPhone3 2021-12-22 11:10:46 presence absent
+setstate iPhone3 2021-12-22 11:10:46 state absent
+setstate iPhone4 absent
+setstate iPhone4 2021-12-22 11:10:46 .absenceThresholdCounter 0
+setstate iPhone4 2021-12-22 11:10:46 .presenceThresholdCounter 0
+setstate iPhone4 2021-12-22 10:56:01 model lan-ping
+setstate iPhone4 2021-12-22 11:10:46 presence absent
+setstate iPhone4 2021-12-22 11:10:46 state absent
+setstate infrarotheizung Error
+setstate infrarotheizung 2021-12-07 13:57:36 cloud disabled
+setstate infrarotheizung 2021-12-07 13:58:09 config mode=relay [channel s]
+setstate infrarotheizung 2021-12-17 17:51:28 energy_0 11.1
+setstate infrarotheizung 2021-12-17 17:51:28 energy_1 5.1
+setstate infrarotheizung 2021-12-07 13:57:36 firmware v1.9.2(update needed to v1.11.7)
+setstate infrarotheizung 2021-12-22 11:10:52 network not connected
+setstate infrarotheizung 2021-12-07 14:45:48 overpower_0 0
+setstate infrarotheizung 2021-12-18 03:55:09 overpower_1 0
+setstate infrarotheizung 2021-12-17 17:51:28 power_0 0
+setstate infrarotheizung 2021-12-17 17:51:28 power_1 0
+setstate infrarotheizung 2021-12-17 17:51:28 relay_0 off
+setstate infrarotheizung 2021-12-18 03:55:09 relay_1 off
+setstate infrarotheizung 2021-12-22 11:10:52 state Error
+setstate initialUsbCheck 2021-12-22 10:56:01
+setstate initialUsbCheck 2021-12-22 10:55:57 state active
+setstate initialUsbCheck 2021-12-22 10:56:01 triggeredByDev global
+setstate initialUsbCheck 2021-12-22 10:56:01 triggeredByEvent INITIALIZED
+setstate local_pybinding opened
+setstate local_pybinding 2021-12-22 10:56:14 state opened
+setstate local_pybinding 2021-12-22 10:56:14 version 0.1.183
+setstate myCUL 2021-12-06 12:12:47 ccconf freq:433.920MHz bWidth:325KHz rAmpl:42dB sens:4dB
+setstate myCUL 2021-12-22 10:56:01 cmds  A B C E e F f G h i K k l M m R T t U V W X x Y Z z
+setstate myCUL 2021-12-06 11:53:04 fhtbuf AE
+setstate myCUL 2021-12-20 17:31:49 raw is000000000110
+setstate myCUL 2021-12-22 10:56:01 state Initialized
+setstate myCUL 2021-12-06 14:13:03 version V 1.67 nanoCUL433
+setstate shelly Error
+setstate shelly 2021-11-29 16:36:05 cloud disabled
+setstate shelly 2021-11-29 16:36:21 config mode=relay [channel s]
+setstate shelly 2021-12-17 17:51:28 energy_0 11.1
+setstate shelly 2021-12-17 17:51:28 energy_1 5.1
+setstate shelly 2021-12-06 11:47:46 firmware v1.9.2(update needed to v1.11.7)
+setstate shelly 2021-12-22 11:10:52 network not connected
+setstate shelly 2021-12-17 17:52:53 overpower_0 0
+setstate shelly 2021-12-07 13:51:23 overpower_0&1 0
+setstate shelly 2021-11-29 16:37:33 overpower_1 0
+setstate shelly 2021-12-17 17:52:54 power_0 0
+setstate shelly 2021-12-17 17:51:28 power_1 0
+setstate shelly 2021-12-17 17:52:53 relay_0 off
+setstate shelly 2021-12-07 13:51:23 relay_0&1 off
+setstate shelly 2021-12-17 17:51:28 relay_1 off
+setstate shelly 2021-12-22 11:10:52 state Error
+setstate tuya_cloud_connector1 connected
+setstate tuya_cloud_connector1 2021-12-22 10:56:16 state connected
