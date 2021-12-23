@@ -57605,3 +57605,6 @@ Backup done
 2021.12.23 08:55:02 1: [Shelly_status]  has error 172.30.30.177: Keine Route zum Zielrechner (113)
 2021.12.23 09:47:23 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
 2021.12.23 09:47:23 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
+2021.12.23 14:15:08 2: AttrTemplates: got 234 entries
+2021.12.23 14:15:17 3: myCUL IT_set: funksteckdose on
+2021.12.23 14:15:20 3: myCUL IT_set: funksteckdose off
