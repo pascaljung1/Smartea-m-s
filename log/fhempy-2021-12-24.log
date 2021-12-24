@@ -1,6 +1,6 @@
-[2021-12-14 08:41:36,373] [tuya-openmq] error while get mqtt config
-2021-12-14 08:41:36,373 - ERROR    - tuya iot: error while get mqtt config
-Exception in thread Thread-160:
+[2021-12-24 03:32:48,698] [tuya-openmq] error while get mqtt config
+2021-12-24 03:32:48,698 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-32:
 Traceback (most recent call last):
   File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
     self.run()
@@ -13,9 +13,9 @@ Traceback (most recent call last):
   File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
     time.sleep(self.mq_config.expire_time - 60)
 AttributeError: 'NoneType' object has no attribute 'expire_time'
-[2021-12-14 12:38:16,453] [tuya-openmq] error while get mqtt config
-2021-12-14 12:38:16,453 - ERROR    - tuya iot: error while get mqtt config
-Exception in thread Thread-163:
+[2021-12-24 07:29:28,730] [tuya-openmq] error while get mqtt config
+2021-12-24 07:29:28,730 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-35:
 Traceback (most recent call last):
   File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
     self.run()
@@ -28,9 +28,9 @@ Traceback (most recent call last):
   File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
     time.sleep(self.mq_config.expire_time - 60)
 AttributeError: 'NoneType' object has no attribute 'expire_time'
-[2021-12-14 20:31:36,501] [tuya-openmq] error while get mqtt config
-2021-12-14 20:31:36,501 - ERROR    - tuya iot: error while get mqtt config
-Exception in thread Thread-170:
+[2021-12-24 11:26:08,846] [tuya-openmq] error while get mqtt config
+2021-12-24 11:26:08,846 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-38:
 Traceback (most recent call last):
   File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
     self.run()

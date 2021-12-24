@@ -57608,3 +57608,5 @@ Backup done
 2021.12.23 14:15:08 2: AttrTemplates: got 234 entries
 2021.12.23 14:15:17 3: myCUL IT_set: funksteckdose on
 2021.12.23 14:15:20 3: myCUL IT_set: funksteckdose off
+2021.12.24 03:32:48 2: Deleting fhempy-2021-12-14.log
+2021.12.24 03:32:48 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-24.log
