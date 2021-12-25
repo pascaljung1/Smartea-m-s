@@ -43,3 +43,33 @@ Traceback (most recent call last):
   File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
     time.sleep(self.mq_config.expire_time - 60)
 AttributeError: 'NoneType' object has no attribute 'expire_time'
+[2021-12-25 15:02:49,066] [tuya-openmq] error while get mqtt config
+2021-12-25 15:02:49,066 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-59:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'
+[2021-12-25 18:59:29,144] [tuya-openmq] error while get mqtt config
+2021-12-25 18:59:29,144 - ERROR    - tuya iot: error while get mqtt config
+Exception in thread Thread-62:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 174, in run
+    time.sleep(self.mq_config.expire_time - 60)
+AttributeError: 'NoneType' object has no attribute 'expire_time'
