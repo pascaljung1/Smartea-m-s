@@ -57615,3 +57615,5 @@ Backup done
 2021.12.26 01:19:49 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
 2021.12.26 02:52:49 2: Deleting fhempy-2021-12-16.log
 2021.12.26 02:52:49 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-26.log
+2021.12.27 02:32:49 2: Deleting fhempy-2021-12-17.log
+2021.12.27 02:32:49 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-27.log
