@@ -57617,3 +57617,6 @@ Backup done
 2021.12.26 02:52:49 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-26.log
 2021.12.27 02:32:49 2: Deleting fhempy-2021-12-17.log
 2021.12.27 02:32:49 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-27.log
+2021.12.28 02:12:49 2: Deleting fhempy-2021-12-18.log
+2021.12.28 02:12:49 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-28.log
+2021.12.28 09:14:35 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
