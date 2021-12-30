@@ -57640,3 +57640,7 @@ Backup done
 2021.12.29 20:28:23 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
 2021.12.29 20:29:18 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
 2021.12.29 20:29:23 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
+2021.12.30 01:32:50 2: Deleting fhempy-2021-12-20.log
+2021.12.30 01:32:50 3: Phytenbinding_15733: using logfile: ./log/fhempy-2021-12-30.log
+2021.12.30 10:32:43 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
+2021.12.30 10:32:43 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
