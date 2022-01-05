@@ -33,14 +33,9 @@ my $auszeit = sunrise_abs(0);
       fhem("attr funk_kette_an_aus Ausschaltzeit $auszeit");
     }
     case "c"  {
-        fhem("defmod funk_kette_an_aus DOIF ([07:30:00|AT] and ([sunrise_abs(0)] > [07:30:00])) (set funk_kette off) DOELSEIF ([{sunset(0)}]) (set wlan_kette on-till-overnight *{sunrise(0)})");
+        fhem("defmod funk_kette_an_aus DOIF ([07:30:00|AT] and ([{sunrise_abs(0)}] > [07:30:00])) (set funk_kette off) DOELSEIF ([{sunset(0)}]) (set wlan_kette on-till-overnight *{sunrise(0)})");
         fhem("attr funk_kette_an_aus room A4");
-        my $auszeit;
-        if ([07:30:00|AT] and ([{sunrise_abs(0)}] > [07:30:00])) {
-          $auszeit = "07:30:00";
-        } else {
-          $auszeit = sunrise_abs(0);
-        }
+        my $auszeit = sunrise_abs(0);
         my $einzeit = sunset_abs(0);
         fhem("attr funk_kette_an_aus room A4");
         fhem("attr funk_kette_an_aus userattr Betriebsmodus Einschaltzeit Ausschaltzeit");

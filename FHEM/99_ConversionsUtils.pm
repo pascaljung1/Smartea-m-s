@@ -28,7 +28,6 @@ sub convert_to_seconds ($){
 	
 	my $returntime = timelocal($Zeitarray[5],$Zeitarray[4],$Zeitarray[3],$Zeitarray[2],--$Zeitarray[1],$Zeitarray[0]);
 
-Log 1, $returntime;
 
 	return $returntime;
 }
