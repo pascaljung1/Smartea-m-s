@@ -62,11 +62,11 @@
                 <div class="sheet">
                     <div class="row">
                         <div class="cell">
-                            <div data-type="switch" data-device="GartenLicht" class="big"></div>
+                            <div data-type="switch" data-device="WLAN_Steckdose_bfadefdc3b039db8d0ttax" class="big"></div>
                             <div data-type="label" class="">WLAN-Steckdose</div>
                         </div>
                         <div class="cell">
-                            <div data-type="switch" data-device="GartenLicht" class="big"></div>
+                            <div data-type="switch" data-device="funk_kette" class="big"></div>
                             <div data-type="label" class="">Funksteckdose</div>
                         </div>
                         
@@ -79,7 +79,7 @@
                     <div class="row">
                         
                         <div class="cell">
-                            <div data-type="clock" data-format="H:i" class="tall"></div>
+                            <div data-type="label"data-device="funk_kette_an_aus" data-get="Einschaltzeit" class="tall"></div>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="row">
                         
                         <div class="cell">
-                            <div data-type="clock" data-format="H:i" class="tall"></div>
+                            <div data-type="label" data-device="funk_kette_an_aus" data-get="Ausschaltzeit" class="tall"></div>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,10 @@
                     <div class="row">
                        
                         <div class="cell">
-                            <div class="cell-50" data-type="select" data-device="dummy" data-items='["Festdefinierte Betriebszeit","Betreibszeit abhängig Sonnenauf/untergang","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]' data-get="input" data-set="input"></div>
+				<div class="cell-50" data-type="select"
+                                	data-items='["{wlansteckdosenModusSwitch(&#039;a&#039;)}","{wlansteckdosenModusSwitch(&#039;b&#039;)}", "{wlansteckdosenModusSwitch(&#039;c&#039;)}", "{wlansteckdosenModusSwitch(&#039;d&#039;)}"]'
+                                	data-alias='["Festdefinierte Betriebszeit","Betreibszeit abhängig Sonnenauf/untergang","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]'
+                                	data-cmd="" data-quote=""></div>
                         </div>
                     </div>
                 </div>
@@ -112,7 +115,10 @@
                 <div class="sheet">
                     <div class="row">
                         <div class="cell">
-                        <div class="cell-50" data-type="select" data-device="dummy" data-items='["Festdefinierte Betriebszeit","Betreibszeit abhängig Sonnenauf/untergang","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]' data-get="input" data-set="input"></div>
+			<div class="cell-50" data-type="select"
+                                data-items='["{funksteckdosenModusSwitch(&#039;a&#039;)}","{funksteckdosenModusSwitch(&#039;b&#039;)}", "{funksteckdosenModusSwitch(&#039;c&#039;)}", "{funksteckdosenModusSwitch(&#039;d&#039;)}"]'
+                                data-alias='["Festdefinierte Betriebszeit","Betreibszeit abhängig Sonnenauf/untergang","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]'
+                                data-cmd="" data-quote=""></div>
                     </div>
                     </div>
                 </div>
@@ -123,7 +129,7 @@
                     <div class="row">
                       
                         <div class="cell">
-                            <div data-type="clock" data-format="H:i" class="tall"></div>
+                            <div data-type="label"data-device="wlan_kette_an_aus" data-get="Einschaltzeit" class="tall"></div>
                         </div>
                        
                     </div>
@@ -135,7 +141,7 @@
                     <div class="row">
                        
                         <div class="cell">
-                           <label></label>
+                            <div data-type="label" data-device="wlan_kette_an_aus" data-get="Ausschaltzeit" class="tall"></div>
                         </div>
                     </div>
                 </div>

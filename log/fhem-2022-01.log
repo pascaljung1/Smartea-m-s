@@ -13,3 +13,310 @@
 2022.01.03 15:57:54 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
 2022.01.04 03:49:31 2: Deleting fhempy-2021-12-25.log
 2022.01.04 03:49:31 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-04.log
+2022.01.05 03:29:36 2: Deleting fhempy-2021-12-26.log
+2022.01.05 03:29:36 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-05.log
+2022.01.05 03:30:19 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
+2022.01.05 03:30:22 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
+2022.01.05 03:31:22 1: [Shelly_status]  has error 172.30.30.177: Keine Route zum Zielrechner (113)
+2022.01.05 03:31:22 1: [Shelly_status]  has error 172.30.30.177: Keine Route zum Zielrechner (113)
+2022.01.05 11:04:56 1: ERROR: empty name in readingsBeginUpdate
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBeginUpdate           called by (eval 337501) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: PERL WARNING: Use of uninitialized value $name in concatenation (.) or string at fhem.pl line 4945.
+2022.01.05 11:04:56 1: readingsUpdate(,switch_1,on) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBulkUpdate            called by (eval 337503) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: readingsUpdate(,countdown_1,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBulkUpdate            called by (eval 337505) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: readingsUpdate(,add_ele,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBulkUpdate            called by (eval 337507) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: readingsUpdate(,cur_current,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBulkUpdate            called by (eval 337509) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: readingsUpdate(,cur_power,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBulkUpdate            called by (eval 337511) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: readingsUpdate(,cur_voltage,2304) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:56 1: stacktrace:
+2022.01.05 11:04:56 1:     main::readingsBulkUpdate            called by (eval 337513) (1)
+2022.01.05 11:04:56 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:56 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:56 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:56 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:56 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:56 1: PERL WARNING: Use of uninitialized value $d in hash element at fhem.pl line 4681.
+2022.01.05 11:04:56 1: PERL WARNING: Use of uninitialized value $dev in hash element at fhem.pl line 3764.
+2022.01.05 11:04:57 1: ERROR: empty name in readingsBeginUpdate
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBeginUpdate           called by (eval 337525) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:57 1: readingsUpdate(,switch_1,on) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBulkUpdate            called by (eval 337527) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:57 1: readingsUpdate(,countdown_1,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBulkUpdate            called by (eval 337529) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:57 1: readingsUpdate(,add_ele,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBulkUpdate            called by (eval 337531) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:57 1: readingsUpdate(,cur_current,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBulkUpdate            called by (eval 337533) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:57 1: readingsUpdate(,cur_power,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBulkUpdate            called by (eval 337535) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:57 1: readingsUpdate(,cur_voltage,2304) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:57 1: stacktrace:
+2022.01.05 11:04:57 1:     main::readingsBulkUpdate            called by (eval 337537) (1)
+2022.01.05 11:04:57 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:57 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:57 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:57 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:57 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:59 1: ERROR: empty name in readingsBeginUpdate
+2022.01.05 11:04:59 1: stacktrace:
+2022.01.05 11:04:59 1:     main::readingsBeginUpdate           called by (eval 337549) (1)
+2022.01.05 11:04:59 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:59 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:59 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:59 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:59 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:59 1: readingsUpdate(,switch_1,off) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:59 1: stacktrace:
+2022.01.05 11:04:59 1:     main::readingsBulkUpdate            called by (eval 337551) (1)
+2022.01.05 11:04:59 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:59 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:59 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:59 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:59 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:59 1: readingsUpdate(,countdown_1,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:59 1: stacktrace:
+2022.01.05 11:04:59 1:     main::readingsBulkUpdate            called by (eval 337553) (1)
+2022.01.05 11:04:59 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:59 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:59 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:59 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:59 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:59 1: readingsUpdate(,add_ele,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:59 1: stacktrace:
+2022.01.05 11:04:59 1:     main::readingsBulkUpdate            called by (eval 337555) (1)
+2022.01.05 11:04:59 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:59 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:59 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:59 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:59 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:04:59 1: readingsUpdate(,cur_current,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:04:59 1: stacktrace:
+2022.01.05 11:04:59 1:     main::readingsBulkUpdate            called by (eval 337557) (1)
+2022.01.05 11:04:59 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:04:59 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:04:59 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:04:59 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:04:59 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:00 1: readingsUpdate(,cur_power,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:00 1: stacktrace:
+2022.01.05 11:05:00 1:     main::readingsBulkUpdate            called by (eval 337559) (1)
+2022.01.05 11:05:00 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:00 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:00 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:00 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:00 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:00 1: readingsUpdate(,cur_voltage,2304) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:00 1: stacktrace:
+2022.01.05 11:05:00 1:     main::readingsBulkUpdate            called by (eval 337561) (1)
+2022.01.05 11:05:00 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:00 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:00 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:00 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:00 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:03 3: myCUL IT_set: funk_kette on
+2022.01.05 11:05:07 1: ERROR: empty name in readingsBeginUpdate
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBeginUpdate           called by (eval 337581) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:07 1: readingsUpdate(,switch_1,off) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBulkUpdate            called by (eval 337583) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:07 1: readingsUpdate(,countdown_1,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBulkUpdate            called by (eval 337585) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:07 1: readingsUpdate(,add_ele,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBulkUpdate            called by (eval 337587) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:07 1: readingsUpdate(,cur_current,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBulkUpdate            called by (eval 337589) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:07 1: readingsUpdate(,cur_power,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBulkUpdate            called by (eval 337591) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:07 1: readingsUpdate(,cur_voltage,2276) missed to call readingsBeginUpdate first.
+2022.01.05 11:05:07 1: stacktrace:
+2022.01.05 11:05:07 1:     main::readingsBulkUpdate            called by (eval 337593) (1)
+2022.01.05 11:05:07 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:05:07 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:05:07 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:05:07 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:05:07 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:05:40 1: RMDIR: ./restoreDir/save/2021-12-17
+2022.01.05 11:05:46 3: myCUL IT_set: funk_kette off
+2022.01.05 11:05:48 3: myCUL IT_set: funk_kette off
+2022.01.05 11:05:50 3: myCUL IT_set: funk_kette on
+2022.01.05 11:06:46 3: myCUL IT_set: funk_kette off
+2022.01.05 11:06:47 3: myCUL IT_set: funk_kette on
+2022.01.05 11:06:58 1: ERROR: empty name in readingsBeginUpdate
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBeginUpdate           called by (eval 337646) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:06:58 1: readingsUpdate(,switch_1,on) missed to call readingsBeginUpdate first.
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBulkUpdate            called by (eval 337648) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:06:58 1: readingsUpdate(,countdown_1,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBulkUpdate            called by (eval 337650) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:06:58 1: readingsUpdate(,add_ele,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBulkUpdate            called by (eval 337652) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:06:58 1: readingsUpdate(,cur_current,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBulkUpdate            called by (eval 337654) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:06:58 1: readingsUpdate(,cur_power,0) missed to call readingsBeginUpdate first.
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBulkUpdate            called by (eval 337656) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:06:58 1: readingsUpdate(,cur_voltage,2276) missed to call readingsBeginUpdate first.
+2022.01.05 11:06:58 1: stacktrace:
+2022.01.05 11:06:58 1:     main::readingsBulkUpdate            called by (eval 337658) (1)
+2022.01.05 11:06:58 1:     (eval)                              called by ./FHEM/10_BindingsIo.pm (462)
+2022.01.05 11:06:58 1:     main::BindingsIo_processMessage     called by ./FHEM/10_BindingsIo.pm (573)
+2022.01.05 11:06:58 1:     main::BindingsIo_readWebsocketMessage called by ./FHEM/10_BindingsIo.pm (221)
+2022.01.05 11:06:58 1:     main::BindingsIo_Read               called by fhem.pl (3895)
+2022.01.05 11:06:58 1:     main::CallFn                        called by fhem.pl (773)
+2022.01.05 11:26:36 1: PERL WARNING: Subroutine SteckdosenUtils_Initialize redefined at ./FHEM/99_SteckdosenUtils.pm line 8.
+2022.01.05 11:26:36 1: PERL WARNING: Subroutine funksteckdosenModusSwitch redefined at ./FHEM/99_SteckdosenUtils.pm line 13.
+2022.01.05 11:26:36 1: PERL WARNING: Subroutine wlansteckdosenModusSwitch redefined at ./FHEM/99_SteckdosenUtils.pm line 49.
+2022.01.05 11:26:55 3: funk_kette_an_aus: unknown attribute Einschaltzeit. Type 'attr funk_kette_an_aus ?' for a detailed list.
+2022.01.05 11:26:55 3: attr funk_kette_an_aus Einschaltzeit {sunset(0)} : funk_kette_an_aus: unknown attribute Einschaltzeit. Type 'attr funk_kette_an_aus ?' for a detailed list.
+2022.01.05 11:29:21 1: PERL WARNING: Subroutine wlansteckdosenModusSwitch redefined at ./FHEM/99_SteckdosenUtils.pm line 48.
+2022.01.05 11:30:43 1: PERL WARNING: Subroutine wlansteckdosenModusSwitch redefined at ./FHEM/99_SteckdosenUtils.pm line 45.
+2022.01.05 11:41:12 1: ERROR evaluating {funksteckdosenModusSwitch('b')}: Can't use string ("17:15:28") as an ARRAY ref while "strict refs" in use at ./FHEM/99_SteckdosenUtils.pm line 30.
+
+2022.01.05 11:47:37 1: PERL WARNING: Subroutine wlansteckdosenModusSwitch redefined at ./FHEM/99_SteckdosenUtils.pm line 46.
+2022.01.05 11:53:15 1: PERL WARNING: Subroutine wlansteckdosenModusSwitch redefined at ./FHEM/99_SteckdosenUtils.pm line 47.
