@@ -1651,3 +1651,82 @@
 2022.01.07 01:47:01 2: Deleting fhempy-2021-12-28.log
 2022.01.07 01:47:01 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-07.log
 2022.01.07 07:00:00 3: myCUL IT_set: funk_kette off
+2022.01.07 16:57:41 0: Server shutdown
+2022.01.07 16:57:53 1: Including fhem.cfg
+2022.01.07 16:57:54 3: WEB: port 8083 opened
+2022.01.07 16:57:54 2: eventTypes: loaded 813 lines from ./log/eventTypes.txt
+2022.01.07 16:57:54 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
+2022.01.07 16:57:54 1: readingsUpdate(shelly,state,initialized) missed to call readingsBeginUpdate first.
+2022.01.07 16:57:54 1: stacktrace:
+2022.01.07 16:57:54 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (193)
+2022.01.07 16:57:54 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.07 16:57:54 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.07 16:57:54 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.07 16:57:54 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.07 16:57:54 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.07 16:57:54 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.07 16:57:54 1: readingsUpdate(shelly,network,<html>connected to <a href="http://172.30.30.177">172.30.30.177</a></html>) missed to call readingsBeginUpdate first.
+2022.01.07 16:57:54 1: stacktrace:
+2022.01.07 16:57:54 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (194)
+2022.01.07 16:57:54 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.07 16:57:54 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.07 16:57:54 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.07 16:57:54 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.07 16:57:54 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.07 16:57:54 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.07 16:57:54 1: [Shelly_Attr] setting the mode attribute only works for model=shelly2|shelly2.5|shellyrgbw|shellybulb
+2022.01.07 16:57:55 3: BindingsIo v1.0.0
+2022.01.07 16:57:55 3: PythonBinding v1.0.0
+2022.01.07 16:57:55 3: defmod -temporary fhempy_log FileLog ./log/fhempy-%Y-%m-%d.log fakelog : Define -temporary first
+2022.01.07 16:57:55 3: PythonModule v1.0.0 (tuya_cloud)
+2022.01.07 16:57:55 3: PythonModule v1.0.0 (tuya_cloud)
+2022.01.07 16:57:55 3: Opening myCUL device /dev/ttyUSB0
+2022.01.07 16:57:55 3: Setting myCUL serial parameters to 38400,8,N,1
+2022.01.07 16:57:58 3: myCUL: Possible commands: ABCEeFfGhiKklMmRTtUVWXxYZz
+2022.01.07 16:57:58 3: myCUL device opened
+2022.01.07 16:57:58 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
+2022.01.07 16:57:58 1: readingsUpdate(infrarotheizung,state,initialized) missed to call readingsBeginUpdate first.
+2022.01.07 16:57:58 1: stacktrace:
+2022.01.07 16:57:58 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (193)
+2022.01.07 16:57:58 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.07 16:57:58 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.07 16:57:58 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.07 16:57:58 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.07 16:57:58 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.07 16:57:58 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.07 16:57:58 1: readingsUpdate(infrarotheizung,network,<html>connected to <a href="http://172.30.30.177">172.30.30.177</a></html>) missed to call readingsBeginUpdate first.
+2022.01.07 16:57:58 1: stacktrace:
+2022.01.07 16:57:58 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (194)
+2022.01.07 16:57:58 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.07 16:57:58 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.07 16:57:58 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.07 16:57:58 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.07 16:57:58 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.07 16:57:58 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.07 16:57:58 1: [Shelly_Attr] setting the mode attribute only works for model=shelly2|shelly2.5|shellyrgbw|shellybulb
+2022.01.07 16:57:58 3: TABLETUI: new ext defined infix:ftui/: dir:./www/tablet/:
+2022.01.07 16:57:58 3: Registering HTTPSRV TABLETUI for URL /ftui   and assigned link ftui/ ...
+2022.01.07 16:58:04 1: Including ./log/fhem.save
+2022.01.07 16:58:04 3: shelly: bad reading name 'overpower_0&1' (allowed chars: A-Za-z/\d_\.-)
+2022.01.07 16:58:04 3: shelly: bad reading name 'relay_0&1' (allowed chars: A-Za-z/\d_\.-)
+2022.01.07 16:58:04 3: Phytenbinding_15733: starting
+2022.01.07 16:58:04 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-07.log
+2022.01.07 16:58:04 1: usb create starting
+2022.01.07 16:58:05 3: Probing ZWDongle device /dev/serial1
+2022.01.07 16:58:05 3: Probing CUL device /dev/ttyAMA0
+2022.01.07 16:58:05 3: Probing TCM_ESP3 device /dev/ttyAMA0
+2022.01.07 16:58:05 3: Probing ZWDongle device /dev/ttyAMA0
+2022.01.07 16:58:05 3: Probing SIGNALDuino device /dev/ttyAMA0
+2022.01.07 16:58:05 3: Probing MYSENSORS device /dev/ttyAMA0
+2022.01.07 16:58:06 3: Probing ArduCounter device /dev/ttyAMA0
+2022.01.07 16:58:06 3: Probing ElsnerWS device /dev/ttyAMA0
+2022.01.07 16:58:07 3: Probing FRM device /dev/ttyAMA0
+2022.01.07 16:58:12 1: usb create end
+2022.01.07 16:58:12 0: Featurelevel: 6.1
+2022.01.07 16:58:12 0: Server started with 26 defined entities (fhem.pl:25197/2021-11-07 perl:5.032001 os:linux user:fhem pid:636)
+2022.01.07 16:58:12 3: telnetForBlockingFn_1641571092: port 45949 opened
+2022.01.07 16:58:17 3: Opening local_pybinding device ws:127.0.0.1:15733
+2022.01.07 16:58:17 3: local_pybinding device opened
+2022.01.07 17:00:07 3: myCUL IT_set: funk_kette off
+2022.01.07 17:00:48 2: AttrTemplates: got 234 entries
+2022.01.07 19:15:57 3: FHEMWEB WEB CSRF error: csrf_592069835742449 ne csrf_169827299296406 for client WEB_10.6.0.7_61373 / command jsonlist2 WLAN_Steckdose_bfadefdc3b039db8d0ttax,funk_kette,funk_kette_an_aus,wlan_kette_an_aus STATE Einschaltzeit Ausschaltzeit. For details see the csrfToken FHEMWEB attribute.
