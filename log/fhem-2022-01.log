@@ -1648,3 +1648,6 @@
 2022.01.06 17:00:00 3: myCUL IT_set: funk_kette on
 2022.01.06 17:16:33 2: wlan_kette_an_aus: set wlan_kette on-till-overnight *{sunrise(0)}: Please define wlan_kette first
 2022.01.06 18:50:36 3: FHEMWEB WEB CSRF error: csrf_314321275535011 ne csrf_592069835742449 for client WEB_10.6.0.7_55812 / command jsonlist2 WLAN_Steckdose_bfadefdc3b039db8d0ttax,funk_kette,funk_kette_an_aus,wlan_kette_an_aus STATE Einschaltzeit Ausschaltzeit. For details see the csrfToken FHEMWEB attribute.
+2022.01.07 01:47:01 2: Deleting fhempy-2021-12-28.log
+2022.01.07 01:47:01 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-07.log
+2022.01.07 07:00:00 3: myCUL IT_set: funk_kette off
