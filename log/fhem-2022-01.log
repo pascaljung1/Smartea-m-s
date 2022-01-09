@@ -1738,3 +1738,5 @@
 2022.01.08 18:30:14 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
 2022.01.08 18:30:15 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
 2022.01.08 18:30:35 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
+2022.01.09 00:33:29 2: Deleting fhempy-2021-12-30.log
+2022.01.09 00:33:29 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-09.log
