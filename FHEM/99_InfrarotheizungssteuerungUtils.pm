@@ -21,10 +21,10 @@ sub Heizungsstart ($$){
 	#kraftwerk
 	my $power = ReadingsVal("$Balkonkraftwerk","power_0","0");
 	#Schwellenwerte
-	my $schwellenwert = 4;
+	my $schwellenwert = ReadingsVal("schwelle","state","0");
 	#Zeiten in Sec
-	my $Pausenzeit = 900;
-	my $Arbeitszeit = 7200;
+	my $Pausenzeit = ReadingsVal("pausenzeit","state","0");
+	my $Arbeitszeit = ReadingsVal("arbeitszeit","state","0");
         #aktuelle Zeite
 	my $zeitstempel = convert_to_fhemtime(time());
 
@@ -60,8 +60,28 @@ sub Heizungsstart ($$){
 			}
 		}
 	}
-    #Log 1, ReadingsVal("$Balkonkraftwerk","power_0","0");
-	#Log 1, ReadingsTimestamp("$Balkonkraftwerk","power_0","0");
+
+}
+sub
+setintervaltime($)
+{
+  my ($time) = @_;
+
+    my $min = $time%60;
+    $time = $time-$min;
+    my $hour = $time/60;
+
+    if ($hour <= 9){
+        $hour = "0".$hour;
+        }
+    if ($min <= 9){
+        $min= "0".$min;
+        }
+    
+    my $fhemtime = $hour.":".$min;
+
+    fhem("set check modifyTimeSpec $fhemtime");
+    fhem("set checkinterval $fhemtime");
 }
 
 

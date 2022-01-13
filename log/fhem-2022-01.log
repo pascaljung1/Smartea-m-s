@@ -1760,3 +1760,175 @@
 2022.01.12 08:13:56 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
 2022.01.12 11:41:37 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
 2022.01.12 13:19:14 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
+2022.01.12 21:21:34 1: [Shelly_status]  has error read from http://172.30.30.177:80 timed out
+2022.01.12 21:21:58 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
+2022.01.13 03:03:18 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
+2022.01.13 03:10:05 2: Deleting fhempy-2022-01-03.log
+2022.01.13 03:10:05 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-13.log
+2022.01.13 09:08:41 1: [Shelly_status]  has error 172.30.30.177: Keine Route zum Zielrechner (113)
+2022.01.13 10:27:39 0: Server shutdown
+2022.01.13 10:27:40 1: Including fhem.cfg
+2022.01.13 10:27:41 3: WEB: port 8083 opened
+2022.01.13 10:27:41 2: eventTypes: loaded 818 lines from ./log/eventTypes.txt
+2022.01.13 10:27:41 1: [Shelly_Attr] setting the mode attribute only works for model=shelly2|shelly2.5|shellyrgbw|shellybulb
+2022.01.13 10:27:41 3: BindingsIo v1.0.0
+2022.01.13 10:27:41 3: PythonBinding v1.0.0
+2022.01.13 10:27:41 3: defmod -temporary fhempy_log FileLog ./log/fhempy-%Y-%m-%d.log fakelog : Define -temporary first
+2022.01.13 10:27:41 3: PythonModule v1.0.0 (tuya_cloud)
+2022.01.13 10:27:41 3: PythonModule v1.0.0 (tuya_cloud)
+2022.01.13 10:27:41 3: Opening myCUL device /dev/ttyUSB0
+2022.01.13 10:27:41 3: Setting myCUL serial parameters to 38400,8,N,1
+2022.01.13 10:27:44 3: myCUL: Possible commands: ABCEeFfGhiKklMmRTtUVWXxYZz
+2022.01.13 10:27:44 3: myCUL device opened
+2022.01.13 10:27:44 1: [Shelly_Attr] setting the mode attribute only works for model=shelly2|shelly2.5|shellyrgbw|shellybulb
+2022.01.13 10:27:44 3: TABLETUI: new ext defined infix:ftui/: dir:./www/tablet/:
+2022.01.13 10:27:44 3: Registering HTTPSRV TABLETUI for URL /ftui   and assigned link ftui/ ...
+2022.01.13 10:27:45 1: Including ./log/fhem.save
+2022.01.13 10:27:45 3: shelly: bad reading name 'overpower_0&1' (allowed chars: A-Za-z/\d_\.-)
+2022.01.13 10:27:45 3: shelly: bad reading name 'relay_0&1' (allowed chars: A-Za-z/\d_\.-)
+2022.01.13 10:27:45 3: Phytenbinding_15733: starting
+2022.01.13 10:27:45 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-13.log
+2022.01.13 10:27:45 1: usb create starting
+2022.01.13 10:27:45 3: Probing ZWDongle device /dev/serial1
+2022.01.13 10:27:45 3: Probing CUL device /dev/ttyAMA0
+2022.01.13 10:27:46 3: Probing TCM_ESP3 device /dev/ttyAMA0
+2022.01.13 10:27:46 3: Probing ZWDongle device /dev/ttyAMA0
+2022.01.13 10:27:46 3: Probing SIGNALDuino device /dev/ttyAMA0
+2022.01.13 10:27:46 3: Probing MYSENSORS device /dev/ttyAMA0
+2022.01.13 10:27:46 3: Probing ArduCounter device /dev/ttyAMA0
+2022.01.13 10:27:46 3: Probing ElsnerWS device /dev/ttyAMA0
+2022.01.13 10:27:47 3: Probing FRM device /dev/ttyAMA0
+2022.01.13 10:27:53 1: usb create end
+2022.01.13 10:27:53 0: Featurelevel: 6.1
+2022.01.13 10:27:53 0: Server started with 26 defined entities (fhem.pl:25197/2021-11-07 perl:5.032001 os:linux user:fhem pid:8031)
+2022.01.13 10:27:53 3: telnetForBlockingFn_1642066073: port 35827 opened
+2022.01.13 10:27:58 3: Opening local_pybinding device ws:127.0.0.1:15733
+2022.01.13 10:27:58 3: local_pybinding device opened
+2022.01.13 10:28:50 0: Server shutdown
+2022.01.13 10:29:02 1: Including fhem.cfg
+2022.01.13 10:29:03 3: WEB: port 8083 opened
+2022.01.13 10:29:03 2: eventTypes: loaded 818 lines from ./log/eventTypes.txt
+2022.01.13 10:29:04 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
+2022.01.13 10:29:04 1: readingsUpdate(shelly,state,initialized) missed to call readingsBeginUpdate first.
+2022.01.13 10:29:04 1: stacktrace:
+2022.01.13 10:29:04 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (193)
+2022.01.13 10:29:04 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.13 10:29:04 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.13 10:29:04 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.13 10:29:04 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.13 10:29:04 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.13 10:29:04 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.13 10:29:04 1: readingsUpdate(shelly,network,<html>connected to <a href="http://172.30.30.177">172.30.30.177</a></html>) missed to call readingsBeginUpdate first.
+2022.01.13 10:29:04 1: stacktrace:
+2022.01.13 10:29:04 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (194)
+2022.01.13 10:29:04 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.13 10:29:04 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.13 10:29:04 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.13 10:29:04 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.13 10:29:04 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.13 10:29:04 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.13 10:29:04 1: [Shelly_Attr] setting the mode attribute only works for model=shelly2|shelly2.5|shellyrgbw|shellybulb
+2022.01.13 10:29:04 3: BindingsIo v1.0.0
+2022.01.13 10:29:04 3: PythonBinding v1.0.0
+2022.01.13 10:29:04 3: defmod -temporary fhempy_log FileLog ./log/fhempy-%Y-%m-%d.log fakelog : Define -temporary first
+2022.01.13 10:29:04 3: PythonModule v1.0.0 (tuya_cloud)
+2022.01.13 10:29:04 3: PythonModule v1.0.0 (tuya_cloud)
+2022.01.13 10:29:04 3: Opening myCUL device /dev/ttyUSB0
+2022.01.13 10:29:04 3: Setting myCUL serial parameters to 38400,8,N,1
+2022.01.13 10:29:07 3: myCUL: Possible commands: ABCEeFfGhiKklMmRTtUVWXxYZz
+2022.01.13 10:29:07 3: myCUL device opened
+2022.01.13 10:29:07 1: [Shelly_status]  has error connect to http://172.30.30.177:80: Network is unreachable
+2022.01.13 10:29:07 1: readingsUpdate(infrarotheizung,state,initialized) missed to call readingsBeginUpdate first.
+2022.01.13 10:29:07 1: stacktrace:
+2022.01.13 10:29:07 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (193)
+2022.01.13 10:29:07 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.13 10:29:07 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.13 10:29:07 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.13 10:29:07 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.13 10:29:07 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.13 10:29:07 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.13 10:29:07 1: readingsUpdate(infrarotheizung,network,<html>connected to <a href="http://172.30.30.177">172.30.30.177</a></html>) missed to call readingsBeginUpdate first.
+2022.01.13 10:29:07 1: stacktrace:
+2022.01.13 10:29:07 1:     main::readingsBulkUpdate            called by ./FHEM/36_Shelly.pm (194)
+2022.01.13 10:29:07 1:     main::Shelly_Define                 called by fhem.pl (3895)
+2022.01.13 10:29:07 1:     main::CallFn                        called by fhem.pl (2128)
+2022.01.13 10:29:07 1:     main::CommandDefine                 called by fhem.pl (1265)
+2022.01.13 10:29:07 1:     main::AnalyzeCommand                called by fhem.pl (1116)
+2022.01.13 10:29:07 1:     main::AnalyzeCommandChain           called by fhem.pl (1403)
+2022.01.13 10:29:07 1:     main::CommandInclude                called by fhem.pl (618)
+2022.01.13 10:29:07 1: [Shelly_Attr] setting the mode attribute only works for model=shelly2|shelly2.5|shellyrgbw|shellybulb
+2022.01.13 10:29:07 3: TABLETUI: new ext defined infix:ftui/: dir:./www/tablet/:
+2022.01.13 10:29:07 3: Registering HTTPSRV TABLETUI for URL /ftui   and assigned link ftui/ ...
+2022.01.13 10:29:12 1: Including ./log/fhem.save
+2022.01.13 10:29:12 3: shelly: bad reading name 'overpower_0&1' (allowed chars: A-Za-z/\d_\.-)
+2022.01.13 10:29:12 3: shelly: bad reading name 'relay_0&1' (allowed chars: A-Za-z/\d_\.-)
+2022.01.13 10:29:12 3: Phytenbinding_15733: starting
+2022.01.13 10:29:12 3: Phytenbinding_15733: using logfile: ./log/fhempy-2022-01-13.log
+2022.01.13 10:29:12 1: usb create starting
+2022.01.13 10:29:12 3: Probing ZWDongle device /dev/serial1
+2022.01.13 10:29:13 3: Probing CUL device /dev/ttyAMA0
+2022.01.13 10:29:13 3: Probing TCM_ESP3 device /dev/ttyAMA0
+2022.01.13 10:29:13 3: Probing ZWDongle device /dev/ttyAMA0
+2022.01.13 10:29:13 3: Probing SIGNALDuino device /dev/ttyAMA0
+2022.01.13 10:29:13 3: Probing MYSENSORS device /dev/ttyAMA0
+2022.01.13 10:29:14 3: Probing ArduCounter device /dev/ttyAMA0
+2022.01.13 10:29:14 3: Probing ElsnerWS device /dev/ttyAMA0
+2022.01.13 10:29:15 3: Probing FRM device /dev/ttyAMA0
+2022.01.13 10:29:20 1: usb create end
+2022.01.13 10:29:20 0: Featurelevel: 6.1
+2022.01.13 10:29:20 0: Server started with 26 defined entities (fhem.pl:25197/2021-11-07 perl:5.032001 os:linux user:fhem pid:629)
+2022.01.13 10:29:20 3: telnetForBlockingFn_1642066160: port 42467 opened
+2022.01.13 10:29:25 3: Opening local_pybinding device ws:127.0.0.1:15733
+2022.01.13 10:29:25 3: local_pybinding device opened
+2022.01.13 10:57:56 1: RMDIR: ./restoreDir/save/2021-12-20
+2022.01.13 11:15:39 1: PERL WARNING: Subroutine InfrarotheizungssteuerungUtils_Initialize redefined at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 11.
+2022.01.13 11:16:49 1: PERL WARNING: Subroutine Heizungsstart redefined at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 17.
+2022.01.13 11:16:57 1: 300
+2022.01.13 11:17:07 1: 300
+2022.01.13 11:17:17 1: 300
+2022.01.13 11:17:27 1: 300
+2022.01.13 11:17:37 1: 300
+2022.01.13 11:17:47 1: 300
+2022.01.13 11:17:57 1: 300
+2022.01.13 11:18:07 1: 300
+2022.01.13 11:18:17 1: 900
+2022.01.13 11:18:17 1: 7200
+2022.01.13 11:18:27 1: 900
+2022.01.13 11:18:27 1: 7200
+2022.01.13 11:18:37 1: 900
+2022.01.13 11:18:37 1: 7200
+2022.01.13 11:18:47 1: 900
+2022.01.13 11:18:47 1: 7200
+2022.01.13 11:18:57 1: 900
+2022.01.13 11:18:57 1: 7200
+2022.01.13 11:19:07 1: 900
+2022.01.13 11:19:07 1: 7200
+2022.01.13 11:19:17 1: 900
+2022.01.13 11:19:17 1: 7200
+2022.01.13 12:13:31 1: [Shelly_status]  has error connect to http://172.30.30.177:80 timed out
+2022.01.13 12:33:05 1: PERL WARNING: Scalar found where operator expected at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 71, near "$time"
+2022.01.13 12:33:05 1: PERL WARNING: 	(Missing semicolon on previous line?)
+2022.01.13 12:33:05 1: PERL WARNING: Variable "$min" is not imported at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 72.
+2022.01.13 12:33:05 1: PERL WARNING: 	(Did you mean &min instead?)
+2022.01.13 12:33:05 1: PERL WARNING: Scalar found where operator expected at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 72, near "$min
+    $hour"
+2022.01.13 12:33:05 1: PERL WARNING: 	(Missing operator before $hour?)
+2022.01.13 12:33:05 1: PERL WARNING: Scalar found where operator expected at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 73, near "$fhemtime"
+2022.01.13 12:33:05 1: PERL WARNING: Variable "$min" is not imported at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 75.
+2022.01.13 12:33:05 1: PERL WARNING: Bareword found where operator expected at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 75, near "$min
+
+    fhem"
+2022.01.13 12:33:05 1: PERL WARNING: 	(Missing operator before fhem?)
+2022.01.13 12:33:31 1: PERL WARNING: "my" variable $time masks earlier declaration in same scope at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 72.
+2022.01.13 12:33:31 1: PERL WARNING: "my" variable $hour masks earlier declaration in same statement at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 73.
+2022.01.13 12:33:31 1: PERL WARNING: "my" variable $min masks earlier declaration in same statement at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 75.
+2022.01.13 12:40:24 1: PERL WARNING: Subroutine setintervaltime redefined at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 67.
+2022.01.13 12:41:20 3: set check modifyTimeSpec 1:9 : Wrong timespec 1:9: either HH:MM:SS or {perlcode}
+2022.01.13 12:45:19 1: PERL WARNING: Variable "$min" is not imported at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 76.
+2022.01.13 12:45:19 1: PERL WARNING: Variable "$min" is not imported at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 77.
+2022.01.13 12:45:19 1: PERL WARNING: "my" variable $fhemtime masks earlier declaration in same statement at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 81.
+2022.01.13 12:45:19 1: PERL WARNING: "my" variable $fhemtime masks earlier declaration in same scope at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 82.
+2022.01.13 12:47:17 1: PERL WARNING: Variable "$min" is not imported at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 78.
+2022.01.13 12:47:17 1: PERL WARNING: "my" variable $fhemtime masks earlier declaration in same statement at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 82.
+2022.01.13 12:47:17 1: PERL WARNING: "my" variable $fhemtime masks earlier declaration in same scope at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 83.
+2022.01.13 12:50:22 1: PERL WARNING: Variable "$min" is not imported at ./FHEM/99_InfrarotheizungssteuerungUtils.pm line 79.
