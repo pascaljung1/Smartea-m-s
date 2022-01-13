@@ -62,13 +62,13 @@
                 <div class="sheet">
                     <div class="row">
                         <div class="cell-40">
-                            <div data-type="switch" data-device="dummy" class="big"></div>
+                            <div data-type="switch" data-device="schaltercheck" data-get-on="active" data-get-off="inactive" data-set-on="active" data-set-off="inactive" class="big"></div>
                             <div data-type="label" class="">Ein-/Ausschalten</div>
                             
                         </div>
                         <div class="cell-60 left-align">                                   
-                            <div>Periodische Überprüfung in min:</div>
-                            <div data-type="thermostat" data-device="HM_302111_Clima"   data-get="desired-temp" data-temp="measured-temp" 	data-min="1" data-max="60"data-height="80"></div>
+				<div>Periodische Überprüfung in min</div>
+			    <div class="value horizontal" data-type="slider" data-device="checkinterval"   	data-min="1" data-max="120"></div>
                         </div>
                     </div>
                     <div class="row">
@@ -77,8 +77,9 @@
                         </div>
                         <div class="cell-75 left-align">                                   
                             <div data-type="label">Einschaltzeitpunkt Infrarotheizung in Watt:</div>
-                            <div data-type="datetimepicker"  id="datetimepicker" data-device="dummy1" class="inline">Y-m-d H:i:s</div>
+			    <div class="value horizontal" data-type="slider" data-device="schwelle"	data-min="1" data-max="1000"></div>
                         </div>
+			</div>
                     </div>
                     <div class="row">
                         <div class="cell-25">
@@ -86,8 +87,7 @@
                         </div>
                         <div class="cell-75 left-align">                                   
                             <div data-type="label" >Maximale Laufzeit in min:</div>
-                            
-                            <div data-type="thermostat" data-device="HM_302111_Clima"   data-get="desired-temp" data-temp="measured-temp" 	data-min="1" data-max="60"data-height="80"></div>
+                            <div class="value horizontal" data-type="slider" data-device="arbeitszeit"	data-min="1" data-max="120"></div>
                         
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <div class="cell-75 left-align">                                   
                             <div data-type="label" >Ausschaltdauer Infrarotheizung in min:</div>
                             
-                            <div data-type="thermostat" data-device="HM_302111_Clima"   data-get="desired-temp" data-temp="measured-temp" 	data-min="1" data-max="60"data-height="80"></div>
+                            <div calss="value horizontal" data-type="slider" data-device="pausenzeit"	data-min="1" data-max="120"></div>
                         
                         </div>
                     </div>

@@ -81,7 +81,6 @@ setintervaltime($)
     my $fhemtime = $hour.":".$min;
 
     fhem("set check modifyTimeSpec $fhemtime");
-    fhem("set checkinterval $fhemtime");
 }
 
 

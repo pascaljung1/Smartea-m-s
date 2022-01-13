@@ -79,7 +79,7 @@
                     <div class="row">
                         
                         <div class="cell">
-                            <div data-type="label"data-device="funk_kette_an_aus" data-get="Einschaltzeit" class="tall"></div>
+                            <div data-type="label"data-device="funk_kette_an_aus" data-get="einschaltzeit" class="tall"></div>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="row">
                         
                         <div class="cell">
-                            <div data-type="label" data-device="funk_kette_an_aus" data-get="Ausschaltzeit" class="tall"></div>
+                            <div data-type="label" data-device="funk_kette_an_aus" data-get="ausschaltzeit" class="tall"></div>
                         </div>
                     </div>
                 </div>
@@ -99,6 +99,14 @@
             <li data-row="2" data-col="2" data-sizey="2" data-sizex="2">
                 <header>BETRIEBSMODI - WLAN-Steckdose</header>
                 <div class="sheet">
+		    <div class="row">
+                        <div class="cell">
+                            <div class="big" data-type="label" data-device="wlan_kette_an_aus" data-pre-text="Aktuell: "
+                                data-substitution='["a","Festdefinierte Betriebszeit","b","Betriebszeit abhängig Sonnenauf/untergang","c","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","d","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]'
+                                data-get="Betriebsmodus" data-refresh="2">
+                            </div>
+                        </div>
+                    </div>
                     <div class="row">
                        
                         <div class="cell">
@@ -113,6 +121,14 @@
             <li data-row="3" data-col="2" data-sizey="2" data-sizex="2">
                 <header>BETRIEBSMODI - Funksteckdose</header>
                 <div class="sheet">
+		    <div class="row">
+                        <div class="cell">
+                            <div class="big" data-type="label" data-device="funk_kette_an_aus" data-pre-text="Aktuell: "
+                                data-substitution='["a","Festdefinierte Betriebszeit","b","Betriebszeit abhängig Sonnenauf/untergang","c","Betriebszeit abhängig Sonnenauf/untergang + Uhrzeit an Werktagen","d","Betriebszeit abhängig Sonnenauf/untergang + Anwesenheitserkennung"]'
+                                data-get="Betriebsmodus" data-refresh="2">
+                            </div>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="cell">
 			<div class="cell-50" data-type="select"
@@ -129,7 +145,7 @@
                     <div class="row">
                       
                         <div class="cell">
-                            <div data-type="label"data-device="wlan_kette_an_aus" data-get="Einschaltzeit" class="tall"></div>
+                            <div data-type="label"data-device="wlan_kette_an_aus" data-get="einschaltzeit" class="tall"></div>
                         </div>
                        
                     </div>
@@ -141,7 +157,7 @@
                     <div class="row">
                        
                         <div class="cell">
-                            <div data-type="label" data-device="wlan_kette_an_aus" data-get="Ausschaltzeit" class="tall"></div>
+                            <div data-type="label" data-device="wlan_kette_an_aus" data-get="ausschaltzeit" class="tall"></div>
                         </div>
                     </div>
                 </div>
