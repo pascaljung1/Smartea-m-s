@@ -1,5 +1,41 @@
 # Add changes at the top of the list. Keep it in ASCII, and 80-char wide.
 # Do not insert empty lines here, update check depends on it.
+ - change:  50_Signalbot: new favorite feature and bug fixes
+ - change:  93_DbRep: usage of placeholder §device§, §reading§ in sqlCmd
+                      changed (refer to commandRef)
+ - bugfix:  71_COE_Node: fix for negative temparatures by thor3
+ - bugfix:  47_OBIS: remove control characters in strings
+ - feature: 10_KNX: KNX_scan Utility function
+ - bugfix:  82_LGTV_WebOS: rewrite and change code, fix bugs of older version
+ - bugfix:  88_HMCCU: Bugfixes and improvements
+ - bugfix:  73_.*Calculator: bugfix - Correct unit for SymcCounter
+ - bugfix:  82_LGTV_WebOS: fix net socket flapping
+ - change:  93_DbLog: standard unit assignment for readings beginning with 
+                      'temperature' removed, forum:#125087
+ - feature: 36_ShellyMonitor: support for readings of Shelly TRV
+ - feature: 82_LGTV_WebOS: add weibu and change part's of code
+ - bugfix:  93_DbLog: logging negative temperature of Type FBDECT
+                      forum:#125005 
+ - change:  93_DbRep: some changes according to forum:#124987
+ - bugfix:  88_HMCCU: Fixed ENUM conversion bug
+ - feature: 31_HUEDevice: allow json in set commands for lights.
+                          see https://forum.fhem.de/index.php/topic,11020
+                          posting #1864 and #1866
+ - feature: 73_NUKIBridge: 74_NUKIDevice: add all new features of API Version
+                      1.13
+ - bugfix:  88_HMCCU: Several improvements and bug fixes
+ - feature: 93_DbRep: Pragma query possible in sqlCmd, new getter initData
+                      minor fixes
+ - bugfix:  88_HMCCU: Several improvements and bug fixes
+ - bugfix:  93_DbRep: fix some problems with reduceLog 
+                     (Forum: #/topic,53584.msg1177799.html#msg1177799
+ - feature: 98_weekprofile: support HMCCUCHN with CCU
+ - change:  22_HOMEMODE: adapt new help anchors
+ - change:  77_UWZ: support for https connection
+ - feature: 73_NUKIBridge 74_NUKIDevice: new modul structure and rewrite code,
+                                add support for new smartlock 3.0 and 3.0 pro,
+                                version 2.0 pre-release
+ - feature: 93_DbRep: diffValue - recognize if diff is 0 or no value available
  - change:  72_FB_CALLLIST: reading "count-missed-calls" only counts incoming
                             missed calls
  - bugfix:  88_HMCCU: Fixed device detection bug

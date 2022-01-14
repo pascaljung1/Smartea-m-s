@@ -23,12 +23,13 @@
 #
 ################################################################
 
-# $Id: 42_SMARTMON.pm 23503 2021-01-09 22:38:50Z hexenmeister $
+# $Id: 42_SMARTMON.pm 25417 2022-01-04 16:13:20Z hexenmeister $
 
 package main;
 
 use strict;
 use warnings;
+use JSON;
 use Data::Dumper;
 
 my $VERSION = "0.9.9";

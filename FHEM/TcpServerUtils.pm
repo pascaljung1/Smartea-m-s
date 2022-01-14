@@ -1,5 +1,5 @@
 ##############################################
-# $Id: TcpServerUtils.pm 23472 2021-01-04 19:56:38Z rudolfkoenig $
+# $Id: TcpServerUtils.pm 25358 2021-12-20 10:16:10Z rudolfkoenig $
 
 package main;
 use strict;
@@ -188,8 +188,31 @@ TcpServer_SetSSL($)
       Log 1, "$name: failed to create certreq.txt: $!, falling back to HTTP";
       return;
     }
-    print FH "[ req ]\nprompt = no\ndistinguished_name = dn\n\n".
-             "[ dn ]\nC = DE\nO = FHEM\nCN = home.localhost\n\n";
+    my $hostname = `hostname`;
+    chomp($hostname);
+    print FH << "EOF";
+[ req ]
+prompt = no
+distinguished_name = dn
+x509_extensions = ext
+
+[ dn ]
+CN = $hostname
+O = FHEM
+OU = localhost
+
+[ ext ]
+basicConstraints=CA:TRUE
+extendedKeyUsage = serverAuth
+subjectAltName=\@san
+
+[san]
+DNS.1=localhost
+DNS.2=$hostname
+IP.1=127.0.0.1
+IP.2=::1
+EOF
+
     close(FH);
 
     my $cmd = "openssl req -new -x509 -days 3650 -nodes -newkey rsa:2048 ".

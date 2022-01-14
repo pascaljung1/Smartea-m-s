@@ -1,5 +1,5 @@
 ##############################################
-# $Id: 01_FHEMWEB.pm 25189 2021-11-06 10:25:54Z rudolfkoenig $
+# $Id: 01_FHEMWEB.pm 25368 2021-12-23 09:29:02Z rudolfkoenig $
 package main;
 
 use strict;
@@ -2304,6 +2304,7 @@ FW_select($$$$$@)
     next if($processed{$v});
     if($typeHash) {
       my $newType = $typeHash->{$v};
+      $newType =~ s/^#//; #124538, see also getAllAttr
       if($newType ne $oldType) {
         $s .= "</optgroup>" if($oldType);
         $s .= "<optgroup label='$newType'>" if($newType);
@@ -2722,7 +2723,7 @@ FW_makeImage(@)
       $data =~ s/[\r\n]/ /g;
       $data =~ s/ *$//g;
       $data =~ s/<svg/<svg class="$class" data-txt="$txt"/; #52967
-      if($name =~ m/@([^:]*)(:(.*))?$/) {
+      if($name =~ m/@([^:@]*)([:@](.*))?$/) {
         my ($fill, $stroke) = ($1, $3);
         if($fill ne "") {
           $fill = "#$fill" if($fill =~ m/^([A-F0-9]{6})$/);
@@ -3810,8 +3811,9 @@ FW_log($$)
                               off:control_building_filled:278727
         </ul>
         If the cmd is noFhemwebLink, then no HTML-link will be generated, i.e.
-        nothing will happen when clicking on the icon or text.
-
+        nothing will happen when clicking on the icon or text.<br>
+        Note: if you need stroke coloring in the devStateIcon, you have to use
+        the alternative @fill@stroke syntax.
         </ul>
         Second form:<br>
         <ul>
@@ -4582,6 +4584,9 @@ FW_log($$)
         </ul>
         Falls cmd noFhemwebLink ist, dann wird kein HTML-Link generiert, d.h.
         es passiert nichts, wenn man auf das Icon/Text klickt.
+        Achtung: falls im devStateIcons das &Auml;ndern der Stiftfarbe
+        ben&oumltigt wird, dann ist die alternative @fill@stroke Syntax zu
+        verwenden.
         </ul>
         Zweite Variante:<br>
         <ul>

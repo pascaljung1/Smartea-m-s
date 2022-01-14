@@ -1,5 +1,5 @@
 ##############################################
-# $Id: 00_MQTT2_SERVER.pm 25277 2021-11-30 09:48:44Z rudolfkoenig $
+# $Id: 00_MQTT2_SERVER.pm 25416 2022-01-04 13:40:45Z rudolfkoenig $
 package main;
 
 use strict;
@@ -33,6 +33,7 @@ MQTT2_SERVER_Initialize($)
   no warnings 'qw';
   my @attrList = qw(
     SSL:0,1
+    allowfrom
     autocreate:no,simple,complex
     clientId
     clientOrder
@@ -240,11 +241,12 @@ sub
 MQTT2_SERVER_out($$$;$)
 {
   my ($hash, $msg, $dump, $callback) = @_;
-  addToWritebuffer($hash, $msg, $callback);
+  addToWritebuffer($hash, $msg, $callback) if(defined($hash->{FD}));
   if($dump) {
     my $cpt = $cptype{ord(substr($msg,0,1)) >> 4};
     $msg =~ s/([^ -~])/"(".ord($1).")"/ge;
-    Log3 $dump, 5, "out: $cpt: $msg";
+    my $fd = defined($hash->{FD}) ? $hash->{FD} : "NoFd";
+    Log3 $dump, 5, "out\@$fd $cpt: $msg";
   }
 }
 
@@ -311,7 +313,8 @@ MQTT2_SERVER_Read($@)
   if($dump) {
     my $msg = substr($hash->{BUF}, 0, $off+$tlen);
     $msg =~ s/([^ -~])/"(".ord($1).")"/ge;
-    Log3 $sname, 5, "in:  $cpt: $msg";
+    my $fd = defined($hash->{FD}) ? $hash->{FD} : "NoFd";
+    Log3 $sname, 5, "in\@$fd $cpt: $msg";
   }
 
   $hash->{BUF} = substr($hash->{BUF}, $tlen+$off);
@@ -334,7 +337,8 @@ MQTT2_SERVER_Read($@)
     $hash->{protoNum}  = unpack('C*', substr($pl,$off++,1)); # 3 or 4
     $hash->{cflags}    = unpack('C*', substr($pl,$off++,1));
     $hash->{keepalive} = unpack('n', substr($pl, $off, 2)); $off += 2;
-    ($hash->{cid}, $off) = MQTT2_SERVER_getStr($hash, $pl, $off);
+    my $cid;
+    ($cid, $off) = MQTT2_SERVER_getStr($hash, $pl, $off);
 
     if($hash->{protoNum} > 4) {
       return MQTT2_SERVER_out($hash, pack("C*", 0x20, 2, 0, 1), $dump,
@@ -370,6 +374,7 @@ MQTT2_SERVER_Read($@)
 
     $hash->{subscriptions} = {};
     $defs{$sname}{clients}{$cname} = 1;
+    $hash->{cid} = $cid; #124699
 
     Log3 $sname, 4, "  $cname cid:$hash->{cid} $cpt V:$hash->{protoNum} $desc";
     MQTT2_SERVER_out($hash, pack("C*", 0x20, 2, 0, 0), $dump); # CONNACK+OK
@@ -506,7 +511,8 @@ MQTT2_SERVER_doPublish($$$$;$)
     $ac = $ac eq "1" ? "simple" : ($ac eq "0" ? "no" : $ac); # backward comp.
 
     $cid = AttrVal($serverName, "clientId", $cid);
-    Dispatch($server, "autocreate=$ac\0$cid\0$tp\0$val", undef, $ac eq "no"); 
+    my %addvals = (CONN => $src->{NAME});
+    Dispatch($server, "autocreate=$ac\0$cid\0$tp\0$val",\%addvals, $ac eq "no"); 
     my $re = AttrVal($serverName, "rawEvents", undef);
     DoTrigger($server->{NAME}, "$tp:$val") if($re && $tp =~ m/$re/);
   }
@@ -667,6 +673,22 @@ MQTT2_SERVER_ReadDebug($$)
   <b>Attributes</b>
   <ul>
 
+    <li><a href="#allowfrom">allowfrom</a>
+      </li><br>
+
+    <a id="MQTT2_SERVER-attr-autocreate"></a>
+    <li>autocreate [no|simple|complex]<br>
+      MQTT2_DEVICES will be automatically created upon receiving an
+      unknown message. Set this value to no to disable autocreating, the
+      default is simple.<br>
+      With simple the one-argument version of json2nameValue is added:
+      json2nameValue($EVENT), with complex the full version:
+      json2nameValue($EVENT, 'SENSOR_', $JSONMAP). Which one is better depends
+      on the attached devices and on the personal taste, and it is only
+      relevant for json payload. For non-json payload there is no difference
+      between simple and complex.
+      </li><br>
+
     <a id="MQTT2_SERVER-attr-clientId"></a>
     <li>clientId &lt;name&gt;<br>
       set the MQTT clientId for all connections, for setups with clients
@@ -723,7 +745,8 @@ MQTT2_SERVER_ReadDebug($$)
 
     <a id="MQTT2_SERVER-attr-SSL"></a>
     <li>SSL<br>
-      Enable SSL (i.e. TLS).
+      Enable SSL (i.e. TLS). Note: after deleting this attribute FHEM must be
+      restarted.
       </li><br>
 
     <li>sslVersion<br>
@@ -734,19 +757,6 @@ MQTT2_SERVER_ReadDebug($$)
        Set the prefix for the SSL certificate, default is certs/server-, see
        also the SSL attribute.
        </li><br>
-
-    <a id="MQTT2_SERVER-attr-autocreate"></a>
-    <li>autocreate [no|simple|complex]<br>
-      MQTT2_DEVICES will be automatically created upon receiving an
-      unknown message. Set this value to no to disable autocreating, the
-      default is simple.<br>
-      With simple the one-argument version of json2nameValue is added:
-      json2nameValue($EVENT), with complex the full version:
-      json2nameValue($EVENT, 'SENSOR_', $JSONMAP). Which one is better depends
-      on the attached devices and on the personal taste, and it is only
-      relevant for json payload. For non-json payload there is no difference
-      between simple and complex.
-      </li><br>
 
   </ul>
 </ul>

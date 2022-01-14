@@ -1,6 +1,6 @@
 ##############################################
 ##############################################
-# $Id: 98_HMinfo.pm 25159 2021-10-30 17:37:57Z martinp876 $
+# $Id: 98_HMinfo.pm 25293 2021-12-04 17:37:15Z martinp876 $
 package main;
 use strict;
 use warnings;
@@ -432,10 +432,14 @@ sub HMinfo_status($){##########################################################
 
   my %tmp; # remove duplicates
   $hash->{iI_HM_IOdevices} = "";
-  $tmp{ReadingsVal($_,"cond",
-       InternalVal($_,"STATE","unknown"))}{$_} = 1 foreach( @IOdev);
-  foreach my $IOstat (sort keys %tmp){
-    $hash->{iI_HM_IOdevices} .= "$IOstat: ".join(",",sort keys %{$tmp{$IOstat}}).";";
+  
+  
+  $tmp{InternalVal($_,"owner_CCU","noVccu")}{ReadingsVal($_,"cond",InternalVal($_,"STATE","unknown"))}{$_} = 1 foreach(@IOdev);
+  foreach my $vccu (sort keys %tmp){
+    $hash->{iI_HM_IOdevices} .= $hash->{iI_HM_IOdevices} eq "" ? "$vccu>": " $vccu>";
+    foreach my $IOstat (sort keys %{$tmp{$vccu}}){
+      $hash->{iI_HM_IOdevices} .= "$IOstat:".join(",",sort keys %{$tmp{$vccu}{$IOstat}}).";";
+    }
   }
 
   # ------- what about protocol events ------
@@ -2905,6 +2909,8 @@ sub HMinfo_bpPost($) {#bp finished ############################################
 
   my @entityChk;
   my ($test,$testId,$ent,$issue) = ("","","","");
+  return if(!$ret);# nothing to post
+  
   foreach my $eLine (split("-ret-",$ret)){
     next if($eLine eq "");
     if($eLine =~m/^ (id....)$/){

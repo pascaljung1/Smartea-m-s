@@ -1,56 +1,114 @@
-8 Kann_bearbeitet_werden state: off
-7 Kann_bearbeitet_werden state: on
-26 Phytenbinding_15733 fhempy: running FHEM/bindings/python/bin/fhempy
-3 Phytenbinding_15733 fhempy: stopped
+2 Abfallkalender calname: Abfallkalender Stuttgart
+2 Abfallkalender lastUpdate: .*
+2 Abfallkalender nextUpdate: .*
+2 Abfallkalender nextWakeup: .*
+1 Abfallkalender state: initialized
+2 Abfallkalender state: parsed
+2 Abfallkalender state: retrieved
+2 Abfallkalender state: triggered
+10 Kann_bearbeitet_werden state: off
+9 Kann_bearbeitet_werden state: on
+1 MobileAlerts LAST_ERROR: gethostbyname measurements.mobile-alerts.eu failed
+1115 MobileAlerts LAST_ERROR: read from https://measurements.mobile-alerts.eu:.* timed out
+335 MobileAlerts Windböe: .*
+335 MobileAlerts Windgeschwindigkeit: .*
+3 MobileAlerts reread
+1 Muelltonnen .*
+1 Muelltonnen Altpapier_date: .*
+1 Muelltonnen Altpapier_days: .*
+1 Muelltonnen Altpapier_description:
+1 Muelltonnen Altpapier_location: Stuttgart
+1 Muelltonnen Altpapier_text: Altpapier
+1 Muelltonnen Altpapier_uid: Ical7376944099598c184cf8992404d62c68
+1 Muelltonnen Altpapier_weekday: Donnerstag
+1 Muelltonnen Biomuell_date: .*
+1 Muelltonnen Biomuell_days: .*
+1 Muelltonnen Biomuell_description:
+1 Muelltonnen Biomuell_location: Stuttgart
+1 Muelltonnen Biomuell_text: Biomüll
+1 Muelltonnen Biomuell_uid: Icala72e7f7cdfe7033f56de8bcd1bb57630
+1 Muelltonnen Biomuell_weekday: Mittwoch
+1 Muelltonnen GelberSack_date: .*
+1 Muelltonnen GelberSack_days: .*
+1 Muelltonnen GelberSack_description:
+1 Muelltonnen GelberSack_location: Stuttgart
+1 Muelltonnen GelberSack_text: Gelber Sack
+1 Muelltonnen GelberSack_uid: Ical2a6f7737c22036eab7d9f01077820b4f
+1 Muelltonnen GelberSack_weekday: Mittwoch
+1 Muelltonnen Restmuell_date: .*
+1 Muelltonnen Restmuell_days: .*
+1 Muelltonnen Restmuell_description:
+1 Muelltonnen Restmuell_location: Stuttgart
+1 Muelltonnen Restmuell_text: Restmüll
+1 Muelltonnen Restmuell_uid: Ical4db8f1f8c7a0c9a944129c9fe914da8e
+1 Muelltonnen Restmuell_weekday: Donnerstag
+1 Muelltonnen next: Altpapier_20
+3 Muelltonnen next: Biomuell_5
+4 Muelltonnen next_date: .*
+4 Muelltonnen next_days: .*
+4 Muelltonnen next_description:
+4 Muelltonnen next_location: Stuttgart
+1 Muelltonnen next_text: Altpapier
+3 Muelltonnen next_text: Biomüll
+1 Muelltonnen next_weekday: Donnerstag
+3 Muelltonnen next_weekday: Mittwoch
+3 Muelltonnen state: .*
+29 Phytenbinding_15733 fhempy: running FHEM/bindings/python/bin/fhempy
+4 Phytenbinding_15733 fhempy: stopped
 1 Phytenbinding_15733 fhempy: stopping
 1 Phytenbinding_15733 state: active
 1 WEB JS:location.href='/fhem?detail=m2s'
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax active_time: .*
-479 WLAN_Steckdose_bfadefdc3b039db8d0ttax add_ele: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax biz_type: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax category: cz
-479 WLAN_Steckdose_bfadefdc3b039db8d0ttax countdown_1: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax create_time: .*
-479 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_current: .*
-479 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_power: .*
-479 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_voltage: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax id: bfadefdc3b039db8d0ttax
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax ip: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax lat: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax local_key: 6462e67f1fad3677
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax lon: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax name: WLAN Steckdose
-8 WLAN_Steckdose_bfadefdc3b039db8d0ttax off
-7 WLAN_Steckdose_bfadefdc3b039db8d0ttax on
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax online: on
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax owner_id: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_id: fbvia0apnlnattcy
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_name: Smart Socket-16A
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax active_time: .*
+509 WLAN_Steckdose_bfadefdc3b039db8d0ttax add_ele: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax biz_type: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax category: cz
+509 WLAN_Steckdose_bfadefdc3b039db8d0ttax countdown_1: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax create_time: .*
+509 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_current: .*
+509 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_power: .*
+509 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_voltage: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax id: bfadefdc3b039db8d0ttax
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax ip: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax lat: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax local_key: 6462e67f1fad3677
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax lon: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax name: WLAN Steckdose
+12 WLAN_Steckdose_bfadefdc3b039db8d0ttax off
+13 WLAN_Steckdose_bfadefdc3b039db8d0ttax on
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax online: on
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax owner_id: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_id: fbvia0apnlnattcy
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_name: Smart Socket-16A
+1 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Installation finished. Please wait...
+1 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Installing updates...
 2 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Python server offline
-469 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: off
-10 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: on
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: ready
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax sub: off
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax time_zone: +.*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax uid: eu1637938451839MThWC
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax update_time: .*
-21 WLAN_Steckdose_bfadefdc3b039db8d0ttax uuid: bdf36574c645ebc7
-87699 check state: Next: .*
-5 check state: inactive
-10 checkKraftwerk state: Next: .*
-1 checkKraftwerk state: inactive
-5 funk_kette state: off
-2 funk_kette state: on
-9 funk_kette_an_aus cmd: .*
-3 funk_kette_an_aus cmd_event: timer_1
+494 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: off
+15 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: on
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: ready
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax sub: off
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax time_zone: +.*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax uid: eu1637938451839MThWC
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax update_time: .*
+24 WLAN_Steckdose_bfadefdc3b039db8d0ttax uuid: bdf36574c645ebc7
+9 arbeitszeit state: .*
+88811 check state: Next: .*
+16 check state: inactive
+20 checkinterval state: .*
+7 funk_kette state: off
+4 funk_kette state: on
+3 funk_kette_an_aus ausschaltzeit: .*
+11 funk_kette_an_aus cmd: .*
+4 funk_kette_an_aus cmd_event: timer_1
 1 funk_kette_an_aus cmd_event: timer_2
 1 funk_kette_an_aus cmd_event: timer_3
-5 funk_kette_an_aus cmd_nr: .*
-4 funk_kette_an_aus mode: enabled
-2 funk_kette_an_aus state: cmd_1
+6 funk_kette_an_aus cmd_nr: .*
+3 funk_kette_an_aus einschaltzeit: .*
+6 funk_kette_an_aus mode: enabled
+3 funk_kette_an_aus state: cmd_1
 1 funk_kette_an_aus state: cmd_2
 2 funk_kette_an_aus state: cmd_3
-4 funk_kette_an_aus state: initialized
+1 funk_kette_an_aus state: initialize
+5 funk_kette_an_aus state: initialized
 1 funk_kette_till state: Next: .*
 2 funksteckdose dim: dimup
 7 funksteckdose dim: off
@@ -68,32 +126,36 @@
 1 iPhone4 state: timeout
 1 infrarotheizung cloud: disabled
 1 infrarotheizung config: mode=relay [channel s]
-312 infrarotheizung energy_0: .*
-225 infrarotheizung energy_1: .*
+325 infrarotheizung energy_0: .*
+237 infrarotheizung energy_1: .*
 4 infrarotheizung firmware: v1.*
 5 infrarotheizung firmware: v1.*)
-5978 infrarotheizung network: not connected
-85027 infrarotheizung off
-290 infrarotheizung on
+5980 infrarotheizung network: not connected
+86109 infrarotheizung off
+298 infrarotheizung on
 1 infrarotheizung overpower_0: .*
-63124 infrarotheizung overpower_1: .*
-593 infrarotheizung power_0: .*
-447 infrarotheizung power_1: .*
-12 infrarotheizung relay_0: off
-10 infrarotheizung relay_0: on
-62835 infrarotheizung relay_1: off
-289 infrarotheizung relay_1: on
-28183 infrarotheizung state: Error
-63144 infrarotheizung state: OK
-19 infrarotheizung state: initialized
-23 local_pybinding CONNECTED
-3 local_pybinding DISCONNECTED
+64212 infrarotheizung overpower_1: .*
+614 infrarotheizung power_0: .*
+469 infrarotheizung power_1: .*
+16 infrarotheizung relay_0: off
+14 infrarotheizung relay_0: on
+63915 infrarotheizung relay_1: off
+297 infrarotheizung relay_1: on
+28188 infrarotheizung state: Error
+64234 infrarotheizung state: OK
+20 infrarotheizung state: initialized
+26 local_pybinding CONNECTED
+4 local_pybinding DISCONNECTED
 3 local_pybinding state: Python server offline
 1 local_pybinding update
-23 local_pybinding version: .*
-1 local_pybinding version: update finished...please wait
-1 local_pybinding version: update started...
-27 myCUL CONNECTED
+26 local_pybinding version: .*
+2 local_pybinding version: update finished...please wait
+2 local_pybinding version: update started...
+1 luftMax state: .*
+1 luftMax state: desired-temp .*
+1 luftMin state: .*
+1 luftMin state: desired-temp .*
+29 myCUL CONNECTED
 4 myCUL DISCONNECTED
 1 myCUL UNKNOWNCODE KFC
 1 myCUL UNKNOWNCODE i99a699a65555559da
@@ -116,8 +178,8 @@
 2 myCUL raw: is0000001111F0
 4 myCUL raw: is000000FFFF00
 21 myCUL raw: is000000FFFF0F
-42 myCUL raw: is000000FFFFF0
-18 myCUL raw: is000000FFFFFF
+44 myCUL raw: is000000FFFFF0
+20 myCUL raw: is000000FFFFFF
 8 myCUL raw: is0FFFFF0FFF0F
 26 myCUL raw: is0FFFFF0FFFF0
 7 myCUL raw: is0FFFFF0FFFFF
@@ -125,33 +187,66 @@
 2 myCUL raw: isF00000F000FF
 8 myCUL state: Initialized
 2 myCUL version: V .* nanoCUL433
+7 optimiertesHeizen state: active
+9 optimiertesHeizen state: inactive
+1 optimiertesHeizen state: off
+1 optimiertesHeizen state: on
+9 pausenzeit state: .*
+8 schaltercheck state: active
+8 schaltercheck state: inactive
+4 schaltercheck state: off
+6 schaltercheck state: on
+11 schwelle state: .*
+6 schwelle state: desired-temp .*
+1 schwelle state: set schwelle state .*
+2 schwelle state: state .*
+1 sensorHobbyraum reread
 1 shelly cloud: disabled
 1 shelly config: mode=relay [channel s]
-321 shelly energy_0: .*
-227 shelly energy_1: .*
+334 shelly energy_0: .*
+239 shelly energy_1: .*
 2 shelly firmware: v1.*
 3 shelly firmware: v1.*)
-14457 shelly network: not connected
-25 shelly off
+14461 shelly network: not connected
+33 shelly off
 2 shelly off .*
-23 shelly on
+33 shelly on
 2 shelly on .*
 19 shelly overpower_0&.*
-31 shelly overpower_0: .*
+48 shelly overpower_0: .*
 3 shelly overpower_1: .*
-416 shelly power_0: .*
-232 shelly power_1: .*
+447 shelly power_0: .*
+250 shelly power_1: .*
+1 shelly relay_0 off
+1 shelly relay_0 on
 10 shelly relay_0&.*: off
 9 shelly relay_0&.*: on
-25 shelly relay_0: off
-23 shelly relay_0: on
-15 shelly relay_1: off
-16 shelly relay_1: on
-14470 shelly state: Error
-90 shelly state: OK
-22 shelly state: initialized
-21 tuya_cloud_connector1 state: connected
-21 tuya_cloud_connector1 state: connecting
+32 shelly relay_0: off
+33 shelly relay_0: on
+18 shelly relay_1: off
+19 shelly relay_1: on
+14476 shelly state: Error
+112 shelly state: OK
+23 shelly state: initialized
+1 tempMax state: .*
+2 tempMin state: .*
+10 triggerLuftMax state: active
+9 triggerLuftMax state: inactive
+10 triggerLuftMin state: active
+9 triggerLuftMin state: inactive
+1 triggerNorHeiz state: active
+1 triggerOptiHeiz state: active
+1 triggerSchalter state: active
+1 triggerSensorHobbyraum state: active
+10 triggerTempMax state: active
+9 triggerTempMax state: inactive
+10 triggerTempMin state: active
+9 triggerTempMin state: inactive
+2 triggerTime state: active
+1 tuya_cloud_connector1 state: Installation finished. Please wait...
+1 tuya_cloud_connector1 state: Installing updates...
+24 tuya_cloud_connector1 state: connected
+24 tuya_cloud_connector1 state: connecting
 1 wetter cloudBaseMax: .*
 1 wetter cloudBaseMin: .*
 1 wetter dewPoint: -.*
@@ -810,9 +905,12 @@
 1 wetter weather: stark bewölkt
 1 wetter wind: .*
 1 wetter windDir: .*
-3 wlan_kette_an_aus cmd: .*
-1 wlan_kette_an_aus cmd_event: timer_1
-1 wlan_kette_an_aus cmd_nr: .*
-2 wlan_kette_an_aus mode: enabled
-1 wlan_kette_an_aus state: cmd_1
-2 wlan_kette_an_aus state: initialized
+3 wlan_kette_an_aus ausschaltzeit: .*
+5 wlan_kette_an_aus cmd: .*
+2 wlan_kette_an_aus cmd_event: timer_1
+2 wlan_kette_an_aus cmd_nr: .*
+3 wlan_kette_an_aus einschaltzeit: .*
+4 wlan_kette_an_aus mode: enabled
+2 wlan_kette_an_aus state: cmd_1
+1 wlan_kette_an_aus state: initialize
+3 wlan_kette_an_aus state: initialized

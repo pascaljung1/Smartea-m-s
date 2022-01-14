@@ -83,6 +83,17 @@ setintervaltime($)
     fhem("set check modifyTimeSpec $fhemtime");
 }
 
+sub OnOffSolarHeizen () {
+	
+	my $status = ReadingsVal("schaltercheck","state","0");
+	
+	if($status eq "active"){
+			fhem("set optimiertesHeizen inactive");
+                        fhem("set check active");
+		}else{
+                        fhem("set check inactive");
+                }
+}
 
 
 1;

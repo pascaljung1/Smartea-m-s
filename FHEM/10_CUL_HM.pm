@@ -1,7 +1,7 @@
 ##############################################
 ##############################################
 # CUL HomeMatic handler
-# $Id: 10_CUL_HM.pm 25272 2021-11-28 12:34:00Z martinp876 $
+# $Id: 10_CUL_HM.pm 25298 2021-12-05 08:23:08Z martinp876 $
 
 package main;
 
@@ -2446,7 +2446,7 @@ sub CUL_HM_Parse($$) {#########################################################
       }
       elsif(defined $mI[5]){
         $ctrlMode   = hex($mI[5]);
-        $bTime      = (($ctrlMode       ) & 0x3f)." min" if($ctrlMode == 3);#message with boost
+        $bTime      = (($ctrlMode       ) & 0x3f)." min" if(($ctrlMode &0xc0) == 0xc0);#message with boost
 #        $uk0        = ($ctrlMode       ) & 0x3f ;#unknown
         $ctrlMode   =  ($ctrlMode   >> 6) & 0x3  ;
       }
@@ -5478,7 +5478,9 @@ sub CUL_HM_Set($@) {#+++++++++++++++++ set command+++++++++++++++++++++++++++++
   elsif($cmd eq "tplDel") { ###################################################
     return "template missing" if (!defined $a[2]);
     my ($p,$t) = split(">",$a[2]);
-    HMinfo_templateDel($name,$t,$p) if (eval "defined(&HMinfo_templateDel)");
+    if (defined &HMinfo_templateDel){
+      HMinfo_templateDel($name,$t,$p) if (eval "defined(&HMinfo_templateDel)");
+    }
     return;
   }
   elsif($cmd eq "virtual") { ##################################################
@@ -7519,7 +7521,10 @@ sub CUL_HM_Set($@) {#+++++++++++++++++ set command+++++++++++++++++++++++++++++
     return "no HMinfo defined" if (!defined $defs{$hm});
 
     my @par =  map{$params{$_}} sort keys%params;
-    my $ret = HMinfo_SetFn($defs{$hm},$hm,"templateSet",$name,$tpl,"$tPeer$tTyp",@par);
+    my $ret = "not supported w/o HMinfo";
+    if (defined &HMinfo_SetFn){
+      $ret = HMinfo_SetFn($defs{$hm},$hm,"templateSet",$name,$tpl,"$tPeer$tTyp",@par);
+    }
     return $ret;
   }
   elsif($cmd =~ m/tplPara(..)(.)_.*/) { #######################################
@@ -7538,7 +7543,10 @@ sub CUL_HM_Set($@) {#+++++++++++++++++ set command+++++++++++++++++++++++++++++
       $pv[$pNo] = $a[2];
     }
 
-    my $ret = HMinfo_SetFn($defs{hm},$hm,"templateSet",$name,$tn,$p,@pv);
+    my $ret = "not supported w/o HMinfo";
+    if (defined &HMinfo_SetFn){
+      $ret = HMinfo_SetFn($defs{hm},$hm,"templateSet",$name,$tn,$p,@pv);
+    }
     return $ret;
   }
 

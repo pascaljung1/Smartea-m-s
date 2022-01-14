@@ -9,7 +9,9 @@ main,
 main {
     overflow: auto;
 }
-
+#popup{
+	width:450px;
+}
 body {
     background-color: #000000;
     background-size: 100%;

@@ -1,5 +1,5 @@
 ##############################################
-# $Id: SetExtensions.pm 23300 2020-12-06 11:36:24Z rudolfkoenig $
+# $Id: SetExtensions.pm 25286 2021-12-03 10:16:56Z rudolfkoenig $
 
 package main;
 use strict;
@@ -93,6 +93,9 @@ SetExtensions($$@)
     $offCmd = getReplCmd($name, "off") if(!$offCmd && $onCmd);
     $fixedIt = 1;
   }
+
+  # Forum #124505
+  $list =~ s/:\{([^ ]+)\}/$cmdFromAnalyze=$1; ":".(eval $1)/ge if($cmd eq "?");
 
   if(!$onCmd || !$offCmd) { # No extension
     return AttrTemplate_Set($hash, $list, $name, $cmd, @a);

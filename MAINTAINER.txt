@@ -260,6 +260,7 @@ FHEM/46_TRX_LIGHT.pm         KernSani             RFXTRX
 FHEM/46_TRX_SECURITY.pm      KernSani             RFXTRX
 FHEM/46_TRX_WEATHER.pm       KernSani             RFXTRX
 FHEM/47_OBIS.pm              gvzdus               Sonstige Systeme
+FHEM/48_BlinkCamera.pm       viegener             Sonstige Systeme
 FHEM/48_MieleAtHome.pm       choenig              Sonstige Systeme
 FHEM/49_Arlo.pm              maluk                Sonstige Systeme
 FHEM/49_IPCAM.pm             delmar               Sonstiges
@@ -412,6 +413,7 @@ FHEM/75_msgConfig.pm         loredo               Automatisierung
 FHEM/76_msgDialog.pm         igami                Frontends/Sprachsteuerung
 FHEM/76_MSGFile.pm           gandy                Automatisierung
 FHEM/76_MSGMail.pm           gandy                Automatisierung
+FHEM/76_SMAEVCharger.pm      jual                 Sonstige Systeme
 FHEM/76_SMAInverter.pm       MadMax/DS_Starter    Sonstige Systeme
 FHEM/77_SMAEM.pm             VolkerKettenbach     Sonstige Systeme
 FHEM/77_SMASTP.pm            VolkerKettenbach     Sonstige Systeme

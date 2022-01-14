@@ -1,4 +1,4 @@
-# $Id: 73_GasCalculator.pm 25083 2021-10-16 10:33:20Z Sailor $
+# $Id: 73_GasCalculator.pm 25405 2022-01-01 15:13:43Z Sailor $
 ########################################################################################################################
 #
 #     73_GasCalculator.pm
@@ -423,7 +423,7 @@ sub GasCalculator_Set($@)
 		$attr{$GasCalcName}{GasCounterOffset} = $CounterOffsetNew;
 
 		### Create ReturnMessage
-		$ReturnMessage = $GasCalcName . " - Successfully synchronized Counter and Calculator with : " . $value . " kWh";
+		$ReturnMessage = $GasCalcName . " - Successfully synchronized Counter and Calculator with : " . $value . " " . $attr{$hash}{SiPrefixPower};
 	}
 	### For Test purpose only
 	# elsif ($reading eq "Test") 
@@ -1448,7 +1448,7 @@ sub GasCalculator_Notify($$)
 		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_EnergyYear          </code></li></td><td>: Energieverbrauch in kWh seit Anfang seit Anfang des Jahres (Mitternacht des 01. Januar).                                                                                 <BR>     </ul></ul></td></tr>
 		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_EnergyYearLast      </code></li></td><td>: Gesamter Energieverbrauch in kWh des letzten Kalender-Jahres.                                                                                                            <BR>     </ul></ul></td></tr>
 		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_FinanceReserve      </code></li></td><td>: Finanzielle Reserve basierend auf den Abschlagszahlungen die jeden Monat an den Gas-Versorger gezahlt werden. Bei negativen Werten ist von einer Nachzahlung auszugehen. <BR>     </ul></ul></td></tr>
-		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_MonthMeterReading   </code></li></td><td>: Anzahl der Monate seit der letzten Zählerablesung. Der Monat der Zählerablesung ist der erste Monat = 1.                                                                 <BR>     </ul></ul></td></tr>
+		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_MonthMeterReading   </code></li></td><td>: Anzahl der Monate seit der letzten Z&auml;hlerablesung. Der Monat der Z&auml;hlerablesung ist der erste Monat = 1.                                                                 <BR>     </ul></ul></td></tr>
 		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_Meter               </code></li></td><td>: Z&auml;hlerstand am Gasz&auml;hler. Bei Differenzen muss das Offset-Attribut korrigiert werden.                                                                          <BR>     </ul></ul></td></tr>
 		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_PowerCurrent        </code></li></td><td>: Aktuelle Heizleistung. (Mittelwert zwischen aktueller und letzter Messung)                                                                                               <BR>     </ul></ul></td></tr>
 		<tr><td><ul><ul><li><code>&lt;DestinationDevice&gt;_&lt;SourceCounterReading&gt;_PowerDayAver        </code></li></td><td>: Mittlere Heitzleistung seit Mitternacht.                                                                                                                                 <BR>     </ul></ul></td></tr>

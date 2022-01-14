@@ -1,5 +1,5 @@
 ##############################################
-# $Id: 10_ZWave.pm 25265 2021-11-26 15:50:46Z rudolfkoenig $
+# $Id: 10_ZWave.pm 25357 2021-12-20 08:46:36Z rudolfkoenig $
 # See ZWDongle.pm for inspiration
 package main;
 
@@ -66,6 +66,7 @@ my %zwave_class = (
     get   => { swbStatus   => "02",       },
     parse => { "..250300"  => "state:off",
                "..2503ff"  => "state:on",
+               "032503(..)"=> 'sprintf("swbStatus:%s", hex($1))',
                "052503(..)(..)(..)" => 'sprintf("swbStatus:%s target %s '.
                           'duration %s", hex($1), hex($2),ZWave_byte2time($3))',
                "03250100"  => "state:setOff",
@@ -1817,7 +1818,14 @@ my %zwm_unit = (
   heating => ["kWh" ],
   cooling => ["kWh" ]
 );
-my @meter_type_text = ("undef", "energy", "gas", "water", "heating", "cooling");
+my @meter_type_text = (
+  "UNKNOWN_0",
+  "energy",
+  "gas",
+  "water",
+  "heating",
+  "cooling"
+);
 
 sub
 ZWave_meterParse($$)
@@ -1836,7 +1844,7 @@ ZWave_meterParse($$)
 
   my $meter_type = ($v1 & 0x1f);
   my $meter_type_text = ($meter_type > $#meter_type_text ?
-                        "undef" : $meter_type_text[$meter_type]);
+                        "UNKNOWN_${meter_type}" : $meter_type_text[$meter_type]);
 
   my $precision = ($v2>>5) & 0x7; # 3 bits
   my $scale     = ($v2>>3) & 0x3; # 2 bits, meaning unit
@@ -1845,8 +1853,8 @@ ZWave_meterParse($$)
   $scale |= (($v1 & 0x80) >> 5);
   $scale = 8+hex(substr($v3, -2)) if($scale == 7); # V4
 
-  my $unit_text = ($meter_type_text eq "undef" ?
-                        "undef" : $zwm_unit{$meter_type_text}[$scale]);
+  my $unit_text = ($meter_type_text =~ m/^UNKNOWN/ ?
+                        "UNKNOWN" : $zwm_unit{$meter_type_text}[$scale]);
   $meter_type_text = "power"   if ($unit_text eq "W");
   $meter_type_text = "voltage" if ($unit_text eq "V");
   $meter_type_text = "current" if ($unit_text eq "A");
@@ -2009,6 +2017,7 @@ ZWave_versionClassAllGet($@)
   return !$hash->{asyncGet}; # "veto" for parseHook/getAll
 }
 
+# https://sdomembers.z-wavealliance.org/document/dl/640
 my %zwave_ml_tbl = (
    '01' => { n => 'temperature',          st => ['C', 'F'] },
    '02' => { n => 'generalPurpose',       st => ['%', ''] },
@@ -2065,6 +2074,43 @@ my %zwave_ml_tbl = (
    '31' => { n => 'totalBodyWater',       st => ['Kg'] },
    '32' => { n => 'basicMetabolicRate',   st => ['J'] },
    '33' => { n => 'bodyMassIndex',        st => ['BMI'] },
+   '34' => { n => 'accelerationXaxis',    st => ['m/s2'] },
+   '35' => { n => 'accelerationYaxis',    st => ['m/s2'] },
+   '36' => { n => 'accelerationZaxis',    st => ['m/s2'] },
+   '37' => { n => 'smokeDensity',         st => ['%'] },
+   '38' => { n => 'waterFlow',            st => ['l/h'] },
+   '39' => { n => 'waterPressure',        st => ['kPa'] },
+   '3A' => { n => 'signalStrength',       st => ['RSSI  dBm'] },
+   '3B' => { n => 'particulateMatter10',  st => ['mol/m3', 'µg/m3'] },
+   '3C' => { n => 'respiratoryRate',      st => ['bpm'] },
+   '3D' => { n => 'relativeModulationLevel', st => ['%'] },
+   '3E' => { n => 'boilerWaterTemp',      st => ['C', 'F'] },
+   '3F' => { n => 'domesticHotWatertemp', st => ['C', 'F'] },
+   '40' => { n => 'outsideTemp',          st => ['C', 'F'] },
+   '41' => { n => 'exhaustTemp',          st => ['C', 'F'] },
+   '42' => { n => 'waterChlorineLevel',   st => ['mg/l'] },
+   '43' => { n => 'waterAcidity',         st => ['pH'] },
+   '44' => { n => 'waterOxidationReductionPotential', st => ['mV'] },
+   '45' => { n => 'heartRateLFHFratio',   st => [''] },
+   '46' => { n => 'motionDirection',      st => ['°'] },
+   '47' => { n => 'appliedForce',         st => ['N'] },
+   '48' => { n => 'returnAirTemp',        st => ['C', 'F'] },
+   '49' => { n => 'supplyAirTemp',        st => ['C', 'F'] },
+   '4A' => { n => 'condenserCoilTemp',    st => ['C', 'F'] },
+   '4B' => { n => 'evaporatorCoilTemp',   st => ['C', 'F'] },
+   '4C' => { n => 'liquidLineTemp',       st => ['C', 'F'] },
+   '4D' => { n => 'dischargeLineTemp',    st => ['C', 'F'] },
+   '4E' => { n => 'suctionPressure',      st => ['kPa', 'psi'] },
+   '4F' => { n => 'dischargePressure',    st => ['kPa', 'psi'] },
+   '50' => { n => 'defrostTemp',          st => ['C', 'F'] },
+   '51' => { n => 'ozone',                st => ['μg/m3'] },
+   '52' => { n => 'sulfurDioxide',        st => ['μg/m3'] },
+   '53' => { n => 'nitrogenDioxide',      st => ['μg/m3'] },
+   '54' => { n => 'ammonia',              st => ['μg/m3'] },
+   '55' => { n => 'lead',                 st => ['μg/m3'] },
+   '56' => { n => 'particulateMatter1',   st => ['μg/m3'] },
+   '57' => { n => 'personCounterEntering',st => [''] },
+   '58' => { n => 'personCounterExiting', st => [''] }
 );
 
 sub
@@ -4664,8 +4710,11 @@ ZWave_callbackId($;$)
     $zwave_cbid = ($zwave_cbid+1) % 256;
     my $hx = sprintf("%02x", $zwave_cbid);
     $zwave_cbid2dev{$hx} = $p;
-    #Log 1, "CB: $cmd => $hx" if($cmd);
-    $zwave_cbid2cmd{$hx} = $cmd if(defined($cmd));
+    my $iodev = $p->{IODev};
+    if($cmd && ref($iodev) eq "HASH" && $iodev->{setReadingOnAck}) {
+      Log3 $iodev, 5, "ReadingOnAck $p->{NAME} '$cmd' => $hx";
+      $zwave_cbid2cmd{"$p->{NAME} $hx"} = $cmd;
+    }
     return $hx;
   }
   return $zwave_cbid2dev{$p};
@@ -5225,12 +5274,13 @@ ZWave_Parse($$@)
           }
 
           if($iodev->{setReadingOnAck}) {
-            my $ackCmd = $zwave_cbid2cmd{$callbackid};
+            my $ackCmd = $zwave_cbid2cmd{"$lname $callbackid"};
             if($ackCmd) {
-              #Log 1, "ACK: $callbackid => $ackCmd";
+              Log3 $iodev, 5, "ReadingOnAck $lname $callbackid => '$ackCmd'";
               my ($type, $reading, $val) = split(" ", $ackCmd, 3);
-              readingsBulkUpdate($lhash, $reading, $val, 1) 
+              readingsBulkUpdate($lhash, $reading, $val, 1)
                   if($type eq "set" && defined($val));
+              delete($zwave_cbid2cmd{"$lname $callbackid"});
               $name = $lname;
             }
           }

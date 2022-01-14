@@ -1,5 +1,5 @@
 ##############################################
-# $Id: 10_MQTT2_DEVICE.pm 24861 2021-08-20 09:04:35Z rudolfkoenig $
+# $Id: 10_MQTT2_DEVICE.pm 25424 2022-01-05 17:17:27Z rudolfkoenig $
 package main;
 
 use strict;
@@ -73,7 +73,7 @@ MQTT2_DEVICE_Define($$)
 
   return "wrong syntax for $name: define <name> MQTT2_DEVICE [clientid]"
         if(int(@a));
-  $hash->{DEVICETOPIC} = $name;
+  $hash->{DEVICETOPIC} = $name if(!AttrVal($name, "devicetopic", 0));
   if($hash->{CID}) {
     my $dpc = $modules{MQTT2_DEVICE}{defptr}{cid};
     if(!$dpc->{$hash->{CID}}) {
@@ -285,8 +285,9 @@ MQTT2_DEVICE_Parse($$)
     my $cidArr = $modules{MQTT2_DEVICE}{defptr}{cid}{$newCid};
     if(!$cidArr || !int(@{$cidArr})) {
       my $devName = $newCid;
-      $devName = makeDeviceName($devName);
-      return "UNDEFINED MQTT2_$devName MQTT2_DEVICE $newCid ".$iodev->{NAME};
+      $devName = makeDeviceName("MQTT2_$devName");
+      return "UNDEFINED $devName MQTT2_DEVICE $newCid ".$iodev->{NAME}
+        if(!$defs{$devName}); # 125159
     }
     return "";
   }
@@ -897,10 +898,12 @@ zigbee2mqtt_devStateIcon255($;$$)
   <a id="MQTT2_DEVICE-define"></a>
   <b>Define</b>
   <ul>
-    <code>define &lt;name&gt; MQTT2_DEVICE</code>
+    <code>define &lt;name&gt; MQTT2_DEVICE [clientId]</code>
     <br><br>
     To enable a meaningful function you will need to set at least one of the
     readingList, setList or getList attributes below.<br>
+    Specifying the clientId (sometimes referred to as CID) is optional, and it
+    makes only sense, if the IO Device is an MQTT2_SERVER.
   </ul>
   <br>
 

@@ -19,7 +19,7 @@
 #
 #  Homepage:  http://fhem.de
 #
-# $Id: fhem.pl 25197 2021-11-07 14:07:23Z rudolfkoenig $
+# $Id: fhem.pl 25456 2022-01-11 15:32:01Z rudolfkoenig $
 
 
 use strict;
@@ -273,7 +273,7 @@ use constant {
 };
 
 $selectTimestamp = gettimeofday();
-my $cvsid = '$Id: fhem.pl 25197 2021-11-07 14:07:23Z rudolfkoenig $';
+my $cvsid = '$Id: fhem.pl 25456 2022-01-11 15:32:01Z rudolfkoenig $';
 
 my $AttrList = "alias comment:textField-long eventMap:textField-long ".
                "group room suppressReading userattr ".
@@ -334,6 +334,7 @@ my @globalAttrList = qw(
   dnsServer
   dupTimeout
   exclude_from_update
+  hideExcludedUpdates:1,0
   featurelevel:6.1,6.0,5.9,5.8,5.7,5.6,5.5,99.99
   genericDisplayType:switch,outlet,light,blind,speaker,thermostat
   holiday2we
@@ -2806,9 +2807,9 @@ getAllAttr($;$$)
 
   &$add($AttrList, "framework");
   if($defs{$d}{".AttrList"}) {
-    &$add($defs{$d}{".AttrList"}, $defs{$d}{TYPE});
+    &$add($defs{$d}{".AttrList"}, "#".$defs{$d}{TYPE}); #124538
   } else {
-    &$add($modules{$defs{$d}{TYPE}}{AttrList}, $defs{$d}{TYPE});
+    &$add($modules{$defs{$d}{TYPE}}{AttrList}, "#".$defs{$d}{TYPE});
   }
 
   my $nl2space = sub($$)
@@ -4107,6 +4108,7 @@ Dispatch($$;$$)
     $h = $module->{MatchList} if(!$h);
     if(defined($h)) {
       foreach my $m (sort keys %{$h}) {
+        next if($modules{$m}{LOADED}); # checked in the loop above, #125292
         if($dmsg =~ m/$h->{$m}/s) {
           my ($order, $mname) = split(":", $m);
 
@@ -4128,6 +4130,7 @@ Dispatch($$;$$)
                   last;
                 }
               }
+              delete($hash->{".clientArray"});
 
             } else {
               Log 0, "ERROR: Cannot autoload $mname";
@@ -4139,7 +4142,6 @@ Dispatch($$;$$)
             return undef;
 
           }
-          delete($hash->{".clientArray"});
         }
       }
     }
@@ -5359,6 +5361,7 @@ json2nameValue($;$$$$)
       foreach my $k (keys %r2) {
         setVal($ret, $prefix, $firstLevel ? $k : "${name}_$k", $r2{$k});
       }
+      return ("error parsing '$in2'", undef) if($in2 !~ m/^\s*$/);
 
     } elsif($val =~ m/^\[/) {
       ($err, $val, $in) = lObj($val, '[', ']');
@@ -5387,21 +5390,15 @@ json2nameValue($;$$$$)
       $in = $2;
 
     } else {
-      Log 1, "json2namevalue: Error parsing >$val< for prefix/name:$prefix$name";
-      $in = "";
+      return ("error parsing '$val'", undef);
+
     }
     return (undef, $in);
   }
 
   $in =~ s/^\s+//;
-  $in =~ s/\s+$//;
-  my $err;
-  ($err,$in) = eObj(\%ret, "", $in, "", $prefix, 1);
-  if($err) {
-    Log 4, $err;
-    %ret = ();
-    return \%ret;
-  }
+  my ($err, undef) = eObj(\%ret, "", $in, "", $prefix, 1);
+  return { json2nameValueErrorText=>$err, json2nameValueInput=>$in } if($err);
 
   return \%ret if(!defined($map) && !defined($filter));
   $map = eval $map if($map && !ref($map)); # passing hash through AnalyzeCommand

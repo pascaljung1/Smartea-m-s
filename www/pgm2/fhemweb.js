@@ -1,6 +1,6 @@
 "use strict";
 var FW_version={};
-FW_version["fhemweb.js"] = "$Id: fhemweb.js 25022 2021-09-27 07:11:18Z rudolfkoenig $";
+FW_version["fhemweb.js"] = "$Id: fhemweb.js 25366 2021-12-22 09:39:03Z rudolfkoenig $";
 
 var FW_serverGenerated;
 var FW_jsLog;
@@ -1577,13 +1577,19 @@ FW_createSelect(elName, devName, vArr, currVal, set, params, cmd)
     vHash[o.value] = 1;
     newEl.options[j-1] = o;
   }
-  if(typeof(currVal) != "undefined")
-    $(newEl).val(currVal);
+
   if(elName)
     $(newEl).attr('name', elName);
   if(cmd)
     $(newEl).change(function(arg) { cmd($(newEl).val()) });
-  newEl.setValueFn = function(arg) { if(vHash[arg]) $(newEl).val(arg); };
+  newEl.setValueFn = function(arg) {
+    if(!vHash[arg] && typeof(arg) != "undefined")
+      arg = (arg+"").replace(/ /g,"."); // #124505, replaceAll is Chrome 84+
+    if(vHash[arg])
+      $(newEl).val(arg);
+  };
+  newEl.setValueFn(currVal);
+
   return newEl;
 }
 

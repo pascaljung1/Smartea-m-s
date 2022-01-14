@@ -1,5 +1,5 @@
 ##############################################
-# $Id: HttpUtils.pm 25103 2021-10-22 12:00:39Z rudolfkoenig $
+# $Id: HttpUtils.pm 25327 2021-12-08 09:39:27Z rudolfkoenig $
 package main;
 
 use strict;
@@ -886,7 +886,7 @@ HttpUtils_ParseAnswer($)
 
   }
   
-  if(($code==301 || $code==302 || $code==303) 
+  if(($code==301 || $code==302 || $code==303 || $code==308)
 	&& !$hash->{ignoreredirects}) { # redirect
     if(++$hash->{redirects} > 5) {
       return ("$hash->{displayurl}: Too many redirects", "");

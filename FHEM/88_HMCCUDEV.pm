@@ -2,7 +2,7 @@
 #
 #  88_HMCCUDEV.pm
 #
-#  $Id: 88_HMCCUDEV.pm 25258 2021-11-24 18:16:24Z zap $
+#  $Id: 88_HMCCUDEV.pm 25429 2022-01-06 17:27:06Z zap $
 #
 #  Version 5.0
 #
@@ -31,7 +31,7 @@ sub HMCCUDEV_Set ($@);
 sub HMCCUDEV_Get ($@);
 sub HMCCUDEV_Attr ($@);
 
-my $HMCCUDEV_VERSION = '5.0 213281908';
+my $HMCCUDEV_VERSION = '5.0 220061807';
 
 ######################################################################
 # Initialize module
@@ -52,10 +52,10 @@ sub HMCCUDEV_Initialize ($)
 	$hash->{parseParams} = 1;
 
 	$hash->{AttrList} = 'IODev ccuaggregate:textField-long ccucalculate:textField-long '. 
-		'ccuflags:multiple-strict,ackState,logCommand,noReadings,trace,showMasterReadings,showLinkReadings,showDeviceReadings,showServiceReadings '.
+		'ccuflags:multiple-strict,ackState,hideStdReadings,replaceStdReadings,noBoundsChecking,logCommand,noReadings,trace,showMasterReadings,showLinkReadings,showDeviceReadings,showServiceReadings '.
 		'ccureadingfilter:textField-long '.
 		'ccureadingformat:name,namelc,address,addresslc,datapoint,datapointlc '.
-		'ccureadingname:textField-long ccuSetOnChange ccuReadingPrefix '.
+		'ccureadingname:textField-long ccuSetOnChange ccuReadingPrefix devStateFlags '.
 		'ccuget:State,Value ccuscaleval ccuverify:0,1,2 disable:0,1 '.
 		'hmstatevals:textField-long statevals substexcl substitute:textField-long statechannel statedatapoint '.
 		'controlchannel controldatapoint stripnumber peer:textField-long traceFilter '.
@@ -259,7 +259,7 @@ sub HMCCUDEV_InitDevice ($$)
 		}
 
 		# Update readings
-		HMCCU_GetUpdate ($devHash, $da, 'Value');
+		HMCCU_GetUpdate ($devHash, $da);
 	}
 
 	# Parse group options
@@ -364,6 +364,10 @@ sub HMCCUDEV_Attr ($@)
 			return "$clType [$name] Invalid value $attrval for attribute $attrname"
 				if (!HMCCU_SetSCDatapoints ($clHash, $attrname, $attrval, $role, 1));
 		}
+		elsif ($attrname eq 'devStateFlags') {
+			my @t = split(':', $attrval);
+			return "$clType [$name] Missing flag and/or value expression in attribute $attrname" if (scalar(@t) != 3);
+		}
 	}
 	elsif ($cmd eq 'del') {
 		if ($attrname =~ /^(state|control)(channel|datapoint)$/) {
@@ -445,7 +449,7 @@ sub HMCCUDEV_Set ($@)
 	elsif ($lcopt =~ /^(config|values)$/) {
 		return HMCCU_ExecuteSetParameterCommand ($ioHash, $hash, $opt, $a, $h);
 	}
-	elsif ($lcopt =~ 'readingfilter') {
+	elsif ($lcopt eq 'readingfilter') {
 		my $filter = shift @$a // return HMCCU_SetError ($hash, "Usage: set $name readingFilter {datapointList}");
 		$filter = join(';', map { (my $f = $_) =~ s/\.(.+)/\.\^$1\$/; $f } split(',', $filter));
 		return CommandAttr (undef, "$name ccureadingfilter $filter");
@@ -811,6 +815,10 @@ sub HMCCUDEV_Get ($@)
          Set channel number and datapoint for device control.
          <a href="#HMCCUCHNattr">see HMCCUCHN</a>
       </li><br/>
+	  <li><b>devStateFlags &lt;datapoint&gt;:&lt;value-expr&gt;:&lt;flag&gt;</b><br/>
+	     Define flags for datapoint values which should appear in reading 'devstate'.
+         <a href="#HMCCUCHNattr">see HMCCUCHN</a>
+	  </li><br/>
       <li><b>disable {<u>0</u> | 1}</b><br/>
          <a href="#HMCCUCHNattr">see HMCCUCHN</a>
       </li><br/>
