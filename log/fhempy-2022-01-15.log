@@ -4,3 +4,76 @@
 2022-01-15 03:11:45,444 - ERROR    - tuya_iot: Unexpected disconnection.16
 2022-01-15 03:12:05,484 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737dad00>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
 2022-01-15 03:12:25,509 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737daa78>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x739c6c28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openapi.tuyaeu.com', port=443): Max retries exceeded with url: /v1.0/token/d4163956454d5de6024a257db410e4a9 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x739c6c28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 69, in run
+    reraise(*_capture_exception())
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/_compat.py", line 54, in reraise
+    raise value
+  File "/opt/fhem/.local/lib/python3.9/site-packages/sentry_sdk/integrations/threading.py", line 67, in run
+    return old_run_func(self, *a, **kw)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 158, in run
+    self.__run_mqtt()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 164, in __run_mqtt
+    mq_config = self._get_mqtt_config()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openmq.py", line 62, in _get_mqtt_config
+    response = self.api.post(
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openapi.py", line 316, in post
+    return self.__request("POST", path, None, body)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openapi.py", line 238, in __request
+    self.__refresh_access_token_if_need(path)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openapi.py", line 164, in __refresh_access_token_if_need
+    response = self.get(
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openapi.py", line 302, in get
+    return self.__request("GET", path, params, None)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/tuya_iot/openapi.py", line 266, in __request
+    response = self.session.request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='openapi.tuyaeu.com', port=443): Max retries exceeded with url: /v1.0/token/d4163956454d5de6024a257db410e4a9 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x739c6c28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2022-01-15 19:27:24,954 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737da8f8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2022-01-15 19:27:44,978 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737f1f58>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2022-01-15 19:28:05,003 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737f1df0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/

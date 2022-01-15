@@ -4472,3 +4472,842 @@
 2022.01.15 12:58:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
 2022.01.15 12:59:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
 2022.01.15 12:59:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:00:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:00:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:01:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:01:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:02:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:02:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:03:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:03:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:04:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:04:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:05:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:05:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:06:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:06:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:07:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:07:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:08:04 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:08:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:08:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:09:34 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:09:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:09:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:10:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:10:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:11:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:11:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:25 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:25 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:31 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:34 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:38 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:12:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:13:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:13:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:14:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:14:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:15:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:15:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:16:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:16:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:17:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:17:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:18:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:18:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:19:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:19:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:20:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:20:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:21:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:21:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:22:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:22:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:23:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:23:53 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:24:34 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:24:58 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:24:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:25:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:25:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:26:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:26:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:27:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:27:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:28:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:28:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:29:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:29:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:30:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:30:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:31:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:32:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:32:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:32:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:33:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:34:08 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:34:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:34:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:35:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:35:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:36:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:36:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:37:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:37:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:38:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:38:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:39:39 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:39:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:39:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:40:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:40:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:41:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:42:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:42:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:42:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:43:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:44:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:44:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:44:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:45:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:45:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:46:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:48:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:49:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:49:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:50:48 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:50:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:51:43 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:52:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:55:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:56:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:56:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:57:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:58:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:58:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 13:58:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:00:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:00:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:01:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:01:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:02:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:02:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:04:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:06:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:07:21 3: Login denied for user >pi< via WEB_10.6.0.11_61111
+2022.01.15 14:07:23 3: Login denied for user >pi< via WEB_10.6.0.11_61111
+2022.01.15 14:07:37 3: Login denied for user >pi< via WEB_10.6.0.11_61111
+2022.01.15 14:07:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:08:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:08:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:08:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:10:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:10:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:12:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:14:49 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:14:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:15:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:15:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:16:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:18:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:20:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:20:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:21:49 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:21:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:25:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:25:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:28:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:29:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:29:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:29:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:30:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:30:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:31:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:31:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:32:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:32:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:35:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:35:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:36:49 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:37:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:37:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:38:49 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:38:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:40:44 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:40:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:42:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:42:59 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:44:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:45:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:45:59 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:46:58 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:49:03 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:50:00 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:50:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:50:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:51:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:51:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:52:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:52:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:53:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:53:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:54:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:54:39 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:54:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:55:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:56:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:56:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:57:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:57:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 14:58:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:00:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:01:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:01:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:02:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:02:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:03:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:07:10 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:07:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:08:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:08:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:09:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:09:34 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:09:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:10:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:10:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:11:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:11:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:12:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:12:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:13:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:13:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:14:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:14:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:15:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:15:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:16:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:16:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:17:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:17:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:18:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:18:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:19:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:19:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:20:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:20:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:21:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:21:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:22:10 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:25:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:28:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:29:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:30:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:32:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:35:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:36:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:36:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:37:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:37:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:38:15 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:38:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:39:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:40:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:41:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:43:00 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:43:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:43:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:45:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:45:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:47:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:49:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:49:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:50:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:50:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:51:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:51:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:52:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:52:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:52:52 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:53:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:53:37 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:53:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:54:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:54:34 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:54:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:56:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:56:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 15:57:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:00:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:00:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:01:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:01:17 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:01:17 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:01:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:02:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:02:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:03:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:03:05 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:03:31 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:03:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:04:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:05:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:05:26 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:05:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:07:08 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:07:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:08:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:08:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:09:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:10:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:11:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:14:05 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:14:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:15:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:15:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:16:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:16:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:17:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:17:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:18:10 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:18:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:19:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:20:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:21:00 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:21:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:22:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:22:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:23:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:27:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:28:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:28:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:29:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:29:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:30:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:30:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:31:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:31:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:32:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:32:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:33:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:35:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:36:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:36:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:37:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:40:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:41:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:42:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:43:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:44:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:45:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:49:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:49:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:50:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:50:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:51:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:56:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:56:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:57:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:57:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:58:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:58:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:59:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 16:59:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:00:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:00:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:01:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:01:50 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:02:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:02:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:03:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:03:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:04:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:04:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:05:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:05:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:06:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:07:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:07:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:08:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:10:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:11:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:14:56 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:15:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:15:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:16:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:16:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:17:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:17:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:18:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:18:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:19:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:19:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:20:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:20:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:21:11 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:21:45 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:22:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:22:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:23:11 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:23:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:24:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:24:39 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:24:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:25:11 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:25:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:26:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:27:11 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:28:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:28:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:29:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:30:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:30:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:31:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:31:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:32:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:32:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:33:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:33:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:34:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:35:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:35:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:36:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:36:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:37:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:37:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:38:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:38:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:39:41 3: ABFALL Muelltonnen - CALENDAR:Abfallkalender triggered, updating ABFALL Muelltonnen ...
+2022.01.15 17:39:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:40:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:40:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:41:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:41:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:42:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:43:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:43:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:44:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:44:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:45:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:46:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:47:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:48:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:48:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:49:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:50:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:50:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:51:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:51:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:52:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:52:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:53:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:53:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:54:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:55:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:56:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:57:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:58:01 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:58:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:58:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 17:59:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:00:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:00:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:01:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:01:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:02:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:02:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:03:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:03:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:04:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:04:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:05:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:05:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:07:56 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:08:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:08:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:09:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:09:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:10:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:10:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:11:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:11:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:13:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:14:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:14:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:15:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:15:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:16:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:17:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:18:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:19:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:19:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:20:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:21:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:21:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:22:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:26:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:28:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:28:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:29:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:29:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:30:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:31:01 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:31:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:32:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:32:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:34:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:35:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:35:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:36:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:36:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:37:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:37:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:38:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:38:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:39:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:39:34 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:39:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:40:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:40:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:41:11 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:41:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:42:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:42:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:43:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:43:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:44:06 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:44:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:45:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:45:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:46:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:46:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:47:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:47:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:48:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:48:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:49:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:49:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:50:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:50:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:51:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:51:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:52:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:52:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:53:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:53:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:54:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:54:34 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:54:47 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:55:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:55:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:56:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:56:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:57:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:57:51 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:58:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:58:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:59:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 18:59:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:00:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:00:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:01:12 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:01:47 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:02:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:02:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:03:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:03:47 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:04:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:04:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:05:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:05:47 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:06:07 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:06:46 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:07:07 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:07:47 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:08:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:08:47 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 19:09:39 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:10:20 3: sensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:11:00 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:11:40 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:11:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13985
+2022.01.15 19:11:40 2: PRESENCE (iPhone4) - device could not be checked (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:11:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13986
+2022.01.15 19:11:40 2: PRESENCE (iPhone2) - device could not be checked (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:11:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13987
+2022.01.15 19:11:40 2: PRESENCE (iPhone1) - device could not be checked (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:11:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13988
+2022.01.15 19:11:40 2: PRESENCE (iPhone3) - device could not be checked (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:12:20 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:13:00 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:13:40 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:13:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13990
+2022.01.15 19:13:40 2: PRESENCE (iPhone4) - device could not be checked after 1 retry (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:13:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13991
+2022.01.15 19:13:40 2: PRESENCE (iPhone2) - device could not be checked after 1 retry (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:13:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13992
+2022.01.15 19:13:40 2: PRESENCE (iPhone1) - device could not be checked after 1 retry (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:13:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13993
+2022.01.15 19:13:40 2: PRESENCE (iPhone3) - device could not be checked after 1 retry (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:14:20 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:15:00 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:15:40 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:15:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13994
+2022.01.15 19:15:40 2: PRESENCE (iPhone4) - device could not be checked after 2 retries (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:15:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13995
+2022.01.15 19:15:40 2: PRESENCE (iPhone2) - device could not be checked after 2 retries (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:15:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13996
+2022.01.15 19:15:40 2: PRESENCE (iPhone1) - device could not be checked after 2 retries (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:15:40 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 13997
+2022.01.15 19:15:40 2: PRESENCE (iPhone3) - device could not be checked after 2 retries (retrying in 10 seconds): Timeout: process terminated
+2022.01.15 19:16:20 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:17:00 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:17:41 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:17:41 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14001
+2022.01.15 19:17:41 2: PRESENCE (iPhone4) - device could not be checked after 3 retries (resuming normal operation): Timeout: process terminated
+2022.01.15 19:17:41 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14002
+2022.01.15 19:17:41 2: PRESENCE (iPhone2) - device could not be checked after 3 retries (resuming normal operation): Timeout: process terminated
+2022.01.15 19:17:41 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14003
+2022.01.15 19:17:41 2: PRESENCE (iPhone1) - device could not be checked after 3 retries (resuming normal operation): Timeout: process terminated
+2022.01.15 19:17:41 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14004
+2022.01.15 19:17:41 2: PRESENCE (iPhone3) - device could not be checked after 3 retries (resuming normal operation): Timeout: process terminated
+2022.01.15 19:18:21 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:19:01 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:19:41 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:20:21 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:20:21 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14014
+2022.01.15 19:20:21 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14015
+2022.01.15 19:20:21 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14016
+2022.01.15 19:20:21 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14017
+2022.01.15 19:21:01 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:21:41 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:22:21 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:23:01 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:23:01 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14020
+2022.01.15 19:23:01 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14021
+2022.01.15 19:23:01 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14022
+2022.01.15 19:23:01 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14023
+2022.01.15 19:23:41 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:24:21 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:25:01 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:25:41 3: sensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:26:22 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:26:22 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14025
+2022.01.15 19:26:22 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14026
+2022.01.15 19:26:22 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14027
+2022.01.15 19:26:22 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14028
+2022.01.15 19:27:02 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:27:42 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:28:22 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:29:02 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:29:02 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14033
+2022.01.15 19:29:02 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14034
+2022.01.15 19:29:02 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14035
+2022.01.15 19:29:02 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14036
+2022.01.15 19:29:42 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:30:22 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:31:02 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:31:42 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:31:42 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14040
+2022.01.15 19:31:42 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14041
+2022.01.15 19:31:42 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14042
+2022.01.15 19:31:42 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14043
+2022.01.15 19:32:22 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:33:02 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:33:42 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:34:23 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:34:23 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14045
+2022.01.15 19:34:23 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14046
+2022.01.15 19:34:23 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14047
+2022.01.15 19:34:23 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14048
+2022.01.15 19:35:03 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:35:43 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:36:23 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:37:03 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:37:03 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14051
+2022.01.15 19:37:03 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14052
+2022.01.15 19:37:03 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14053
+2022.01.15 19:37:03 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14054
+2022.01.15 19:37:43 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:38:23 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:39:03 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:39:43 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:39:43 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14056
+2022.01.15 19:39:43 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14057
+2022.01.15 19:39:43 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14058
+2022.01.15 19:39:43 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14059
+2022.01.15 19:40:23 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:41:03 3: sensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:41:43 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:42:24 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:43:04 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:43:04 1: Timeout for PROPLANTA_Run reached, terminated process 14063
+2022.01.15 19:43:04 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14066
+2022.01.15 19:43:04 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14067
+2022.01.15 19:43:04 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14068
+2022.01.15 19:43:04 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14069
+2022.01.15 19:43:44 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:44:24 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:45:04 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:45:44 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:45:44 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14070
+2022.01.15 19:45:44 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14071
+2022.01.15 19:45:44 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14072
+2022.01.15 19:45:44 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14073
+2022.01.15 19:46:24 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:47:04 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:47:44 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:48:24 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:48:24 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14076
+2022.01.15 19:48:24 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14077
+2022.01.15 19:48:24 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14078
+2022.01.15 19:48:24 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14079
+2022.01.15 19:49:04 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:49:44 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:50:25 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:51:05 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:51:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14085
+2022.01.15 19:51:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14086
+2022.01.15 19:51:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14087
+2022.01.15 19:51:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14088
+2022.01.15 19:51:45 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:52:25 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:53:05 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:53:45 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:53:45 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14089
+2022.01.15 19:53:45 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14090
+2022.01.15 19:53:45 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14091
+2022.01.15 19:53:45 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14092
+2022.01.15 19:54:25 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:55:05 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:55:45 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:56:25 3: sensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:57:05 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:57:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14096
+2022.01.15 19:57:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14097
+2022.01.15 19:57:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14098
+2022.01.15 19:57:05 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14099
+2022.01.15 19:57:45 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:58:25 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:59:06 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:59:46 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 19:59:46 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14101
+2022.01.15 19:59:46 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14102
+2022.01.15 19:59:46 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14103
+2022.01.15 19:59:46 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14104
+2022.01.15 20:00:26 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:01:06 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:01:46 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:02:26 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:02:26 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14158
+2022.01.15 20:02:26 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14159
+2022.01.15 20:02:26 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14160
+2022.01.15 20:02:26 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14161
+2022.01.15 20:03:06 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:03:46 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:04:26 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:05:06 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:05:06 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14164
+2022.01.15 20:05:06 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14165
+2022.01.15 20:05:06 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14166
+2022.01.15 20:05:06 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14167
+2022.01.15 20:05:46 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:06:26 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:07:07 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:07:47 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:07:47 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14170
+2022.01.15 20:07:47 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14171
+2022.01.15 20:07:47 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14172
+2022.01.15 20:07:47 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14173
+2022.01.15 20:08:27 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:09:07 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:09:47 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:10:27 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:10:27 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14175
+2022.01.15 20:10:27 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14176
+2022.01.15 20:10:27 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14177
+2022.01.15 20:10:27 1: Timeout for PRESENCE_DoLocalPingScan reached, terminated process 14178
+2022.01.15 20:11:07 3: Windsensor: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:11:47 3: sensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:12:27 3: SensorHobbyraum: Read callback: Error: gethostbyname measurements.mobile-alerts.eu failed
+2022.01.15 20:12:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:12:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:13:06 2: PRESENCE (iPhone2) - check returned a valid result after 23 unsuccesful retries
+2022.01.15 20:13:06 2: PRESENCE (iPhone4) - check returned a valid result after 23 unsuccesful retries
+2022.01.15 20:13:06 2: PRESENCE (iPhone1) - check returned a valid result after 23 unsuccesful retries
+2022.01.15 20:13:06 2: PRESENCE (iPhone3) - check returned a valid result after 23 unsuccesful retries
+2022.01.15 20:14:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:14:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:15:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:15:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:16:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:16:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:17:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:17:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:18:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:18:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:20:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:20:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:21:29 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:21:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:22:34 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:22:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:23:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:23:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:24:35 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:25:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:25:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:28:34 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:28:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:29:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:29:54 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:30:35 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:30:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:31:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:31:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:32:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:32:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:33:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:35:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:35:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:36:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:36:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:37:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:39:00 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:39:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:40:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:41:00 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:41:09 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:42:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:42:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:43:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:43:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:44:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:44:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:45:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:45:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:46:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:46:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:47:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:47:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:48:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:48:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:49:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:49:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:50:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:50:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:51:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:51:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:52:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:52:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:53:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:53:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:54:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:55:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:56:09 3: sensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:56:30 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:57:00 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:57:35 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.15 20:57:55 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
