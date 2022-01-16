@@ -17,9 +17,9 @@ optimiertesHeizenUtils_Initialize ($$)
 sub LuftTempSteuerung (){
 	
 	#sensorTemp
-	my $temp = ReadingsVal("sensorHobbyraum","temperatur","0");
+	my $temp = ReadingsVal("SensorHobbyraum","Temperatur","0");
 	#sensorLuft
-	my $luft = ReadingsVal("sensorHobbyraum","luftfeuchtigkeit","0");
+	my $luft = ReadingsVal("SensorHobbyraum","Luftfeuchte","0");
 	#Schwellwerte
 	my $tempMax = ReadingsVal("tempMax","state","0");
 	my $tempMin = ReadingsVal("tempMin","state","0");

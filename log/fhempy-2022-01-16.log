@@ -1,0 +1,6 @@
+[2022-01-16 03:14:39,620] [tuya-openmq] Unexpected disconnection.7
+2022-01-16 03:14:39,620 - ERROR    - tuya_iot: Unexpected disconnection.7
+[2022-01-16 03:14:41,092] [tuya-openmq] error while get mqtt config
+2022-01-16 03:14:41,092 - ERROR    - tuya_iot: error while get mqtt config
+[2022-01-16 03:14:41,105] [tuya-openmq] Unexpected disconnection.5
+2022-01-16 03:14:41,105 - ERROR    - tuya_iot: Unexpected disconnection.5
