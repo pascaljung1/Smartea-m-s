@@ -415,7 +415,7 @@
                             <div class="cell">
                 
                                 <div data-type="label" class="left-align">Aktuell produzierter Strom:</div>
-                                <div data-type="label" class="left-align"  data-device="solarstromInWatt"  data-unit=" Watt"></div>
+                                <div data-type="label" class="left-align"  data-device="HM_367B21_Climate" data-get="measured-temp"  data-unit="watt">xxxx</div>
                             
                             </div>
                             <div class="cell">
@@ -453,36 +453,22 @@
                         <div class="cell">
                             <div class="hbox">
                             <div data-type="label" class="left-align">Aktualisierungsintervall in min:</div>
-                            <div data-type="slider" data-device="wattIntervall" class="value horizontal left-align" data-min="0" data-max="100" class="horizontal"></div>
+                            <div data-type="slider" data-device='Dummy1' class="value horizontal left-align" data-min="0" data-max="100" class="horizontal"></div>
                         </div>
                         </div>
                         </div>
-                            <div class="cell-60">
-                                <div data-type="chart" data-logdevice="StromverbrauchLOG" data-style='["ftui l6fill"]' data-ytext="Stromverbrauch in kWh"
-
-                                data-legend='["Stromverbrauch"]' data-minvalue="0" data-maxvalue="20" data-logfile="-" data-columnspec='["4:shelly:.*"]' data-ptype="bars"
-
-                                data-timeranges='[
-
-                                ["Actual Year","0Y","-1Y"],
-
-                                ["Last Year","1Y","0Y"],
-
-                                ["Actual Month","0M","-1M"],
-
-                                ["Last Month","1M","0M"],
-
-                                ["Actual Week","0W","-1W"],
-
-                                ["Last Week","1W","0W"],
-
-                                ["Today","0D","-1D"],
-
-                                ["Yesterday","1D","0D"]
-
-                                ]'>
-                            </div>
-
+                        <div class="cell-60">
+                            <div data-type="simplechart"
+                            data-device="WohnzimmerHeizung2"
+                            data-logdevice="FileLog_WohnzimmerHeizung2"
+                            data-logfile="WohnzimmerHeizung2.log"
+                            data-columnspec="4:temp:1:int"
+                            data-minvalue="10"
+                            data-maxvalue="30"
+                            data-yticks="4"
+                            data-daysago="0"
+                            class="fullsize">
+                        </div>
                         </div>
                     </div>
                 </div>

@@ -17,7 +17,33 @@ myUtils_Initialize($$)
 
 # Enter you functions below _this_ line.
 
+sub
+setSolarstromInWatt()
+{
+#Watt auslesen
+my $power = ReadingsVal("shelly","power_0","0");
+fhem("set solarstromInWatt $power");
+}
 
+sub
+setCheckIntervallTime($)
+{
+  my ($time) = @_;
 
+    my $min = $time%60;
+    $time = $time-$min;
+    my $hour = $time/60;
+
+    if ($hour <= 9){
+        $hour = "0".$hour;
+        }
+    if ($min <= 9){
+        $min= "0".$min;
+        }
+    
+    my $fhemtime = $hour.":".$min;
+
+    fhem("set checkWattIntervall modifyTimeSpec $fhemtime");
+}
 
 1;

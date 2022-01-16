@@ -45,11 +45,13 @@ sub OnOffOptimiertesHeizen () {
 			fhem("set triggerLuftMin inactive");
 			fhem("set triggerTempMax inactive");
 			fhem("set triggerTempMin inactive");
+fhem("set triggerSensorHobbyraum inactive");
 		}else{
 			fhem("set triggerLuftMax active");
 			fhem("set triggerLuftMin active");
 			fhem("set triggerTempMax active");
 			fhem("set triggerTempMin active");
+fhem("set triggerSensorHobbyraum active");
 			fhem("set schaltercheck inactive");
 		}
 }
