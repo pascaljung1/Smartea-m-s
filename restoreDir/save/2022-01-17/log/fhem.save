@@ -1,4 +1,4 @@
-#Mon Jan 17 19:22:11 2022
+#Mon Jan 17 19:05:14 2022
 setstate Abfallkalender triggered
 setstate Abfallkalender 2022-01-17 17:39:52 calname Abfallkalender Stuttgart
 setstate Abfallkalender 2022-01-17 17:39:52 lastUpdate 2022-01-17 17:39:45
@@ -6,7 +6,7 @@ setstate Abfallkalender 2022-01-17 17:39:52 nextUpdate 2022-01-17 23:39:45
 setstate Abfallkalender 2022-01-17 17:39:54 nextWakeup 2022-01-17 23:39:45
 setstate Abfallkalender 2022-01-17 17:39:52 state triggered
 setstate BoilerA6.4 off
-setstate BoilerA6.4 2022-01-17 19:18:40 state off
+setstate BoilerA6.4 2022-01-17 19:03:40 state off
 setstate Kann_bearbeitet_werden off
 setstate Kann_bearbeitet_werden 2022-01-15 16:03:44 state off
 setstate Logfile active
@@ -51,16 +51,16 @@ setstate Muelltonnen 2022-01-17 17:39:54 state 2
 setstate Phytenbinding_15733 active
 setstate Phytenbinding_15733 2022-01-14 17:39:13 fhempy running FHEM/bindings/python/bin/fhempy
 setstate Phytenbinding_15733 2022-01-14 17:39:09 state active
-setstate Pushsafer01 2022-01-17 19:07:30 availableMessages 44
-setstate Pushsafer01 2022-01-17 19:07:30 lastSuccess message transmitted
+setstate Pushsafer01 2022-01-17 18:57:39 availableMessages 46
+setstate Pushsafer01 2022-01-17 18:57:39 lastSuccess message transmitted
 setstate SVG_StromverbrauchLOG_1 initialized
 setstate SVG_StromverbrauchLOG_2 initialized
 setstate SVG_StromverbrauchLOG_3 initialized
-setstate SensorHobbyraum 2022-01-17 19:22:02 LAST_ERROR read from https://measurements.mobile-alerts.eu:443 timed out
+setstate SensorHobbyraum 2022-01-17 19:04:57 LAST_ERROR read from https://measurements.mobile-alerts.eu:443 timed out
 setstate SensorHobbyraum 2022-01-17 16:26:58 Luftfeuchte 50
 setstate SensorHobbyraum 2022-01-17 16:26:58 Temperatur 17.1
 setstate StromverbrauchLOG active
-setstate StromverbrauchLOG 2022-01-17 19:17:39 linesInTheFile 83
+setstate StromverbrauchLOG 2022-01-17 19:04:36 linesInTheFile 70
 setstate TABLETUI TABLETUI
 setstate WEB 2022-01-14 17:39:09 state Initialized
 setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax off
@@ -91,7 +91,7 @@ setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2022-01-14 17:39:29 time_zone +01
 setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2022-01-14 17:39:29 uid eu1637938451839MThWC
 setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2022-01-14 17:39:29 update_time 1640053062
 setstate WLAN_Steckdose_bfadefdc3b039db8d0ttax 2022-01-14 17:39:29 uuid bdf36574c645ebc7
-setstate Windsensor 2022-01-17 19:21:19 LAST_ERROR read from https://measurements.mobile-alerts.eu:443 timed out
+setstate Windsensor 2022-01-17 19:05:14 LAST_ERROR read from https://measurements.mobile-alerts.eu:443 timed out
 setstate Windsensor 2022-01-17 16:27:12 Windböe 5.4
 setstate Windsensor 2022-01-17 16:27:12 Windgeschwindigkeit 2.2
 setstate allowed_WEB validFor:WEB
@@ -101,11 +101,11 @@ setstate arbeitszeit 2022-01-17 17:15:28 state 19
 setstate boeeSchwelle 1
 setstate boeeSchwelle 2022-01-17 18:45:43 state 1
 setstate check inactive
-setstate check 2022-01-17 19:20:11 state inactive
-setstate checkWattIntervall Next: 19:22:38
-setstate checkWattIntervall 2022-01-17 19:21:38 state Next: 19:22:38
-setstate checkWattSolar Next: 19:33:40
-setstate checkWattSolar 2022-01-17 19:18:40 state Next: 19:33:40
+setstate check 2022-01-17 19:05:11 state inactive
+setstate checkWattIntervall Next: 19:05:38
+setstate checkWattIntervall 2022-01-17 19:04:38 state Next: 19:05:38
+setstate checkWattSolar Next: 19:18:40
+setstate checkWattSolar 2022-01-17 19:03:40 state Next: 19:18:40
 setstate checkinterval 3
 setstate checkinterval 2022-01-17 17:32:11 state 3
 setstate eventTypes active
@@ -128,41 +128,41 @@ setstate funk_kette_an_aus 2022-01-13 17:25:03 state cmd_1
 setstate funk_kette_an_aus 2022-01-17 17:30:28 timer_01_c01 18.01.2022 17:31:53
 setstate global no definition
 setstate iPhone1 absent
-setstate iPhone1 2022-01-17 19:21:47 .absenceThresholdCounter 0
-setstate iPhone1 2022-01-17 19:21:47 .presenceThresholdCounter 0
+setstate iPhone1 2022-01-17 19:05:04 .absenceThresholdCounter 0
+setstate iPhone1 2022-01-17 19:05:04 .presenceThresholdCounter 0
 setstate iPhone1 2022-01-14 17:39:12 model lan-ping
-setstate iPhone1 2022-01-17 19:21:47 presence absent
-setstate iPhone1 2022-01-17 19:21:47 state absent
+setstate iPhone1 2022-01-17 19:05:04 presence absent
+setstate iPhone1 2022-01-17 19:05:04 state absent
 setstate iPhone2 absent
-setstate iPhone2 2022-01-17 19:21:47 .absenceThresholdCounter 0
-setstate iPhone2 2022-01-17 19:21:47 .presenceThresholdCounter 0
+setstate iPhone2 2022-01-17 19:05:04 .absenceThresholdCounter 0
+setstate iPhone2 2022-01-17 19:05:04 .presenceThresholdCounter 0
 setstate iPhone2 2022-01-14 17:39:12 model lan-ping
-setstate iPhone2 2022-01-17 19:21:47 presence absent
-setstate iPhone2 2022-01-17 19:21:47 state absent
+setstate iPhone2 2022-01-17 19:05:04 presence absent
+setstate iPhone2 2022-01-17 19:05:04 state absent
 setstate iPhone3 absent
-setstate iPhone3 2022-01-17 19:21:47 .absenceThresholdCounter 0
-setstate iPhone3 2022-01-17 19:21:47 .presenceThresholdCounter 0
+setstate iPhone3 2022-01-17 19:05:04 .absenceThresholdCounter 0
+setstate iPhone3 2022-01-17 19:05:04 .presenceThresholdCounter 0
 setstate iPhone3 2022-01-14 17:39:12 model lan-ping
-setstate iPhone3 2022-01-17 19:21:47 presence absent
-setstate iPhone3 2022-01-17 19:21:47 state absent
+setstate iPhone3 2022-01-17 19:05:04 presence absent
+setstate iPhone3 2022-01-17 19:05:04 state absent
 setstate iPhone4 absent
-setstate iPhone4 2022-01-17 19:21:47 .absenceThresholdCounter 0
-setstate iPhone4 2022-01-17 19:21:47 .presenceThresholdCounter 0
+setstate iPhone4 2022-01-17 19:05:04 .absenceThresholdCounter 0
+setstate iPhone4 2022-01-17 19:05:04 .presenceThresholdCounter 0
 setstate iPhone4 2022-01-14 17:39:12 model lan-ping
-setstate iPhone4 2022-01-17 19:21:47 presence absent
-setstate iPhone4 2022-01-17 19:21:47 state absent
+setstate iPhone4 2022-01-17 19:05:04 presence absent
+setstate iPhone4 2022-01-17 19:05:04 state absent
 setstate infrarotheizung OK
 setstate infrarotheizung 2021-12-07 13:57:36 cloud disabled
 setstate infrarotheizung 2021-12-07 13:58:09 config mode=relay [channel s]
-setstate infrarotheizung 2022-01-17 19:17:48 energy_0 3.1
+setstate infrarotheizung 2022-01-17 19:04:45 energy_0 2.1
 setstate infrarotheizung 2022-01-17 04:28:15 energy_1 0
 setstate infrarotheizung 2022-01-16 10:57:26 firmware v1.9.2(update needed to v1.11.7)
 setstate infrarotheizung 2022-01-17 12:54:31 network <html>connected to <a href="http://172.30.30.177">172.30.30.177</a></html>
 setstate infrarotheizung 2021-12-07 14:45:48 overpower_0 0
 setstate infrarotheizung 2022-01-17 17:18:12 overpower_1 0
-setstate infrarotheizung 2022-01-17 19:17:48 power_0 0
+setstate infrarotheizung 2022-01-17 19:04:45 power_0 4.6
 setstate infrarotheizung 2022-01-17 09:51:26 power_1 0
-setstate infrarotheizung 2022-01-17 19:17:48 relay_0 off
+setstate infrarotheizung 2022-01-17 18:57:44 relay_0 on
 setstate infrarotheizung 2022-01-17 17:18:12 relay_1 off
 setstate infrarotheizung 2022-01-17 17:18:12 state OK
 setstate initialUsbCheck 2022-01-14 17:39:13
@@ -182,6 +182,16 @@ setstate myCUL 2021-12-06 11:53:04 fhtbuf AE
 setstate myCUL 2022-01-13 13:58:35 raw is000000FFFFF0
 setstate myCUL 2022-01-14 17:39:12 state Initialized
 setstate myCUL 2021-12-06 14:13:03 version V 1.67 nanoCUL433
+setstate myStatDevice Updated stats for: shelly
+setstate myStatDevice 2022-01-17 19:04:36 .shelly:power_0Day 4.55_Count: 1 4.69: 180 4.73_Count: 1 4.56: 121 4.68: 120 0_Count: 3 4.59_Count: 1 4.65: 43 4.58_Count: 2 4.66_Count: 3 4.72: 120 4.74_Count: 1 4.7_Count: 2 4.67: 60 (since: 2022-01-16_22:26:54) 4.62: 181 4.64_Count: 2 4.63_Count: 2 4.61: 60 4.61_Count: 1 4.63: 121 0: 66938 4.64: 122 4.62_Count: 2 4.67_Count: 1 4.74: 61 4.72_Count: 2 4.66: 181 4.58: 60 4.59: 60 4.65_Count: 1 showDate: 0 4.68_Count: 2 4.56_Count: 2 lastState: 4.58 4.73: 60 lastTime: 1642442676 4.7: 120 4.69_Count: 3 4.55: 73
+setstate myStatDevice 2022-01-17 19:04:36 .shelly:power_0Month 4.68_Count: 2 4.56_Count: 2 lastState: 4.58 showDate: 1 4.69_Count: 3 4.55: 254 lastTime: 1642442676 4.73: 60 4.7: 120 4.72_Count: 2 4.58: 60 4.66: 181 4.74: 61 4.65_Count: 3 4.59: 139 4.53_Count: 2 4.62_Count: 4 4.67_Count: 1 4.64: 122 4.63: 241 4.61_Count: 3 4.6: 60 0: 71355 4.54_Count: 3 4.54: 180 4.63_Count: 4 4.61: 242 4.64_Count: 2 4.7_Count: 2 4.67: 60 4.62: 301 (since: 2022-01-16_22:26:54) 4.53: 121 4.65: 164 4.59_Count: 3 4.74_Count: 1 4.6_Count: 1 4.66_Count: 3 4.58_Count: 2 4.72: 120 4.73_Count: 1 4.69: 180 4.55_Count: 4 0_Count: 4 4.56: 121 4.68: 120
+setstate myStatDevice 2022-01-17 19:04:36 .shelly:power_0Year 4.54: 180 4.61: 242 4.63_Count: 4 4.62: 301 (since: 2022-01-16_22:26:54) 4.7_Count: 2 4.67: 60 4.64_Count: 2 4.53: 121 4.65: 164 4.59_Count: 3 4.72: 120 4.66_Count: 3 4.6_Count: 1 4.58_Count: 2 4.74_Count: 1 4.55_Count: 4 4.69: 180 4.73_Count: 1 4.68: 120 4.56: 121 0_Count: 4 showDate: 1 lastState: 4.58 4.68_Count: 2 4.56_Count: 2 4.7: 120 lastTime: 1642442676 4.73: 60 4.69_Count: 3 4.55: 254 4.74: 61 4.58: 60 4.66: 181 4.72_Count: 2 4.65_Count: 3 4.59: 139 4.53_Count: 2 4.64: 122 4.67_Count: 1 4.62_Count: 4 4.6: 60 0: 71355 4.63: 241 4.61_Count: 3 4.54_Count: 3
+setstate myStatDevice 2022-01-16 21:59:55 .shelly:stateDay (since: 2022-01-16_21:56:45) showDate: 1 OK: 190 lastState: OK OK_Count: 1 lastTime: 1642366795
+setstate myStatDevice 2022-01-16 21:59:55 .shelly:stateMonth lastTime: 1642366795 OK_Count: 1 lastState: OK OK: 190 showDate: 1 (since: 2022-01-16_21:56:45)
+setstate myStatDevice 2022-01-16 21:59:55 .shelly:stateYear OK_Count: 1 lastTime: 1642366795 lastState: OK showDate: 1 (since: 2022-01-16_21:56:45) OK: 190
+setstate myStatDevice 2022-01-16 21:56:45 monitoredDevicesShelly shelly
+setstate myStatDevice 2022-01-17 18:59:55 nextPeriodChangeCalc 2022-01-17 19:59:55
+setstate myStatDevice 2022-01-17 19:04:36 state Updated stats for: shelly
 setstate n_PushsaferBoee active
 setstate n_PushsaferBoee 2022-01-17 18:43:40 state active
 setstate n_PushsaferWind active
@@ -197,36 +207,40 @@ setstate schwelle 2022-01-17 18:37:34 state 34
 setstate shelly OK
 setstate shelly 2021-11-29 16:36:05 cloud disabled
 setstate shelly 2021-11-29 16:36:21 config mode=relay [channel s]
-setstate shelly 2022-01-17 19:17:39 energy_0 3.1
+setstate shelly 2022-01-17 19:04:36 energy_0 2.1
 setstate shelly 2022-01-17 04:28:15 energy_1 0
 setstate shelly 2022-01-16 10:57:24 firmware v1.9.2(update needed to v1.11.7)
 setstate shelly 2022-01-16 18:23:23 logEntry 0
 setstate shelly 2022-01-17 12:54:31 network <html>connected to <a href="http://172.30.30.177">172.30.30.177</a></html>
-setstate shelly 2022-01-17 19:17:38 overpower_0 0
+setstate shelly 2022-01-17 18:57:33 overpower_0 0
 setstate shelly 2021-12-07 13:51:23 overpower_0&1 0
 setstate shelly 2021-11-29 16:37:33 overpower_1 0
-setstate shelly 2022-01-17 19:17:39 power_0 0
+setstate shelly 2022-01-17 19:04:36 power_0 4.58
 setstate shelly 2022-01-17 09:51:25 power_1 0
-setstate shelly 2022-01-17 19:17:38 relay_0 off
+setstate shelly 2022-01-17 18:57:33 relay_0 on
 setstate shelly 2021-12-07 13:51:23 relay_0&1 off
 setstate shelly 2022-01-17 09:51:25 relay_1 off
+setstate shelly 2022-01-17 19:04:36 statPower_0Day 0: 18:35:38 0_Count: 3 4.55: 00:01:13 4.55_Count: 1 4.56: 00:02:01 4.56_Count: 2 4.58: 00:01:00 4.58_Count: 2 4.59: 00:01:00 4.59_Count: 1 4.61: 00:01:00 4.61_Count: 1 4.62: 00:03:01 4.62_Count: 2 4.63: 00:02:01 4.63_Count: 2 4.64: 00:02:02 4.64_Count: 2 4.65: 00:00:43 4.65_Count: 1 4.66: 00:03:01 4.66_Count: 3 4.67: 00:01:00 4.67_Count: 1 4.68: 00:02:00 4.68_Count: 2 4.69: 00:03:00 4.69_Count: 3 4.72: 00:02:00 4.72_Count: 2 4.73: 00:01:00 4.73_Count: 1 4.74: 00:01:01 4.74_Count: 1 4.7: 00:02:00 4.7_Count: 2
+setstate shelly 2022-01-16 23:59:55 statPower_0DayLast 0: 01:13:37 0_Count: 2 4.53: 00:02:01 4.53_Count: 2 4.54: 00:03:00 4.54_Count: 3 4.55: 00:03:01 4.55_Count: 3 4.59: 00:01:19 4.59_Count: 2 4.61: 00:03:02 4.61_Count: 2 4.62: 00:02:00 4.62_Count: 2 4.63: 00:02:00 4.63_Count: 2 4.65: 00:02:01 4.65_Count: 2 4.6: 00:01:00 4.6_Count: 1 (since: 2022-01-16_22:26:54)
+setstate shelly 2022-01-17 19:04:36 statPower_0Month 0: 19:49:15 0_Count: 4 4.53: 00:02:01 4.53_Count: 2 4.54: 00:03:00 4.54_Count: 3 4.55: 00:04:14 4.55_Count: 4 4.56: 00:02:01 4.56_Count: 2 4.58: 00:01:00 4.58_Count: 2 4.59: 00:02:19 4.59_Count: 3 4.61: 00:04:02 4.61_Count: 3 4.62: 00:05:01 4.62_Count: 4 4.63: 00:04:01 4.63_Count: 4 4.64: 00:02:02 4.64_Count: 2 4.65: 00:02:44 4.65_Count: 3 4.66: 00:03:01 4.66_Count: 3 4.67: 00:01:00 4.67_Count: 1 4.68: 00:02:00 4.68_Count: 2 4.69: 00:03:00 4.69_Count: 3 4.6: 00:01:00 4.6_Count: 1 4.72: 00:02:00 4.72_Count: 2 4.73: 00:01:00 4.73_Count: 1 4.74: 00:01:01 4.74_Count: 1 4.7: 00:02:00 4.7_Count: 2 (since: 2022-01-16_22:26:54)
+setstate shelly 2022-01-17 19:04:36 statPower_0Year 0: 19:49:15 0_Count: 4 4.53: 00:02:01 4.53_Count: 2 4.54: 00:03:00 4.54_Count: 3 4.55: 00:04:14 4.55_Count: 4 4.56: 00:02:01 4.56_Count: 2 4.58: 00:01:00 4.58_Count: 2 4.59: 00:02:19 4.59_Count: 3 4.61: 00:04:02 4.61_Count: 3 4.62: 00:05:01 4.62_Count: 4 4.63: 00:04:01 4.63_Count: 4 4.64: 00:02:02 4.64_Count: 2 4.65: 00:02:44 4.65_Count: 3 4.66: 00:03:01 4.66_Count: 3 4.67: 00:01:00 4.67_Count: 1 4.68: 00:02:00 4.68_Count: 2 4.69: 00:03:00 4.69_Count: 3 4.6: 00:01:00 4.6_Count: 1 4.72: 00:02:00 4.72_Count: 2 4.73: 00:01:00 4.73_Count: 1 4.74: 00:01:01 4.74_Count: 1 4.7: 00:02:00 4.7_Count: 2 (since: 2022-01-16_22:26:54)
 setstate shelly 2022-01-16 21:59:55 statStateDay OK: 00:03:10 OK_Count: 1 (since: 2022-01-16_21:56:45)
 setstate shelly 2022-01-16 21:59:55 statStateMonth OK: 00:03:10 OK_Count: 1 (since: 2022-01-16_21:56:45)
 setstate shelly 2022-01-16 21:59:55 statStateYear OK: 00:03:10 OK_Count: 1 (since: 2022-01-16_21:56:45)
-setstate shelly 2022-01-17 19:17:38 state OK
-setstate solarstromInWatt 0
-setstate solarstromInWatt 2022-01-17 19:21:38 state 0
+setstate shelly 2022-01-17 18:57:33 state OK
+setstate solarstromInWatt 4.58
+setstate solarstromInWatt 2022-01-17 19:04:38 state 4.58
 setstate stromverbrauchRechner active
-setstate stromverbrauchRechner 2022-01-17 19:17:39 .ReadingDestinationDeviceName stromverbrauchRechner
-setstate stromverbrauchRechner 2022-01-17 19:17:39 .shelly_power_0_LastDV -0.005
-setstate stromverbrauchRechner 2022-01-17 19:17:39 .shelly_power_0_LastDt 60
+setstate stromverbrauchRechner 2022-01-17 19:04:36 .ReadingDestinationDeviceName stromverbrauchRechner
+setstate stromverbrauchRechner 2022-01-17 19:04:36 .shelly_power_0_LastDV 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 .shelly_power_0_LastDt 61
 setstate stromverbrauchRechner 2022-01-17 18:57:34 .shelly_power_0_LastUpdateTimestampUnix 1642442254
-setstate stromverbrauchRechner 2022-01-17 19:17:39 .shelly_power_0_PowerDayCount 45
-setstate stromverbrauchRechner 2022-01-17 19:17:39 .shelly_power_0_PowerDaySum -961.942
-setstate stromverbrauchRechner 2022-01-17 19:17:39 .shelly_power_0_PrevRead 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 .shelly_power_0_PowerDayCount 32
+setstate stromverbrauchRechner 2022-01-17 19:04:36 .shelly_power_0_PowerDaySum -661.942
+setstate stromverbrauchRechner 2022-01-17 19:04:36 .shelly_power_0_PrevRead 0.005
 setstate stromverbrauchRechner 2022-01-16 21:58:16 .shelly_power_0_WFRDayCount 0
 setstate stromverbrauchRechner 2022-01-16 21:58:16 .shelly_power_0_WFRDaySum 0
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_CounterCurrent 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_CounterCurrent 0.005
 setstate stromverbrauchRechner 2022-01-17 00:00:01 shelly_power_0_CounterDay1st 0.000
 setstate stromverbrauchRechner 2022-01-17 00:00:01 shelly_power_0_CounterDayLast 0.000
 setstate stromverbrauchRechner 2022-01-16 21:58:16 shelly_power_0_CounterMeter1st 0.005
@@ -235,20 +249,20 @@ setstate stromverbrauchRechner 2022-01-16 21:58:16 shelly_power_0_CounterMonth1s
 setstate stromverbrauchRechner 2022-01-16 21:58:16 shelly_power_0_CounterMonthLast 0.005
 setstate stromverbrauchRechner 2022-01-16 21:58:16 shelly_power_0_CounterYear1st 0.005
 setstate stromverbrauchRechner 2022-01-16 21:58:16 shelly_power_0_CounterYearLast 0.005
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyCostDay 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyCostDay 0.001
 setstate stromverbrauchRechner 2022-01-17 00:00:01 shelly_power_0_EnergyCostDayLast -0.001
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyCostMeter -0.001
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyCostMonth -0.001
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyCostYear -0.001
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyDay 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyCostMeter -0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyCostMonth -0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyCostYear -0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyDay 0.005
 setstate stromverbrauchRechner 2022-01-17 00:00:01 shelly_power_0_EnergyDayLast -0.005
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyMeter -0.005
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyMonth -0.005
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_EnergyYear -0.005
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_FinanceReserve 0.001
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_MonthMeterReading 12
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_PowerCurrent -300.000
-setstate stromverbrauchRechner 2022-01-17 19:17:39 shelly_power_0_PowerDayAver -21.376
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyMeter -0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyMonth -0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_EnergyYear -0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_FinanceReserve 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_MonthMeterReading 9
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_PowerCurrent 0.000
+setstate stromverbrauchRechner 2022-01-17 19:04:36 shelly_power_0_PowerDayAver -20.686
 setstate stromverbrauchRechner 2022-01-17 18:57:34 shelly_power_0_PowerDayMax 1.917
 setstate stromverbrauchRechner 2022-01-17 00:00:01 shelly_power_0_PowerDayMin -947.368
 setstate stromverbrauchRechner 2022-01-16 21:58:16 shelly_power_0_WFRDayMax 0
@@ -257,8 +271,8 @@ setstate tempMax 21
 setstate tempMax 2022-01-16 10:54:12 state 21
 setstate tempMin 19
 setstate tempMin 2022-01-16 10:53:50 state 19
-setstate testDummy 50
-setstate testDummy 2022-01-17 19:05:31 state 50
+setstate testDummy 100
+setstate testDummy 2022-01-17 18:59:12 state 100
 setstate testPushsafer active
 setstate testPushsafer 2022-01-17 19:04:26 state active
 setstate triggerLuftMax inactive

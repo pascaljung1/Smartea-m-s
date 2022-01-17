@@ -44,21 +44,21 @@
         <ul>
            
             <li data-row="1" data-col="1" data-sizex="1" data-sizey="6">
-                <header>MEN√ú</header>
+                <header class="big">MEN√ú</header>
                 <div class="sheet">
                     <div class="row">
                     
-                            <div data-type="pagebutton" data-url="index.html" data-icon="mi-home" id="menue" class="big"></div>
-                            <div data-type="pagebutton" data-url="a4.html" data-icon="fa-lightbulb" id="menue" class="big"></div>
-                            <div data-type="pagebutton" data-url="a5.html" data-icon="fa-mobile-alt" id="menue" class="big"></div>
-                            <div data-type="pagebutton" data-url="a6.html" data-icon="fa-car-battery" id="menue" class="big"></div>
+                        <div data-type="pagebutton" data-url="index.html" data-on-background-color="blue" data-icon="mi-home" id="menue" class="bigger"></div>
+                        <div data-type="pagebutton" data-url="a4.html" data-on-background-color="blue" data-icon="fa-lightbulb" id="menue" class="bigger top-space-4x"></div>
+                        <div data-type="pagebutton" data-url="a5.html" data-on-background-color="blue" data-icon="fa-mobile-alt" id="menue" class="bigger top-space-4x"></div>
+                        <div data-type="pagebutton" data-url="a6.html" data-on-background-color="blue" data-icon="fa-car-battery" id="menue" class="bigger top-space-4x"></div>
                             
                         
                     </div>
                 </div>
             </li>
             <li data-row="1" data-col="2" data-sizey="2" data-sizex="2">
-                <header>EIN-AUSSCHALTEN</header>
+                <header class="big">EIN-AUSSCHALTEN</header>
                 <div class="sheet">
                     <div class="row">
                         <div class="cell">
@@ -77,22 +77,34 @@
             </li>
            
             <li data-row="2" data-col="2" data-sizey="2" data-sizex="2">
-                <header>PUSH-BENACHRICHTIGUNG KONFIGURIEREN</header>
+                <header class="big">PUSH-BENACHRICHTIGUNG KONFIGURIEREN</header>
                 <div class="sheet">
                     <div class="row">
                        
                         <div class="cell">
-                            <div class="cell-50" data-type="select" data-device="dummy" data-items='["Windst√§rke","Sturmb√∂enst√§rke"]' data-get="input" data-set="input"></div>
-                        </div>
-                        <div class="cell">
-                            <div data-type="thermostat" data-device="dummy" data-valve="ValvePosition"	data-min="1" data-max="200"></div>
-                        </div>
 
+                            <div class="hbox">
+                                <div data-type="label" class="hbox">Windst√§rke:</div>
+                                <div class="value horizontal" data-type="slider" data-device="windSchwelle"	data-min="1" data-max="50"></div>
+                            </div>
+                        </div>
                     </div>
+                    <div class="row">
+                       
+                        <div class="cell">
+
+                            <div class="hbox">
+                                <div data-type="label" class="hbox">Sturmb√∂nstae√√r√ke:§</div>
+                                <div class="value horizontal" data-type="slider" data-device="boeeSchwelle"	data-min="1" data-max="50"></div>
+                            </div>
+                        </div>
+                    </div>
+                       
+                    
                 </div>
             </li>
             <li data-row="3" data-col="2" data-sizey="2" data-sizex="2">
-                <header>KONFIGUARTION</header>
+                <header class="big">KONFIGUARTION</header>
                 <div class="sheet">
                     <div class="row">
                         <div class="cell">
