@@ -46,4 +46,14 @@ setCheckIntervallTime($)
     fhem("set checkWattIntervall modifyTimeSpec $fhemtime");
 }
 
+sub
+setStromzaehlerShelly()
+{
+my $energy = ReadingsVal("shelly","energy_0","0");
+my $stromzaheler = ReadingsVal("stromzaehlerShelly","state","0");
+if($stromzaheler < $energy){
+  fhem("set stromzaehlerShelly $energy");
+}
+}
+
 1;

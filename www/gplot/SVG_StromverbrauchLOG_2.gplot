@@ -1,4 +1,4 @@
-# Created by FHEM/98_SVG.pm, 2022-01-17 16:42:52
+# Created by FHEM/98_SVG.pm, 2022-01-18 14:12:47
 set terminal png transparent size <SIZE> crop
 set output '<OUT>.png'
 set xdata time
@@ -11,6 +11,6 @@ set grid
 set ylabel "Humidity"
 set y2label "Temperature"
 
-#StromverbrauchLOG 4:shelly.power_0\x3a::delta-d
+#StromverbrauchLOG 4:shelly.*::delta-d
 
-plot "<IN>" using 1:2 axes x1y2 title 'Line 1' ls l0 lw 1 with bars
+plot "<IN>" using 1:2 axes x1y2 title 'Line 1' ls l0fill lw 1 with bars

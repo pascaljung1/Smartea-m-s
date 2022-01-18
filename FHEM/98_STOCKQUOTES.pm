@@ -1,3 +1,5 @@
+# $Id: 98_STOCKQUOTES.pm 18772 2019-03-02 14:00:08Z vbs $
+
 package main;
 
 use strict;
@@ -27,7 +29,7 @@ sub STOCKQUOTES_Define($$)
   }
 
   $attr{$hash->{NAME}}{"pollInterval"} = 300;
-  $attr{$hash->{NAME}}{"queryTimeout"} = 120;
+  $attr{$hash->{NAME}}{"queryTimeout"} = 360;
   $attr{$hash->{NAME}}{"defaultSource"} = "europe";
   $attr{$hash->{NAME}}{"currency"} = "EUR";
   
@@ -83,18 +85,20 @@ sub STOCKQUOTES_SetStockHashes($$)
 {
   my ($hash, $stocks) = @_;
   
+  my $name = $hash->{NAME};
   my $str = "";
   my $first = 1;
+  
   foreach my $ex (keys %{ $stocks }) {
     $str .= "," unless $first;
     $first = 0;
-    Log3 $hash->{NAME}, 4, "KEY: $ex";
+    Log3 $name, 4, "KEY: $ex";
     
     $str .= $ex . ":" . $stocks->{$ex}[0] . ":" . $stocks->{$ex}[1];
   }
   
-  Log3 $hash->{NAME}, 5, "STOCKQUOTES_SetStockHashes: $str";
-  $attr{$hash->{NAME}}{"stocks"} = $str;
+  Log3 $name, 5, "STOCKQUOTES_SetStockHashes: $str";
+  $attr{$name}{"stocks"} = $str;
   
   return undef;
 }
@@ -268,7 +272,7 @@ sub STOCKQUOTES_QueryQuotes($)
     $hash->{helper}{RUNNING_PID} = BlockingCall("STOCKQUOTES_QueryQuotesBlocking", 
                                                 $hash, 
                                                 "STOCKQUOTES_QueryQuotesFinished", 
-                                                AttrVal($hash, "queryTimeout", 120),
+                                                AttrVal($name, "queryTimeout", 360),
                                                 "STOCKQUOTES_QueryQuotesAbort", 
                                                 $hash);
   }
@@ -327,18 +331,22 @@ sub STOCKQUOTES_QueryQuotesBlocking($)
     Log3 $name, 4, "STOCKQUOTES_QueryQuotesBlocking: Fetching from source: $srcKey"; 
     my %quotes = $hash->{QUOTER}->fetch($srcKey, @{$sources{$srcKey}});
 
-    foreach my $tag (keys %quotes) {
-      my @keys = split($;, $tag);
+    if (%quotes) {
+      foreach my $tag (keys %quotes) {
+        my @keys = split($;, $tag);
       
-      next if $quotes{$keys[0], 'success'} != 1;
+        next if $quotes{$keys[0], 'success'} != 1;
       
-      my $val = $quotes{$keys[0], $keys[1]};
-      next if (not defined $val);
+        my $val = $quotes{$keys[0], $keys[1]};
+        next if (not defined $val);
       
-      $ret .= "|" . join("&", @keys) . "&";
-      $val = encode('UTF-8', $val, Encode::FB_CROAK) if ($keys[1] eq "name");
-      $ret .= $val;
-    }
+        $ret .= '|' . join('@', @keys) . '@';
+        $val = encode('UTF-8', $val, Encode::FB_CROAK) if ($keys[1] eq "name");
+        $ret .= $val;
+      }
+    } else {
+        Log3 $name, 1, "STOCKQUOTES_QueryQuotesBlocking: Fetching from source $srcKey wasn't successful!";
+    }  
   }
   
   Log3 $name, 4, 'STOCKQUOTES_QueryQuotesBlocking Return value: ' . $ret;
@@ -378,7 +386,7 @@ sub STOCKQUOTES_QueryQuotesFinished($)
   readingsBeginUpdate($hash);
   for my $i (1 .. $#a)
   {
-    my @toks = split '&',$a[$i];
+    my @toks = split '@',$a[$i];
     
     # HACK: replace "3.2%" with "3.2" since we dont want units
     chop $toks[2] if ($toks[1] eq "p_change" and $toks[2] =~ /%$/);
@@ -398,9 +406,10 @@ sub STOCKQUOTES_QueryQuotesFinished($)
     my $stockCount = $stocks->{$i}->[0];
     my $stockBuyPrice = $stocks->{$i}->[1];
     my $last = (exists $stockState{$i}{"last"}) ? $stockState{$i}{"last"} : undef;
-    my $previous = (exists $stockState{$i}{"previous"}) ? $stockState{$i}{"previous"} : undef;
+    my $previous = (exists $stockState{$i}{"close"}) ? $stockState{$i}{"close"} : undef;
     my $stockValue = (defined $last) ? $stockCount * $last : undef;
     my $stockValuePrev = (defined $previous) ? $stockCount * $previous : undef;
+    my $net = (exists $stockState{$i}{"net"}) ? $stockState{$i}{"net"} : undef;
         
     # statics
     readingsBulkUpdate($hash, $i . "_d_stockcount", $stockCount);    
@@ -414,7 +423,16 @@ sub STOCKQUOTES_QueryQuotesFinished($)
         readingsBulkUpdate($hash, $i . "_d_value_diff_total", sprintf("%.2f", $stockValue - $stockBuyPrice));
         readingsBulkUpdate($hash, $i . "_d_p_change_total", ($stockBuyPrice == 0) ? 0 : sprintf("%.2f", 100.0 * (($stockValue / $stockBuyPrice) - 1 )));
         
-        my $valueDiff = (defined $previous and defined $last) ? $stockCount * ($last - $previous) : undef;
+#        my $valueDiff = (defined $previous and defined $last) ? $stockCount * ($last - $previous) : undef;
+        my $valueDiff = undef;             
+
+        if (defined $previous and defined $last) {
+            $valueDiff = $stockCount * ($last - $previous);
+        } elsif (defined $net) {
+            $valueDiff = $stockCount * $net;
+        } else {
+        }    
+
         readingsBulkUpdate($hash, $i . "_d_value_diff", sprintf("%.2f", $valueDiff)) if defined $valueDiff;
     }
     if (defined($stockValuePrev))
@@ -470,6 +488,7 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 =item summary fetches stock quotes from data sources
 =item summary_DE Kursdaten von Wertpapieren
 =begin html
+
 <a name="STOCKQUOTES"></a>
 <h3>STOCKQUOTES</h3>
 (en | <a href="commandref_DE.html#STOCKQUOTES">de</a>)
@@ -484,6 +503,7 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 	<ul>
 		<code>define Depot STOCKQUOTES</code><br><br>
 	</ul>
+
 	<a name="STOCKQUOTESset"></a>
 	<b>Set</b>
 	<ul>
@@ -518,6 +538,7 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 			Get currency of stock exchange securities<br><br>
 		</li>
 	</ul>
+
 	<a name="STOCKQUOTESattr"></a>
 	<b>Attributes</b>
 	<ul>
@@ -550,8 +571,11 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 		</li>
 	</ul><br>
 </ul>
+
 =end html
+
 =begin html_DE
+
 <a name="STOCKQUOTES"></a>
 <h3>STOCKQUOTES</h3>
 (<a href="commandref.html#STOCKQUOTES">en</a> | de)
@@ -566,6 +590,7 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 	<ul>
 		<code>define &lt;name&gt; STOCKQUOTES</code><br><br>
 	</ul>
+
 	<a name="STOCKQUOTESset"></a>
 	<b>Set</b>
 	<ul>
@@ -600,6 +625,7 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 			Wertpapierw&auml;hrung ermitteln<br><br>
 		</li>
 	</ul>
+
 	<a name="STOCKQUOTESattr"></a>
 	<b>Attribute</b>
 	<ul>
@@ -632,5 +658,6 @@ sub STOCKQUOTES_QueryQuotesFinished($)
 		</li>
 	</ul><br>
 </ul>
+
 =end html_DE
 =cut

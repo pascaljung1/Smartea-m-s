@@ -140,9 +140,9 @@
                                 <div class="dialog">
                                     <header class="big">Aktivierung in bestimmtem Zeitraum</header>
                                     <div data-type="label" >Beginn Zeitraum:</div>
-                                    <div data-type="datetimepicker"  id="datetimepicker"  data-format="Y-m-d" data-device="dummy1" data-timepicker="false" class="inline">Y-m-d</div>
+                                    <div data-type="datetimepicker"  id="datetimepicker"  data-format="Y-m-d\TH:i:s" data-device="boilereinschaltzeit" data-timepicker="false" class="inline">Y-m-d</div>
                                     <div data-type="label" >Ende Zeitraum:</div>
-                                    <div data-type="datetimepicker"  id="datetimepicker" data-format="Y-m-d" data-device="dummy1" data-timepicker="false" class="inline">Y-m-d</div>
+                                    <div data-type="datetimepicker"  id="datetimepicker" data-format="Y-m-d\TH:i:s" data-device="boilerausschaltzeit" data-timepicker="false" class="inline">Y-m-d</div>
                                 </div>
                         </div>
                         <div class="cell">
@@ -420,35 +420,35 @@
                             </div>
                             <div class="cell">
                                 <div data-type="label" class="left-align">Aktueller Tag:</div>
-                                <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyDay"  data-unit=" kWh">xxx</div>
+                                <div data-type="label" class="left-align"  data-device="StromverbrauchTag" data-get="Verbrauch"  data-unit=" kWh">xxx</div>
                             </div>
                             <div class="cell">
                                 <div data-type="label" class="left-align">Vorhergehender Tag:</div>
-                                <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyDayLast"  data-unit=" kWh">xxx</div>
+                                <div data-type="label" class="left-align"  data-device="StromverbrauchTag" data-get="VerbrauchVortag"  data-unit=" kWh">xxx</div>
                             </div>
                             <div class="cell">
                                 <div data-type="label" class="left-align">Aktuelle Woche:</div>
-                                <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyMeter"  data-unit=" kWh">xxx</div>
+                                <div data-type="label" class="left-align"  data-device="StromverbrauchWoche" data-get="Verbrauch"  data-unit=" kWh">xxx</div>
                             </div>
                             <div class="cell">
                             <div data-type="label" class="left-align">Vorhergehende Woche:</div>
-                            <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyMeterLast"  data-unit=" kWh">xxx</div>
+                            <div data-type="label" class="left-align"  data-device="StromverbrauchWoche" data-get="VerbrauchVorwoche"  data-unit=" kWh">xxx</div>
                         </div>
                         <div class="cell">
                             <div data-type="label" class="left-align">Aktueller Monat:</div>
-                            <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyMonth"  data-unit=" kWh">xxx</div>
+                            <div data-type="label" class="left-align"  data-device="StromverbrauchMonat" data-get="Verbrauch"  data-unit=" kWh">xxx</div>
                         </div>
                         <div class="cell">
                             <div data-type="label" class="left-align">Vorhergehender Monat:</div>
-                            <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyMonthLast"  data-unit=" kWh">xxx</div>
+                            <div data-type="label" class="left-align"  data-device="StromverbrauchMonat" data-get="VerbrauchVormonat"  data-unit=" kWh">xxx</div>
                         </div>
                         <div class="cell">
                             <div data-type="label" class="left-align">Aktuelles Jahr:</div>
-                            <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyYear"  data-unit=" kWh">xxx</div>
+                            <div data-type="label" class="left-align"  data-device="StromverbrauchJahr" data-get="Verbrauch"  data-unit=" kWh">xxx</div>
                         </div>
                         <div class="cell">
                             <div data-type="label" class="left-align">Vorhergehendes Jahr:</div>
-                            <div data-type="label" class="left-align"  data-device="stromverbrauchRechner" data-get="shelly_power_0_EnergyYearLast"  data-unit=" kWh">xxx</div>
+                            <div data-type="label" class="left-align"  data-device="StromverbrauchJahr" data-get="VerbrauchVorjahr"  data-unit=" kWh">xxx</div>
                         </div>
                         <div class="cell">
                             <div class="hbox">
