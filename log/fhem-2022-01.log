@@ -28460,3 +28460,4135 @@ elsif"
 2022.01.19 08:15:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
 2022.01.19 08:16:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
 2022.01.19 08:16:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:20:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:21:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:21:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:22:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:23:38 2: syntax error at (eval 43916) line 2, near "\
+elsif"
+syntax error at (eval 43916) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43917) line 2, near "\
+elsif"
+syntax error at (eval 43917) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43922) line 2, near "\
+elsif"
+syntax error at (eval 43922) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43923) line 2, near "\
+elsif"
+syntax error at (eval 43923) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43925) line 2, near "\
+elsif"
+syntax error at (eval 43925) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43926) line 2, near "\
+elsif"
+syntax error at (eval 43926) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43928) line 2, near "\
+elsif"
+syntax error at (eval 43928) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43929) line 2, near "\
+elsif"
+syntax error at (eval 43929) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43931) line 2, near "\
+elsif"
+syntax error at (eval 43931) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43932) line 2, near "\
+elsif"
+syntax error at (eval 43932) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43934) line 2, near "\
+elsif"
+syntax error at (eval 43934) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43935) line 2, near "\
+elsif"
+syntax error at (eval 43935) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43937) line 2, near "\
+elsif"
+syntax error at (eval 43937) line 3, near "\
+elsif"
+
+2022.01.19 08:23:38 2: syntax error at (eval 43938) line 2, near "\
+elsif"
+syntax error at (eval 43938) line 3, near "\
+elsif"
+
+2022.01.19 08:25:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:25:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:28:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:28:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:29:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:30:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:30:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:31:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:31:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:32:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:32:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:33:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:33:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:34:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:34:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:35:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:35:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:36:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:36:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:37:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:37:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:38:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:38:38 2: syntax error at (eval 44278) line 2, near "\
+elsif"
+syntax error at (eval 44278) line 3, near "\
+elsif"
+
+2022.01.19 08:38:38 2: syntax error at (eval 44279) line 2, near "\
+elsif"
+syntax error at (eval 44279) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44284) line 2, near "\
+elsif"
+syntax error at (eval 44284) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44285) line 2, near "\
+elsif"
+syntax error at (eval 44285) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44287) line 2, near "\
+elsif"
+syntax error at (eval 44287) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44288) line 2, near "\
+elsif"
+syntax error at (eval 44288) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44290) line 2, near "\
+elsif"
+syntax error at (eval 44290) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44291) line 2, near "\
+elsif"
+syntax error at (eval 44291) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44293) line 2, near "\
+elsif"
+syntax error at (eval 44293) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44294) line 2, near "\
+elsif"
+syntax error at (eval 44294) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44296) line 2, near "\
+elsif"
+syntax error at (eval 44296) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44297) line 2, near "\
+elsif"
+syntax error at (eval 44297) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44299) line 2, near "\
+elsif"
+syntax error at (eval 44299) line 3, near "\
+elsif"
+
+2022.01.19 08:38:39 2: syntax error at (eval 44300) line 2, near "\
+elsif"
+syntax error at (eval 44300) line 3, near "\
+elsif"
+
+2022.01.19 08:38:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:40:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:42:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:42:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:45:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:45:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:49:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:49:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:50:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:50:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:51:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:51:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:52:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:52:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:53:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:53:39 2: syntax error at (eval 44648) line 2, near "\
+elsif"
+syntax error at (eval 44648) line 3, near "\
+elsif"
+
+2022.01.19 08:53:39 2: syntax error at (eval 44649) line 2, near "\
+elsif"
+syntax error at (eval 44649) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44654) line 2, near "\
+elsif"
+syntax error at (eval 44654) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44655) line 2, near "\
+elsif"
+syntax error at (eval 44655) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44657) line 2, near "\
+elsif"
+syntax error at (eval 44657) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44658) line 2, near "\
+elsif"
+syntax error at (eval 44658) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44660) line 2, near "\
+elsif"
+syntax error at (eval 44660) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44661) line 2, near "\
+elsif"
+syntax error at (eval 44661) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44663) line 2, near "\
+elsif"
+syntax error at (eval 44663) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44664) line 2, near "\
+elsif"
+syntax error at (eval 44664) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44666) line 2, near "\
+elsif"
+syntax error at (eval 44666) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44667) line 2, near "\
+elsif"
+syntax error at (eval 44667) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44669) line 2, near "\
+elsif"
+syntax error at (eval 44669) line 3, near "\
+elsif"
+
+2022.01.19 08:53:40 2: syntax error at (eval 44670) line 2, near "\
+elsif"
+syntax error at (eval 44670) line 3, near "\
+elsif"
+
+2022.01.19 08:53:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:54:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:54:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:55:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:55:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:56:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:56:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:57:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:57:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:58:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:58:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 08:59:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:00:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:00:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:01:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:01:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:02:23 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:02:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:05:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:07:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:07:55 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:08:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:08:40 2: syntax error at (eval 45008) line 2, near "\
+elsif"
+syntax error at (eval 45008) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45009) line 2, near "\
+elsif"
+syntax error at (eval 45009) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45014) line 2, near "\
+elsif"
+syntax error at (eval 45014) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45015) line 2, near "\
+elsif"
+syntax error at (eval 45015) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45017) line 2, near "\
+elsif"
+syntax error at (eval 45017) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45018) line 2, near "\
+elsif"
+syntax error at (eval 45018) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45020) line 2, near "\
+elsif"
+syntax error at (eval 45020) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45021) line 2, near "\
+elsif"
+syntax error at (eval 45021) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45023) line 2, near "\
+elsif"
+syntax error at (eval 45023) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45024) line 2, near "\
+elsif"
+syntax error at (eval 45024) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45026) line 2, near "\
+elsif"
+syntax error at (eval 45026) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45027) line 2, near "\
+elsif"
+syntax error at (eval 45027) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45029) line 2, near "\
+elsif"
+syntax error at (eval 45029) line 3, near "\
+elsif"
+
+2022.01.19 09:08:40 2: syntax error at (eval 45030) line 2, near "\
+elsif"
+syntax error at (eval 45030) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45145) line 2, near "\
+elsif"
+syntax error at (eval 45145) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45146) line 2, near "\
+elsif"
+syntax error at (eval 45146) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45151) line 2, near "\
+elsif"
+syntax error at (eval 45151) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45152) line 2, near "\
+elsif"
+syntax error at (eval 45152) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45157) line 2, near "\
+elsif"
+syntax error at (eval 45157) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45158) line 2, near "\
+elsif"
+syntax error at (eval 45158) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45163) line 2, near "\
+elsif"
+syntax error at (eval 45163) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45164) line 2, near "\
+elsif"
+syntax error at (eval 45164) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45169) line 2, near "\
+elsif"
+syntax error at (eval 45169) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45170) line 2, near "\
+elsif"
+syntax error at (eval 45170) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45175) line 2, near "\
+elsif"
+syntax error at (eval 45175) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45176) line 2, near "\
+elsif"
+syntax error at (eval 45176) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45181) line 2, near "\
+elsif"
+syntax error at (eval 45181) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45182) line 2, near "\
+elsif"
+syntax error at (eval 45182) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45187) line 2, near "\
+elsif"
+syntax error at (eval 45187) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45188) line 2, near "\
+elsif"
+syntax error at (eval 45188) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45193) line 2, near "\
+elsif"
+syntax error at (eval 45193) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45194) line 2, near "\
+elsif"
+syntax error at (eval 45194) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45199) line 2, near "\
+elsif"
+syntax error at (eval 45199) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45200) line 2, near "\
+elsif"
+syntax error at (eval 45200) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45211) line 2, near "\
+elsif"
+syntax error at (eval 45211) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45212) line 2, near "\
+elsif"
+syntax error at (eval 45212) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45217) line 2, near "\
+elsif"
+syntax error at (eval 45217) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45218) line 2, near "\
+elsif"
+syntax error at (eval 45218) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45223) line 2, near "\
+elsif"
+syntax error at (eval 45223) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45224) line 2, near "\
+elsif"
+syntax error at (eval 45224) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45229) line 2, near "\
+elsif"
+syntax error at (eval 45229) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45230) line 2, near "\
+elsif"
+syntax error at (eval 45230) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45235) line 2, near "\
+elsif"
+syntax error at (eval 45235) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45236) line 2, near "\
+elsif"
+syntax error at (eval 45236) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45241) line 2, near "\
+elsif"
+syntax error at (eval 45241) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45242) line 2, near "\
+elsif"
+syntax error at (eval 45242) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45247) line 2, near "\
+elsif"
+syntax error at (eval 45247) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45248) line 2, near "\
+elsif"
+syntax error at (eval 45248) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45253) line 2, near "\
+elsif"
+syntax error at (eval 45253) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45254) line 2, near "\
+elsif"
+syntax error at (eval 45254) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45259) line 2, near "\
+elsif"
+syntax error at (eval 45259) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45260) line 2, near "\
+elsif"
+syntax error at (eval 45260) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45265) line 2, near "\
+elsif"
+syntax error at (eval 45265) line 3, near "\
+elsif"
+
+2022.01.19 09:11:32 2: syntax error at (eval 45266) line 2, near "\
+elsif"
+syntax error at (eval 45266) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45308) line 2, near "\
+elsif"
+syntax error at (eval 45308) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45309) line 2, near "\
+elsif"
+syntax error at (eval 45309) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45314) line 2, near "\
+elsif"
+syntax error at (eval 45314) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45315) line 2, near "\
+elsif"
+syntax error at (eval 45315) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45320) line 2, near "\
+elsif"
+syntax error at (eval 45320) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45321) line 2, near "\
+elsif"
+syntax error at (eval 45321) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45326) line 2, near "\
+elsif"
+syntax error at (eval 45326) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45327) line 2, near "\
+elsif"
+syntax error at (eval 45327) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45332) line 2, near "\
+elsif"
+syntax error at (eval 45332) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45333) line 2, near "\
+elsif"
+syntax error at (eval 45333) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45338) line 2, near "\
+elsif"
+syntax error at (eval 45338) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45339) line 2, near "\
+elsif"
+syntax error at (eval 45339) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45344) line 2, near "\
+elsif"
+syntax error at (eval 45344) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45345) line 2, near "\
+elsif"
+syntax error at (eval 45345) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45350) line 2, near "\
+elsif"
+syntax error at (eval 45350) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45351) line 2, near "\
+elsif"
+syntax error at (eval 45351) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45356) line 2, near "\
+elsif"
+syntax error at (eval 45356) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45357) line 2, near "\
+elsif"
+syntax error at (eval 45357) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45362) line 2, near "\
+elsif"
+syntax error at (eval 45362) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45363) line 2, near "\
+elsif"
+syntax error at (eval 45363) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45374) line 2, near "\
+elsif"
+syntax error at (eval 45374) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45375) line 2, near "\
+elsif"
+syntax error at (eval 45375) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45380) line 2, near "\
+elsif"
+syntax error at (eval 45380) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45381) line 2, near "\
+elsif"
+syntax error at (eval 45381) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45386) line 2, near "\
+elsif"
+syntax error at (eval 45386) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45387) line 2, near "\
+elsif"
+syntax error at (eval 45387) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45392) line 2, near "\
+elsif"
+syntax error at (eval 45392) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45393) line 2, near "\
+elsif"
+syntax error at (eval 45393) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45398) line 2, near "\
+elsif"
+syntax error at (eval 45398) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45399) line 2, near "\
+elsif"
+syntax error at (eval 45399) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45404) line 2, near "\
+elsif"
+syntax error at (eval 45404) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45405) line 2, near "\
+elsif"
+syntax error at (eval 45405) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45410) line 2, near "\
+elsif"
+syntax error at (eval 45410) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45411) line 2, near "\
+elsif"
+syntax error at (eval 45411) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45416) line 2, near "\
+elsif"
+syntax error at (eval 45416) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45417) line 2, near "\
+elsif"
+syntax error at (eval 45417) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45422) line 2, near "\
+elsif"
+syntax error at (eval 45422) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45423) line 2, near "\
+elsif"
+syntax error at (eval 45423) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45428) line 2, near "\
+elsif"
+syntax error at (eval 45428) line 3, near "\
+elsif"
+
+2022.01.19 09:11:48 2: syntax error at (eval 45429) line 2, near "\
+elsif"
+syntax error at (eval 45429) line 3, near "\
+elsif"
+
+2022.01.19 09:14:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:14:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:15:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:15:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:16:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:16:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:20:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:21:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:21:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:23:40 2: syntax error at (eval 45733) line 2, near "\
+elsif"
+syntax error at (eval 45733) line 3, near "\
+elsif"
+
+2022.01.19 09:23:40 2: syntax error at (eval 45734) line 2, near "\
+elsif"
+syntax error at (eval 45734) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45739) line 2, near "\
+elsif"
+syntax error at (eval 45739) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45740) line 2, near "\
+elsif"
+syntax error at (eval 45740) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45742) line 2, near "\
+elsif"
+syntax error at (eval 45742) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45743) line 2, near "\
+elsif"
+syntax error at (eval 45743) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45745) line 2, near "\
+elsif"
+syntax error at (eval 45745) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45746) line 2, near "\
+elsif"
+syntax error at (eval 45746) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45748) line 2, near "\
+elsif"
+syntax error at (eval 45748) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45749) line 2, near "\
+elsif"
+syntax error at (eval 45749) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45751) line 2, near "\
+elsif"
+syntax error at (eval 45751) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45752) line 2, near "\
+elsif"
+syntax error at (eval 45752) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45754) line 2, near "\
+elsif"
+syntax error at (eval 45754) line 3, near "\
+elsif"
+
+2022.01.19 09:23:41 2: syntax error at (eval 45755) line 2, near "\
+elsif"
+syntax error at (eval 45755) line 3, near "\
+elsif"
+
+2022.01.19 09:24:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:25:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:28:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:28:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:29:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:30:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:30:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:31:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:32:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:33:20 2: syntax error at (eval 46023) line 2, near "\
+elsif"
+syntax error at (eval 46023) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46024) line 2, near "\
+elsif"
+syntax error at (eval 46024) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46029) line 2, near "\
+elsif"
+syntax error at (eval 46029) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46030) line 2, near "\
+elsif"
+syntax error at (eval 46030) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46035) line 2, near "\
+elsif"
+syntax error at (eval 46035) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46036) line 2, near "\
+elsif"
+syntax error at (eval 46036) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46041) line 2, near "\
+elsif"
+syntax error at (eval 46041) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46042) line 2, near "\
+elsif"
+syntax error at (eval 46042) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46047) line 2, near "\
+elsif"
+syntax error at (eval 46047) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46048) line 2, near "\
+elsif"
+syntax error at (eval 46048) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46053) line 2, near "\
+elsif"
+syntax error at (eval 46053) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46054) line 2, near "\
+elsif"
+syntax error at (eval 46054) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46059) line 2, near "\
+elsif"
+syntax error at (eval 46059) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46060) line 2, near "\
+elsif"
+syntax error at (eval 46060) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46065) line 2, near "\
+elsif"
+syntax error at (eval 46065) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46066) line 2, near "\
+elsif"
+syntax error at (eval 46066) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46071) line 2, near "\
+elsif"
+syntax error at (eval 46071) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46072) line 2, near "\
+elsif"
+syntax error at (eval 46072) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46077) line 2, near "\
+elsif"
+syntax error at (eval 46077) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46078) line 2, near "\
+elsif"
+syntax error at (eval 46078) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46089) line 2, near "\
+elsif"
+syntax error at (eval 46089) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46090) line 2, near "\
+elsif"
+syntax error at (eval 46090) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46095) line 2, near "\
+elsif"
+syntax error at (eval 46095) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46096) line 2, near "\
+elsif"
+syntax error at (eval 46096) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46101) line 2, near "\
+elsif"
+syntax error at (eval 46101) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46102) line 2, near "\
+elsif"
+syntax error at (eval 46102) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46107) line 2, near "\
+elsif"
+syntax error at (eval 46107) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46108) line 2, near "\
+elsif"
+syntax error at (eval 46108) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46113) line 2, near "\
+elsif"
+syntax error at (eval 46113) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46114) line 2, near "\
+elsif"
+syntax error at (eval 46114) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46119) line 2, near "\
+elsif"
+syntax error at (eval 46119) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46120) line 2, near "\
+elsif"
+syntax error at (eval 46120) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46125) line 2, near "\
+elsif"
+syntax error at (eval 46125) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46126) line 2, near "\
+elsif"
+syntax error at (eval 46126) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46131) line 2, near "\
+elsif"
+syntax error at (eval 46131) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46132) line 2, near "\
+elsif"
+syntax error at (eval 46132) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46137) line 2, near "\
+elsif"
+syntax error at (eval 46137) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46138) line 2, near "\
+elsif"
+syntax error at (eval 46138) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46143) line 2, near "\
+elsif"
+syntax error at (eval 46143) line 3, near "\
+elsif"
+
+2022.01.19 09:33:20 2: syntax error at (eval 46144) line 2, near "\
+elsif"
+syntax error at (eval 46144) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46195) line 2, near "\
+elsif"
+syntax error at (eval 46195) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46196) line 2, near "\
+elsif"
+syntax error at (eval 46196) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46201) line 2, near "\
+elsif"
+syntax error at (eval 46201) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46202) line 2, near "\
+elsif"
+syntax error at (eval 46202) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46207) line 2, near "\
+elsif"
+syntax error at (eval 46207) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46208) line 2, near "\
+elsif"
+syntax error at (eval 46208) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46213) line 2, near "\
+elsif"
+syntax error at (eval 46213) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46214) line 2, near "\
+elsif"
+syntax error at (eval 46214) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46219) line 2, near "\
+elsif"
+syntax error at (eval 46219) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46220) line 2, near "\
+elsif"
+syntax error at (eval 46220) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46225) line 2, near "\
+elsif"
+syntax error at (eval 46225) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46226) line 2, near "\
+elsif"
+syntax error at (eval 46226) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46231) line 2, near "\
+elsif"
+syntax error at (eval 46231) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46232) line 2, near "\
+elsif"
+syntax error at (eval 46232) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46237) line 2, near "\
+elsif"
+syntax error at (eval 46237) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46238) line 2, near "\
+elsif"
+syntax error at (eval 46238) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46243) line 2, near "\
+elsif"
+syntax error at (eval 46243) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46244) line 2, near "\
+elsif"
+syntax error at (eval 46244) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46249) line 2, near "\
+elsif"
+syntax error at (eval 46249) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46250) line 2, near "\
+elsif"
+syntax error at (eval 46250) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46261) line 2, near "\
+elsif"
+syntax error at (eval 46261) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46262) line 2, near "\
+elsif"
+syntax error at (eval 46262) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46267) line 2, near "\
+elsif"
+syntax error at (eval 46267) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46268) line 2, near "\
+elsif"
+syntax error at (eval 46268) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46273) line 2, near "\
+elsif"
+syntax error at (eval 46273) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46274) line 2, near "\
+elsif"
+syntax error at (eval 46274) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46279) line 2, near "\
+elsif"
+syntax error at (eval 46279) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46280) line 2, near "\
+elsif"
+syntax error at (eval 46280) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46285) line 2, near "\
+elsif"
+syntax error at (eval 46285) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46286) line 2, near "\
+elsif"
+syntax error at (eval 46286) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46291) line 2, near "\
+elsif"
+syntax error at (eval 46291) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46292) line 2, near "\
+elsif"
+syntax error at (eval 46292) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46297) line 2, near "\
+elsif"
+syntax error at (eval 46297) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46298) line 2, near "\
+elsif"
+syntax error at (eval 46298) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46303) line 2, near "\
+elsif"
+syntax error at (eval 46303) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46304) line 2, near "\
+elsif"
+syntax error at (eval 46304) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46309) line 2, near "\
+elsif"
+syntax error at (eval 46309) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46310) line 2, near "\
+elsif"
+syntax error at (eval 46310) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46315) line 2, near "\
+elsif"
+syntax error at (eval 46315) line 3, near "\
+elsif"
+
+2022.01.19 09:33:38 2: syntax error at (eval 46316) line 2, near "\
+elsif"
+syntax error at (eval 46316) line 3, near "\
+elsif"
+
+2022.01.19 09:35:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:35:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:36:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:36:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:37:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:37:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:38:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:38:41 2: syntax error at (eval 46474) line 2, near "\
+elsif"
+syntax error at (eval 46474) line 3, near "\
+elsif"
+
+2022.01.19 09:38:41 2: syntax error at (eval 46475) line 2, near "\
+elsif"
+syntax error at (eval 46475) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46481) line 2, near "\
+elsif"
+syntax error at (eval 46481) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46482) line 2, near "\
+elsif"
+syntax error at (eval 46482) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46484) line 2, near "\
+elsif"
+syntax error at (eval 46484) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46485) line 2, near "\
+elsif"
+syntax error at (eval 46485) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46487) line 2, near "\
+elsif"
+syntax error at (eval 46487) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46488) line 2, near "\
+elsif"
+syntax error at (eval 46488) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46490) line 2, near "\
+elsif"
+syntax error at (eval 46490) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46491) line 2, near "\
+elsif"
+syntax error at (eval 46491) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46493) line 2, near "\
+elsif"
+syntax error at (eval 46493) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46494) line 2, near "\
+elsif"
+syntax error at (eval 46494) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46496) line 2, near "\
+elsif"
+syntax error at (eval 46496) line 3, near "\
+elsif"
+
+2022.01.19 09:38:42 2: syntax error at (eval 46497) line 2, near "\
+elsif"
+syntax error at (eval 46497) line 3, near "\
+elsif"
+
+2022.01.19 09:38:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:39:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:39:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:40:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:40:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:41:04 2: syntax error at (eval 46595) line 2, near "\
+elsif"
+syntax error at (eval 46595) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46596) line 2, near "\
+elsif"
+syntax error at (eval 46596) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46601) line 2, near "\
+elsif"
+syntax error at (eval 46601) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46602) line 2, near "\
+elsif"
+syntax error at (eval 46602) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46607) line 2, near "\
+elsif"
+syntax error at (eval 46607) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46608) line 2, near "\
+elsif"
+syntax error at (eval 46608) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46613) line 2, near "\
+elsif"
+syntax error at (eval 46613) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46614) line 2, near "\
+elsif"
+syntax error at (eval 46614) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46619) line 2, near "\
+elsif"
+syntax error at (eval 46619) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46620) line 2, near "\
+elsif"
+syntax error at (eval 46620) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46625) line 2, near "\
+elsif"
+syntax error at (eval 46625) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46626) line 2, near "\
+elsif"
+syntax error at (eval 46626) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46631) line 2, near "\
+elsif"
+syntax error at (eval 46631) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46632) line 2, near "\
+elsif"
+syntax error at (eval 46632) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46637) line 2, near "\
+elsif"
+syntax error at (eval 46637) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46638) line 2, near "\
+elsif"
+syntax error at (eval 46638) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46643) line 2, near "\
+elsif"
+syntax error at (eval 46643) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46644) line 2, near "\
+elsif"
+syntax error at (eval 46644) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46649) line 2, near "\
+elsif"
+syntax error at (eval 46649) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46650) line 2, near "\
+elsif"
+syntax error at (eval 46650) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46661) line 2, near "\
+elsif"
+syntax error at (eval 46661) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46662) line 2, near "\
+elsif"
+syntax error at (eval 46662) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46667) line 2, near "\
+elsif"
+syntax error at (eval 46667) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46668) line 2, near "\
+elsif"
+syntax error at (eval 46668) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46673) line 2, near "\
+elsif"
+syntax error at (eval 46673) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46674) line 2, near "\
+elsif"
+syntax error at (eval 46674) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46679) line 2, near "\
+elsif"
+syntax error at (eval 46679) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46680) line 2, near "\
+elsif"
+syntax error at (eval 46680) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46685) line 2, near "\
+elsif"
+syntax error at (eval 46685) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46686) line 2, near "\
+elsif"
+syntax error at (eval 46686) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46691) line 2, near "\
+elsif"
+syntax error at (eval 46691) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46692) line 2, near "\
+elsif"
+syntax error at (eval 46692) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46697) line 2, near "\
+elsif"
+syntax error at (eval 46697) line 3, near "\
+elsif"
+
+2022.01.19 09:41:04 2: syntax error at (eval 46698) line 2, near "\
+elsif"
+syntax error at (eval 46698) line 3, near "\
+elsif"
+
+2022.01.19 09:41:05 2: syntax error at (eval 46703) line 2, near "\
+elsif"
+syntax error at (eval 46703) line 3, near "\
+elsif"
+
+2022.01.19 09:41:05 2: syntax error at (eval 46704) line 2, near "\
+elsif"
+syntax error at (eval 46704) line 3, near "\
+elsif"
+
+2022.01.19 09:41:05 2: syntax error at (eval 46709) line 2, near "\
+elsif"
+syntax error at (eval 46709) line 3, near "\
+elsif"
+
+2022.01.19 09:41:05 2: syntax error at (eval 46710) line 2, near "\
+elsif"
+syntax error at (eval 46710) line 3, near "\
+elsif"
+
+2022.01.19 09:41:05 2: syntax error at (eval 46715) line 2, near "\
+elsif"
+syntax error at (eval 46715) line 3, near "\
+elsif"
+
+2022.01.19 09:41:05 2: syntax error at (eval 46716) line 2, near "\
+elsif"
+syntax error at (eval 46716) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46757) line 2, near "\
+elsif"
+syntax error at (eval 46757) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46758) line 2, near "\
+elsif"
+syntax error at (eval 46758) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46763) line 2, near "\
+elsif"
+syntax error at (eval 46763) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46764) line 2, near "\
+elsif"
+syntax error at (eval 46764) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46769) line 2, near "\
+elsif"
+syntax error at (eval 46769) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46770) line 2, near "\
+elsif"
+syntax error at (eval 46770) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46775) line 2, near "\
+elsif"
+syntax error at (eval 46775) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46776) line 2, near "\
+elsif"
+syntax error at (eval 46776) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46781) line 2, near "\
+elsif"
+syntax error at (eval 46781) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46782) line 2, near "\
+elsif"
+syntax error at (eval 46782) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46787) line 2, near "\
+elsif"
+syntax error at (eval 46787) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46788) line 2, near "\
+elsif"
+syntax error at (eval 46788) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46793) line 2, near "\
+elsif"
+syntax error at (eval 46793) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46794) line 2, near "\
+elsif"
+syntax error at (eval 46794) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46799) line 2, near "\
+elsif"
+syntax error at (eval 46799) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46800) line 2, near "\
+elsif"
+syntax error at (eval 46800) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46805) line 2, near "\
+elsif"
+syntax error at (eval 46805) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46806) line 2, near "\
+elsif"
+syntax error at (eval 46806) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46811) line 2, near "\
+elsif"
+syntax error at (eval 46811) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46812) line 2, near "\
+elsif"
+syntax error at (eval 46812) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46823) line 2, near "\
+elsif"
+syntax error at (eval 46823) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46824) line 2, near "\
+elsif"
+syntax error at (eval 46824) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46829) line 2, near "\
+elsif"
+syntax error at (eval 46829) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46830) line 2, near "\
+elsif"
+syntax error at (eval 46830) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46835) line 2, near "\
+elsif"
+syntax error at (eval 46835) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46836) line 2, near "\
+elsif"
+syntax error at (eval 46836) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46841) line 2, near "\
+elsif"
+syntax error at (eval 46841) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46842) line 2, near "\
+elsif"
+syntax error at (eval 46842) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46847) line 2, near "\
+elsif"
+syntax error at (eval 46847) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46848) line 2, near "\
+elsif"
+syntax error at (eval 46848) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46853) line 2, near "\
+elsif"
+syntax error at (eval 46853) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46854) line 2, near "\
+elsif"
+syntax error at (eval 46854) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46859) line 2, near "\
+elsif"
+syntax error at (eval 46859) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46860) line 2, near "\
+elsif"
+syntax error at (eval 46860) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46865) line 2, near "\
+elsif"
+syntax error at (eval 46865) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46866) line 2, near "\
+elsif"
+syntax error at (eval 46866) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46871) line 2, near "\
+elsif"
+syntax error at (eval 46871) line 3, near "\
+elsif"
+
+2022.01.19 09:41:08 2: syntax error at (eval 46872) line 2, near "\
+elsif"
+syntax error at (eval 46872) line 3, near "\
+elsif"
+
+2022.01.19 09:41:09 2: syntax error at (eval 46877) line 2, near "\
+elsif"
+syntax error at (eval 46877) line 3, near "\
+elsif"
+
+2022.01.19 09:41:09 2: syntax error at (eval 46878) line 2, near "\
+elsif"
+syntax error at (eval 46878) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46928) line 2, near "\
+elsif"
+syntax error at (eval 46928) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46929) line 2, near "\
+elsif"
+syntax error at (eval 46929) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46934) line 2, near "\
+elsif"
+syntax error at (eval 46934) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46935) line 2, near "\
+elsif"
+syntax error at (eval 46935) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46940) line 2, near "\
+elsif"
+syntax error at (eval 46940) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46941) line 2, near "\
+elsif"
+syntax error at (eval 46941) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46946) line 2, near "\
+elsif"
+syntax error at (eval 46946) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46947) line 2, near "\
+elsif"
+syntax error at (eval 46947) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46952) line 2, near "\
+elsif"
+syntax error at (eval 46952) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46953) line 2, near "\
+elsif"
+syntax error at (eval 46953) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46958) line 2, near "\
+elsif"
+syntax error at (eval 46958) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46959) line 2, near "\
+elsif"
+syntax error at (eval 46959) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46964) line 2, near "\
+elsif"
+syntax error at (eval 46964) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46965) line 2, near "\
+elsif"
+syntax error at (eval 46965) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46970) line 2, near "\
+elsif"
+syntax error at (eval 46970) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46971) line 2, near "\
+elsif"
+syntax error at (eval 46971) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46976) line 2, near "\
+elsif"
+syntax error at (eval 46976) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46977) line 2, near "\
+elsif"
+syntax error at (eval 46977) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46982) line 2, near "\
+elsif"
+syntax error at (eval 46982) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46983) line 2, near "\
+elsif"
+syntax error at (eval 46983) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46994) line 2, near "\
+elsif"
+syntax error at (eval 46994) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 46995) line 2, near "\
+elsif"
+syntax error at (eval 46995) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47000) line 2, near "\
+elsif"
+syntax error at (eval 47000) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47001) line 2, near "\
+elsif"
+syntax error at (eval 47001) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47006) line 2, near "\
+elsif"
+syntax error at (eval 47006) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47007) line 2, near "\
+elsif"
+syntax error at (eval 47007) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47012) line 2, near "\
+elsif"
+syntax error at (eval 47012) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47013) line 2, near "\
+elsif"
+syntax error at (eval 47013) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47018) line 2, near "\
+elsif"
+syntax error at (eval 47018) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47019) line 2, near "\
+elsif"
+syntax error at (eval 47019) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47024) line 2, near "\
+elsif"
+syntax error at (eval 47024) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47025) line 2, near "\
+elsif"
+syntax error at (eval 47025) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47030) line 2, near "\
+elsif"
+syntax error at (eval 47030) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47031) line 2, near "\
+elsif"
+syntax error at (eval 47031) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47036) line 2, near "\
+elsif"
+syntax error at (eval 47036) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47037) line 2, near "\
+elsif"
+syntax error at (eval 47037) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47042) line 2, near "\
+elsif"
+syntax error at (eval 47042) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47043) line 2, near "\
+elsif"
+syntax error at (eval 47043) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47048) line 2, near "\
+elsif"
+syntax error at (eval 47048) line 3, near "\
+elsif"
+
+2022.01.19 09:41:31 2: syntax error at (eval 47049) line 2, near "\
+elsif"
+syntax error at (eval 47049) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47098) line 2, near "\
+elsif"
+syntax error at (eval 47098) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47099) line 2, near "\
+elsif"
+syntax error at (eval 47099) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47104) line 2, near "\
+elsif"
+syntax error at (eval 47104) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47105) line 2, near "\
+elsif"
+syntax error at (eval 47105) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47110) line 2, near "\
+elsif"
+syntax error at (eval 47110) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47111) line 2, near "\
+elsif"
+syntax error at (eval 47111) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47116) line 2, near "\
+elsif"
+syntax error at (eval 47116) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47117) line 2, near "\
+elsif"
+syntax error at (eval 47117) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47122) line 2, near "\
+elsif"
+syntax error at (eval 47122) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47123) line 2, near "\
+elsif"
+syntax error at (eval 47123) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47128) line 2, near "\
+elsif"
+syntax error at (eval 47128) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47129) line 2, near "\
+elsif"
+syntax error at (eval 47129) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47134) line 2, near "\
+elsif"
+syntax error at (eval 47134) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47135) line 2, near "\
+elsif"
+syntax error at (eval 47135) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47140) line 2, near "\
+elsif"
+syntax error at (eval 47140) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47141) line 2, near "\
+elsif"
+syntax error at (eval 47141) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47146) line 2, near "\
+elsif"
+syntax error at (eval 47146) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47147) line 2, near "\
+elsif"
+syntax error at (eval 47147) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47152) line 2, near "\
+elsif"
+syntax error at (eval 47152) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47153) line 2, near "\
+elsif"
+syntax error at (eval 47153) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47164) line 2, near "\
+elsif"
+syntax error at (eval 47164) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47165) line 2, near "\
+elsif"
+syntax error at (eval 47165) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47170) line 2, near "\
+elsif"
+syntax error at (eval 47170) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47171) line 2, near "\
+elsif"
+syntax error at (eval 47171) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47176) line 2, near "\
+elsif"
+syntax error at (eval 47176) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47177) line 2, near "\
+elsif"
+syntax error at (eval 47177) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47182) line 2, near "\
+elsif"
+syntax error at (eval 47182) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47183) line 2, near "\
+elsif"
+syntax error at (eval 47183) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47188) line 2, near "\
+elsif"
+syntax error at (eval 47188) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47189) line 2, near "\
+elsif"
+syntax error at (eval 47189) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47194) line 2, near "\
+elsif"
+syntax error at (eval 47194) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47195) line 2, near "\
+elsif"
+syntax error at (eval 47195) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47200) line 2, near "\
+elsif"
+syntax error at (eval 47200) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47201) line 2, near "\
+elsif"
+syntax error at (eval 47201) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47206) line 2, near "\
+elsif"
+syntax error at (eval 47206) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47207) line 2, near "\
+elsif"
+syntax error at (eval 47207) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47212) line 2, near "\
+elsif"
+syntax error at (eval 47212) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47213) line 2, near "\
+elsif"
+syntax error at (eval 47213) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47218) line 2, near "\
+elsif"
+syntax error at (eval 47218) line 3, near "\
+elsif"
+
+2022.01.19 09:41:38 2: syntax error at (eval 47219) line 2, near "\
+elsif"
+syntax error at (eval 47219) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47269) line 2, near "\
+elsif"
+syntax error at (eval 47269) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47270) line 2, near "\
+elsif"
+syntax error at (eval 47270) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47275) line 2, near "\
+elsif"
+syntax error at (eval 47275) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47276) line 2, near "\
+elsif"
+syntax error at (eval 47276) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47281) line 2, near "\
+elsif"
+syntax error at (eval 47281) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47282) line 2, near "\
+elsif"
+syntax error at (eval 47282) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47287) line 2, near "\
+elsif"
+syntax error at (eval 47287) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47288) line 2, near "\
+elsif"
+syntax error at (eval 47288) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47293) line 2, near "\
+elsif"
+syntax error at (eval 47293) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47294) line 2, near "\
+elsif"
+syntax error at (eval 47294) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47299) line 2, near "\
+elsif"
+syntax error at (eval 47299) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47300) line 2, near "\
+elsif"
+syntax error at (eval 47300) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47305) line 2, near "\
+elsif"
+syntax error at (eval 47305) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47306) line 2, near "\
+elsif"
+syntax error at (eval 47306) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47311) line 2, near "\
+elsif"
+syntax error at (eval 47311) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47312) line 2, near "\
+elsif"
+syntax error at (eval 47312) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47317) line 2, near "\
+elsif"
+syntax error at (eval 47317) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47318) line 2, near "\
+elsif"
+syntax error at (eval 47318) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47323) line 2, near "\
+elsif"
+syntax error at (eval 47323) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47324) line 2, near "\
+elsif"
+syntax error at (eval 47324) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47335) line 2, near "\
+elsif"
+syntax error at (eval 47335) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47336) line 2, near "\
+elsif"
+syntax error at (eval 47336) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47341) line 2, near "\
+elsif"
+syntax error at (eval 47341) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47342) line 2, near "\
+elsif"
+syntax error at (eval 47342) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47347) line 2, near "\
+elsif"
+syntax error at (eval 47347) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47348) line 2, near "\
+elsif"
+syntax error at (eval 47348) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47353) line 2, near "\
+elsif"
+syntax error at (eval 47353) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47354) line 2, near "\
+elsif"
+syntax error at (eval 47354) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47359) line 2, near "\
+elsif"
+syntax error at (eval 47359) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47360) line 2, near "\
+elsif"
+syntax error at (eval 47360) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47365) line 2, near "\
+elsif"
+syntax error at (eval 47365) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47366) line 2, near "\
+elsif"
+syntax error at (eval 47366) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47371) line 2, near "\
+elsif"
+syntax error at (eval 47371) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47372) line 2, near "\
+elsif"
+syntax error at (eval 47372) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47377) line 2, near "\
+elsif"
+syntax error at (eval 47377) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47378) line 2, near "\
+elsif"
+syntax error at (eval 47378) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47383) line 2, near "\
+elsif"
+syntax error at (eval 47383) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47384) line 2, near "\
+elsif"
+syntax error at (eval 47384) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47389) line 2, near "\
+elsif"
+syntax error at (eval 47389) line 3, near "\
+elsif"
+
+2022.01.19 09:42:05 2: syntax error at (eval 47390) line 2, near "\
+elsif"
+syntax error at (eval 47390) line 3, near "\
+elsif"
+
+2022.01.19 09:42:11 1: RMDIR: ./restoreDir/save/2022-01-16
+2022.01.19 09:42:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:42:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:43:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:43:41 2: syntax error at (eval 47465) line 2, near "\
+elsif"
+syntax error at (eval 47465) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47466) line 2, near "\
+elsif"
+syntax error at (eval 47466) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47471) line 2, near "\
+elsif"
+syntax error at (eval 47471) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47472) line 2, near "\
+elsif"
+syntax error at (eval 47472) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47477) line 2, near "\
+elsif"
+syntax error at (eval 47477) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47478) line 2, near "\
+elsif"
+syntax error at (eval 47478) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47483) line 2, near "\
+elsif"
+syntax error at (eval 47483) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47484) line 2, near "\
+elsif"
+syntax error at (eval 47484) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47489) line 2, near "\
+elsif"
+syntax error at (eval 47489) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47490) line 2, near "\
+elsif"
+syntax error at (eval 47490) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47495) line 2, near "\
+elsif"
+syntax error at (eval 47495) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47496) line 2, near "\
+elsif"
+syntax error at (eval 47496) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47501) line 2, near "\
+elsif"
+syntax error at (eval 47501) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47502) line 2, near "\
+elsif"
+syntax error at (eval 47502) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47507) line 2, near "\
+elsif"
+syntax error at (eval 47507) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47508) line 2, near "\
+elsif"
+syntax error at (eval 47508) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47513) line 2, near "\
+elsif"
+syntax error at (eval 47513) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47514) line 2, near "\
+elsif"
+syntax error at (eval 47514) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47519) line 2, near "\
+elsif"
+syntax error at (eval 47519) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47520) line 2, near "\
+elsif"
+syntax error at (eval 47520) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47531) line 2, near "\
+elsif"
+syntax error at (eval 47531) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47532) line 2, near "\
+elsif"
+syntax error at (eval 47532) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47537) line 2, near "\
+elsif"
+syntax error at (eval 47537) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47538) line 2, near "\
+elsif"
+syntax error at (eval 47538) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47543) line 2, near "\
+elsif"
+syntax error at (eval 47543) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47544) line 2, near "\
+elsif"
+syntax error at (eval 47544) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47549) line 2, near "\
+elsif"
+syntax error at (eval 47549) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47550) line 2, near "\
+elsif"
+syntax error at (eval 47550) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47555) line 2, near "\
+elsif"
+syntax error at (eval 47555) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47556) line 2, near "\
+elsif"
+syntax error at (eval 47556) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47561) line 2, near "\
+elsif"
+syntax error at (eval 47561) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47562) line 2, near "\
+elsif"
+syntax error at (eval 47562) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47567) line 2, near "\
+elsif"
+syntax error at (eval 47567) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47568) line 2, near "\
+elsif"
+syntax error at (eval 47568) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47573) line 2, near "\
+elsif"
+syntax error at (eval 47573) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47574) line 2, near "\
+elsif"
+syntax error at (eval 47574) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47579) line 2, near "\
+elsif"
+syntax error at (eval 47579) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47580) line 2, near "\
+elsif"
+syntax error at (eval 47580) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47585) line 2, near "\
+elsif"
+syntax error at (eval 47585) line 3, near "\
+elsif"
+
+2022.01.19 09:43:41 2: syntax error at (eval 47586) line 2, near "\
+elsif"
+syntax error at (eval 47586) line 3, near "\
+elsif"
+
+2022.01.19 09:45:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:46:02 2: syntax error at (eval 47699) line 2, near "\
+elsif"
+syntax error at (eval 47699) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47700) line 2, near "\
+elsif"
+syntax error at (eval 47700) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47705) line 2, near "\
+elsif"
+syntax error at (eval 47705) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47706) line 2, near "\
+elsif"
+syntax error at (eval 47706) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47711) line 2, near "\
+elsif"
+syntax error at (eval 47711) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47712) line 2, near "\
+elsif"
+syntax error at (eval 47712) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47717) line 2, near "\
+elsif"
+syntax error at (eval 47717) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47718) line 2, near "\
+elsif"
+syntax error at (eval 47718) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47723) line 2, near "\
+elsif"
+syntax error at (eval 47723) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47724) line 2, near "\
+elsif"
+syntax error at (eval 47724) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47729) line 2, near "\
+elsif"
+syntax error at (eval 47729) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47730) line 2, near "\
+elsif"
+syntax error at (eval 47730) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47735) line 2, near "\
+elsif"
+syntax error at (eval 47735) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47736) line 2, near "\
+elsif"
+syntax error at (eval 47736) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47741) line 2, near "\
+elsif"
+syntax error at (eval 47741) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47742) line 2, near "\
+elsif"
+syntax error at (eval 47742) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47747) line 2, near "\
+elsif"
+syntax error at (eval 47747) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47748) line 2, near "\
+elsif"
+syntax error at (eval 47748) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47753) line 2, near "\
+elsif"
+syntax error at (eval 47753) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47754) line 2, near "\
+elsif"
+syntax error at (eval 47754) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47765) line 2, near "\
+elsif"
+syntax error at (eval 47765) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47766) line 2, near "\
+elsif"
+syntax error at (eval 47766) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47771) line 2, near "\
+elsif"
+syntax error at (eval 47771) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47772) line 2, near "\
+elsif"
+syntax error at (eval 47772) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47777) line 2, near "\
+elsif"
+syntax error at (eval 47777) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47778) line 2, near "\
+elsif"
+syntax error at (eval 47778) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47783) line 2, near "\
+elsif"
+syntax error at (eval 47783) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47784) line 2, near "\
+elsif"
+syntax error at (eval 47784) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47789) line 2, near "\
+elsif"
+syntax error at (eval 47789) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47790) line 2, near "\
+elsif"
+syntax error at (eval 47790) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47795) line 2, near "\
+elsif"
+syntax error at (eval 47795) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47796) line 2, near "\
+elsif"
+syntax error at (eval 47796) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47801) line 2, near "\
+elsif"
+syntax error at (eval 47801) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47802) line 2, near "\
+elsif"
+syntax error at (eval 47802) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47807) line 2, near "\
+elsif"
+syntax error at (eval 47807) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47808) line 2, near "\
+elsif"
+syntax error at (eval 47808) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47813) line 2, near "\
+elsif"
+syntax error at (eval 47813) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47814) line 2, near "\
+elsif"
+syntax error at (eval 47814) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47819) line 2, near "\
+elsif"
+syntax error at (eval 47819) line 3, near "\
+elsif"
+
+2022.01.19 09:46:02 2: syntax error at (eval 47820) line 2, near "\
+elsif"
+syntax error at (eval 47820) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47934) line 2, near "\
+elsif"
+syntax error at (eval 47934) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47935) line 2, near "\
+elsif"
+syntax error at (eval 47935) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47940) line 2, near "\
+elsif"
+syntax error at (eval 47940) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47941) line 2, near "\
+elsif"
+syntax error at (eval 47941) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47946) line 2, near "\
+elsif"
+syntax error at (eval 47946) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47947) line 2, near "\
+elsif"
+syntax error at (eval 47947) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47952) line 2, near "\
+elsif"
+syntax error at (eval 47952) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47953) line 2, near "\
+elsif"
+syntax error at (eval 47953) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47958) line 2, near "\
+elsif"
+syntax error at (eval 47958) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47959) line 2, near "\
+elsif"
+syntax error at (eval 47959) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47964) line 2, near "\
+elsif"
+syntax error at (eval 47964) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47965) line 2, near "\
+elsif"
+syntax error at (eval 47965) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47970) line 2, near "\
+elsif"
+syntax error at (eval 47970) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47971) line 2, near "\
+elsif"
+syntax error at (eval 47971) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47976) line 2, near "\
+elsif"
+syntax error at (eval 47976) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47977) line 2, near "\
+elsif"
+syntax error at (eval 47977) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47982) line 2, near "\
+elsif"
+syntax error at (eval 47982) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47983) line 2, near "\
+elsif"
+syntax error at (eval 47983) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47988) line 2, near "\
+elsif"
+syntax error at (eval 47988) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 47989) line 2, near "\
+elsif"
+syntax error at (eval 47989) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48000) line 2, near "\
+elsif"
+syntax error at (eval 48000) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48001) line 2, near "\
+elsif"
+syntax error at (eval 48001) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48006) line 2, near "\
+elsif"
+syntax error at (eval 48006) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48007) line 2, near "\
+elsif"
+syntax error at (eval 48007) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48012) line 2, near "\
+elsif"
+syntax error at (eval 48012) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48013) line 2, near "\
+elsif"
+syntax error at (eval 48013) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48018) line 2, near "\
+elsif"
+syntax error at (eval 48018) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48019) line 2, near "\
+elsif"
+syntax error at (eval 48019) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48024) line 2, near "\
+elsif"
+syntax error at (eval 48024) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48025) line 2, near "\
+elsif"
+syntax error at (eval 48025) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48030) line 2, near "\
+elsif"
+syntax error at (eval 48030) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48031) line 2, near "\
+elsif"
+syntax error at (eval 48031) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48036) line 2, near "\
+elsif"
+syntax error at (eval 48036) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48037) line 2, near "\
+elsif"
+syntax error at (eval 48037) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48042) line 2, near "\
+elsif"
+syntax error at (eval 48042) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48043) line 2, near "\
+elsif"
+syntax error at (eval 48043) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48048) line 2, near "\
+elsif"
+syntax error at (eval 48048) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48049) line 2, near "\
+elsif"
+syntax error at (eval 48049) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48054) line 2, near "\
+elsif"
+syntax error at (eval 48054) line 3, near "\
+elsif"
+
+2022.01.19 09:48:52 2: syntax error at (eval 48055) line 2, near "\
+elsif"
+syntax error at (eval 48055) line 3, near "\
+elsif"
+
+2022.01.19 09:49:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:49:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:50:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:50:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:51:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:51:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:52:11 2: syntax error at (eval 48126) line 2, near "\
+elsif"
+syntax error at (eval 48126) line 3, near "\
+elsif"
+
+2022.01.19 09:52:11 2: syntax error at (eval 48127) line 2, near "\
+elsif"
+syntax error at (eval 48127) line 3, near "\
+elsif"
+
+2022.01.19 09:52:11 2: syntax error at (eval 48135) line 2, near "\
+elsif"
+syntax error at (eval 48135) line 3, near "\
+elsif"
+
+2022.01.19 09:52:11 2: syntax error at (eval 48136) line 2, near "\
+elsif"
+syntax error at (eval 48136) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48138) line 2, near "\
+elsif"
+syntax error at (eval 48138) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48139) line 2, near "\
+elsif"
+syntax error at (eval 48139) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48141) line 2, near "\
+elsif"
+syntax error at (eval 48141) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48142) line 2, near "\
+elsif"
+syntax error at (eval 48142) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48144) line 2, near "\
+elsif"
+syntax error at (eval 48144) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48145) line 2, near "\
+elsif"
+syntax error at (eval 48145) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48147) line 2, near "\
+elsif"
+syntax error at (eval 48147) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48148) line 2, near "\
+elsif"
+syntax error at (eval 48148) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48150) line 2, near "\
+elsif"
+syntax error at (eval 48150) line 3, near "\
+elsif"
+
+2022.01.19 09:52:12 2: syntax error at (eval 48151) line 2, near "\
+elsif"
+syntax error at (eval 48151) line 3, near "\
+elsif"
+
+2022.01.19 09:52:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:55:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:56:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:56:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:57:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 09:57:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:00:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:00:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:01:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:01:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:02:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:03:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:03:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:05:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:06:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:07:12 2: syntax error at (eval 48512) line 2, near "\
+elsif"
+syntax error at (eval 48512) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48513) line 2, near "\
+elsif"
+syntax error at (eval 48513) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48518) line 2, near "\
+elsif"
+syntax error at (eval 48518) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48519) line 2, near "\
+elsif"
+syntax error at (eval 48519) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48521) line 2, near "\
+elsif"
+syntax error at (eval 48521) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48522) line 2, near "\
+elsif"
+syntax error at (eval 48522) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48524) line 2, near "\
+elsif"
+syntax error at (eval 48524) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48525) line 2, near "\
+elsif"
+syntax error at (eval 48525) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48527) line 2, near "\
+elsif"
+syntax error at (eval 48527) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48528) line 2, near "\
+elsif"
+syntax error at (eval 48528) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48530) line 2, near "\
+elsif"
+syntax error at (eval 48530) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48531) line 2, near "\
+elsif"
+syntax error at (eval 48531) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48533) line 2, near "\
+elsif"
+syntax error at (eval 48533) line 3, near "\
+elsif"
+
+2022.01.19 10:07:12 2: syntax error at (eval 48534) line 2, near "\
+elsif"
+syntax error at (eval 48534) line 3, near "\
+elsif"
+
+2022.01.19 10:07:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:07:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:08:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:10:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:14:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:14:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:15:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:15:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:18:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:20:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:21:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:21:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:22:12 2: syntax error at (eval 48895) line 2, near "\
+elsif"
+syntax error at (eval 48895) line 3, near "\
+elsif"
+
+2022.01.19 10:22:12 2: syntax error at (eval 48896) line 2, near "\
+elsif"
+syntax error at (eval 48896) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48901) line 2, near "\
+elsif"
+syntax error at (eval 48901) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48902) line 2, near "\
+elsif"
+syntax error at (eval 48902) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48904) line 2, near "\
+elsif"
+syntax error at (eval 48904) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48905) line 2, near "\
+elsif"
+syntax error at (eval 48905) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48907) line 2, near "\
+elsif"
+syntax error at (eval 48907) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48908) line 2, near "\
+elsif"
+syntax error at (eval 48908) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48910) line 2, near "\
+elsif"
+syntax error at (eval 48910) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48911) line 2, near "\
+elsif"
+syntax error at (eval 48911) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48913) line 2, near "\
+elsif"
+syntax error at (eval 48913) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48914) line 2, near "\
+elsif"
+syntax error at (eval 48914) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48916) line 2, near "\
+elsif"
+syntax error at (eval 48916) line 3, near "\
+elsif"
+
+2022.01.19 10:22:13 2: syntax error at (eval 48917) line 2, near "\
+elsif"
+syntax error at (eval 48917) line 3, near "\
+elsif"
+
+2022.01.19 10:22:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:25:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:28:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:28:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:29:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:30:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:30:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:32:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:35:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:35:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:36:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:36:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:37:13 2: syntax error at (eval 49285) line 2, near "\
+elsif"
+syntax error at (eval 49285) line 3, near "\
+elsif"
+
+2022.01.19 10:37:13 2: syntax error at (eval 49286) line 2, near "\
+elsif"
+syntax error at (eval 49286) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49291) line 2, near "\
+elsif"
+syntax error at (eval 49291) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49292) line 2, near "\
+elsif"
+syntax error at (eval 49292) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49294) line 2, near "\
+elsif"
+syntax error at (eval 49294) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49295) line 2, near "\
+elsif"
+syntax error at (eval 49295) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49297) line 2, near "\
+elsif"
+syntax error at (eval 49297) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49298) line 2, near "\
+elsif"
+syntax error at (eval 49298) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49300) line 2, near "\
+elsif"
+syntax error at (eval 49300) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49301) line 2, near "\
+elsif"
+syntax error at (eval 49301) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49303) line 2, near "\
+elsif"
+syntax error at (eval 49303) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49304) line 2, near "\
+elsif"
+syntax error at (eval 49304) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49306) line 2, near "\
+elsif"
+syntax error at (eval 49306) line 3, near "\
+elsif"
+
+2022.01.19 10:37:15 2: syntax error at (eval 49307) line 2, near "\
+elsif"
+syntax error at (eval 49307) line 3, near "\
+elsif"
+
+2022.01.19 10:37:18 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:37:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:38:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:40:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:40:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:42:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:42:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:43:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:45:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:48:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:49:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:49:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:50:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:50:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:51:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:51:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:52:15 2: syntax error at (eval 49655) line 2, near "\
+elsif"
+syntax error at (eval 49655) line 3, near "\
+elsif"
+
+2022.01.19 10:52:15 2: syntax error at (eval 49656) line 2, near "\
+elsif"
+syntax error at (eval 49656) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49661) line 2, near "\
+elsif"
+syntax error at (eval 49661) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49662) line 2, near "\
+elsif"
+syntax error at (eval 49662) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49664) line 2, near "\
+elsif"
+syntax error at (eval 49664) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49665) line 2, near "\
+elsif"
+syntax error at (eval 49665) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49667) line 2, near "\
+elsif"
+syntax error at (eval 49667) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49668) line 2, near "\
+elsif"
+syntax error at (eval 49668) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49670) line 2, near "\
+elsif"
+syntax error at (eval 49670) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49671) line 2, near "\
+elsif"
+syntax error at (eval 49671) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49673) line 2, near "\
+elsif"
+syntax error at (eval 49673) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49674) line 2, near "\
+elsif"
+syntax error at (eval 49674) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49676) line 2, near "\
+elsif"
+syntax error at (eval 49676) line 3, near "\
+elsif"
+
+2022.01.19 10:52:16 2: syntax error at (eval 49677) line 2, near "\
+elsif"
+syntax error at (eval 49677) line 3, near "\
+elsif"
+
+2022.01.19 10:52:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:52:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:53:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:53:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:54:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:54:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:55:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:55:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:56:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:56:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:57:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:57:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:58:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:59:01 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:59:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 10:59:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:00:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:00:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:01:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:01:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:02:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:02:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:03:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:05:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:07:16 2: syntax error at (eval 50013) line 2, near "\
+elsif"
+syntax error at (eval 50013) line 3, near "\
+elsif"
+
+2022.01.19 11:07:16 2: syntax error at (eval 50014) line 2, near "\
+elsif"
+syntax error at (eval 50014) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50019) line 2, near "\
+elsif"
+syntax error at (eval 50019) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50020) line 2, near "\
+elsif"
+syntax error at (eval 50020) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50022) line 2, near "\
+elsif"
+syntax error at (eval 50022) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50023) line 2, near "\
+elsif"
+syntax error at (eval 50023) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50025) line 2, near "\
+elsif"
+syntax error at (eval 50025) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50026) line 2, near "\
+elsif"
+syntax error at (eval 50026) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50028) line 2, near "\
+elsif"
+syntax error at (eval 50028) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50029) line 2, near "\
+elsif"
+syntax error at (eval 50029) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50031) line 2, near "\
+elsif"
+syntax error at (eval 50031) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50032) line 2, near "\
+elsif"
+syntax error at (eval 50032) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50034) line 2, near "\
+elsif"
+syntax error at (eval 50034) line 3, near "\
+elsif"
+
+2022.01.19 11:07:17 2: syntax error at (eval 50035) line 2, near "\
+elsif"
+syntax error at (eval 50035) line 3, near "\
+elsif"
+
+2022.01.19 11:07:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:07:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:08:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:08:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:09:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:10:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:14:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:14:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:15:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:15:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:16:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:16:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:17:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:17:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:18:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:18:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:19:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:19:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:20:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:20:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:21:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:21:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:22:17 2: syntax error at (eval 50368) line 2, near "\
+elsif"
+syntax error at (eval 50368) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50369) line 2, near "\
+elsif"
+syntax error at (eval 50369) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50375) line 2, near "\
+elsif"
+syntax error at (eval 50375) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50376) line 2, near "\
+elsif"
+syntax error at (eval 50376) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50378) line 2, near "\
+elsif"
+syntax error at (eval 50378) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50379) line 2, near "\
+elsif"
+syntax error at (eval 50379) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50381) line 2, near "\
+elsif"
+syntax error at (eval 50381) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50382) line 2, near "\
+elsif"
+syntax error at (eval 50382) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50384) line 2, near "\
+elsif"
+syntax error at (eval 50384) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50385) line 2, near "\
+elsif"
+syntax error at (eval 50385) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50387) line 2, near "\
+elsif"
+syntax error at (eval 50387) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50388) line 2, near "\
+elsif"
+syntax error at (eval 50388) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50390) line 2, near "\
+elsif"
+syntax error at (eval 50390) line 3, near "\
+elsif"
+
+2022.01.19 11:22:17 2: syntax error at (eval 50391) line 2, near "\
+elsif"
+syntax error at (eval 50391) line 3, near "\
+elsif"
+
+2022.01.19 11:22:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:22:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:23:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:23:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:24:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:24:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:25:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:25:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:26:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:26:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:27:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:27:56 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:28:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:28:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:29:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:29:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:30:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:30:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:31:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:31:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:32:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:32:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:33:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:33:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:34:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:34:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:35:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:35:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:36:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:36:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:37:17 2: syntax error at (eval 50709) line 2, near "\
+elsif"
+syntax error at (eval 50709) line 3, near "\
+elsif"
+
+2022.01.19 11:37:17 2: syntax error at (eval 50710) line 2, near "\
+elsif"
+syntax error at (eval 50710) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50715) line 2, near "\
+elsif"
+syntax error at (eval 50715) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50716) line 2, near "\
+elsif"
+syntax error at (eval 50716) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50718) line 2, near "\
+elsif"
+syntax error at (eval 50718) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50719) line 2, near "\
+elsif"
+syntax error at (eval 50719) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50721) line 2, near "\
+elsif"
+syntax error at (eval 50721) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50722) line 2, near "\
+elsif"
+syntax error at (eval 50722) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50724) line 2, near "\
+elsif"
+syntax error at (eval 50724) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50725) line 2, near "\
+elsif"
+syntax error at (eval 50725) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50727) line 2, near "\
+elsif"
+syntax error at (eval 50727) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50728) line 2, near "\
+elsif"
+syntax error at (eval 50728) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50730) line 2, near "\
+elsif"
+syntax error at (eval 50730) line 3, near "\
+elsif"
+
+2022.01.19 11:37:18 2: syntax error at (eval 50731) line 2, near "\
+elsif"
+syntax error at (eval 50731) line 3, near "\
+elsif"
+
+2022.01.19 11:37:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:38:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:38:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:38:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:39:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:39:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:40:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:40:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:41:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:41:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:42:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:42:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:43:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:43:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:44:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:44:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:45:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:45:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:46:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:46:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:47:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:47:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:48:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:48:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:49:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:49:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:50:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:50:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:51:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:51:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:52:18 2: syntax error at (eval 51051) line 2, near "\
+elsif"
+syntax error at (eval 51051) line 3, near "\
+elsif"
+
+2022.01.19 11:52:18 2: syntax error at (eval 51052) line 2, near "\
+elsif"
+syntax error at (eval 51052) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:52:19 2: syntax error at (eval 51057) line 2, near "\
+elsif"
+syntax error at (eval 51057) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51058) line 2, near "\
+elsif"
+syntax error at (eval 51058) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51060) line 2, near "\
+elsif"
+syntax error at (eval 51060) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51061) line 2, near "\
+elsif"
+syntax error at (eval 51061) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51063) line 2, near "\
+elsif"
+syntax error at (eval 51063) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51064) line 2, near "\
+elsif"
+syntax error at (eval 51064) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51066) line 2, near "\
+elsif"
+syntax error at (eval 51066) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51067) line 2, near "\
+elsif"
+syntax error at (eval 51067) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51069) line 2, near "\
+elsif"
+syntax error at (eval 51069) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51070) line 2, near "\
+elsif"
+syntax error at (eval 51070) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51072) line 2, near "\
+elsif"
+syntax error at (eval 51072) line 3, near "\
+elsif"
+
+2022.01.19 11:52:19 2: syntax error at (eval 51073) line 2, near "\
+elsif"
+syntax error at (eval 51073) line 3, near "\
+elsif"
+
+2022.01.19 11:52:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:53:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:53:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:54:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:54:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:55:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:55:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:56:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:56:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:57:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:57:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:58:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:58:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:59:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 11:59:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:00:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:00:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:01:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:01:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:02:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:02:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:03:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:03:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:04:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:04:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:05:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:05:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:06:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:06:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:07:19 2: syntax error at (eval 51399) line 2, near "\
+elsif"
+syntax error at (eval 51399) line 3, near "\
+elsif"
+
+2022.01.19 12:07:19 2: syntax error at (eval 51400) line 2, near "\
+elsif"
+syntax error at (eval 51400) line 3, near "\
+elsif"
+
+2022.01.19 12:07:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:07:20 2: syntax error at (eval 51405) line 2, near "\
+elsif"
+syntax error at (eval 51405) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51406) line 2, near "\
+elsif"
+syntax error at (eval 51406) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51408) line 2, near "\
+elsif"
+syntax error at (eval 51408) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51409) line 2, near "\
+elsif"
+syntax error at (eval 51409) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51411) line 2, near "\
+elsif"
+syntax error at (eval 51411) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51412) line 2, near "\
+elsif"
+syntax error at (eval 51412) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51414) line 2, near "\
+elsif"
+syntax error at (eval 51414) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51415) line 2, near "\
+elsif"
+syntax error at (eval 51415) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51417) line 2, near "\
+elsif"
+syntax error at (eval 51417) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51418) line 2, near "\
+elsif"
+syntax error at (eval 51418) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51420) line 2, near "\
+elsif"
+syntax error at (eval 51420) line 3, near "\
+elsif"
+
+2022.01.19 12:07:20 2: syntax error at (eval 51421) line 2, near "\
+elsif"
+syntax error at (eval 51421) line 3, near "\
+elsif"
+
+2022.01.19 12:07:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:08:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:08:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:09:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:09:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:10:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:10:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:11:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:11:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:12:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:12:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:13:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:13:22 3: ABFALL Muelltonnen - CALENDAR:Abfallkalender triggered, updating ABFALL Muelltonnen ...
+2022.01.19 12:13:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:14:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:14:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:15:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:15:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:16:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:16:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:17:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:17:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:18:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:19:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:19:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:19:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:20:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:20:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:21:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:21:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:22:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:22:20 2: syntax error at (eval 52390) line 2, near "\
+elsif"
+syntax error at (eval 52390) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52391) line 2, near "\
+elsif"
+syntax error at (eval 52391) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52396) line 2, near "\
+elsif"
+syntax error at (eval 52396) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52397) line 2, near "\
+elsif"
+syntax error at (eval 52397) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52399) line 2, near "\
+elsif"
+syntax error at (eval 52399) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52400) line 2, near "\
+elsif"
+syntax error at (eval 52400) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52402) line 2, near "\
+elsif"
+syntax error at (eval 52402) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52403) line 2, near "\
+elsif"
+syntax error at (eval 52403) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52405) line 2, near "\
+elsif"
+syntax error at (eval 52405) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52406) line 2, near "\
+elsif"
+syntax error at (eval 52406) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52408) line 2, near "\
+elsif"
+syntax error at (eval 52408) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52409) line 2, near "\
+elsif"
+syntax error at (eval 52409) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52411) line 2, near "\
+elsif"
+syntax error at (eval 52411) line 3, near "\
+elsif"
+
+2022.01.19 12:22:20 2: syntax error at (eval 52412) line 2, near "\
+elsif"
+syntax error at (eval 52412) line 3, near "\
+elsif"
+
+2022.01.19 12:22:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:23:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:23:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:24:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:24:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:25:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:25:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:26:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:26:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:27:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:27:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:28:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:28:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:29:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:29:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:30:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:30:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:31:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:31:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:32:19 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:32:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:33:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:33:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:34:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:34:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:35:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:35:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:36:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:36:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:37:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:37:20 2: syntax error at (eval 52726) line 2, near "\
+elsif"
+syntax error at (eval 52726) line 3, near "\
+elsif"
+
+2022.01.19 12:37:20 2: syntax error at (eval 52727) line 2, near "\
+elsif"
+syntax error at (eval 52727) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52732) line 2, near "\
+elsif"
+syntax error at (eval 52732) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52733) line 2, near "\
+elsif"
+syntax error at (eval 52733) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52735) line 2, near "\
+elsif"
+syntax error at (eval 52735) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52736) line 2, near "\
+elsif"
+syntax error at (eval 52736) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52738) line 2, near "\
+elsif"
+syntax error at (eval 52738) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52739) line 2, near "\
+elsif"
+syntax error at (eval 52739) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52741) line 2, near "\
+elsif"
+syntax error at (eval 52741) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52742) line 2, near "\
+elsif"
+syntax error at (eval 52742) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52744) line 2, near "\
+elsif"
+syntax error at (eval 52744) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52745) line 2, near "\
+elsif"
+syntax error at (eval 52745) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52747) line 2, near "\
+elsif"
+syntax error at (eval 52747) line 3, near "\
+elsif"
+
+2022.01.19 12:37:21 2: syntax error at (eval 52748) line 2, near "\
+elsif"
+syntax error at (eval 52748) line 3, near "\
+elsif"
+
+2022.01.19 12:37:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:38:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:38:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:39:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:39:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:40:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:40:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:41:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:41:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:42:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:42:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:43:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:43:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:44:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:44:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:45:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:45:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:46:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:46:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:47:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:47:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:48:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:48:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:49:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:49:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:50:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:50:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:51:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:51:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:52:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:52:21 2: syntax error at (eval 53066) line 2, near "\
+elsif"
+syntax error at (eval 53066) line 3, near "\
+elsif"
+
+2022.01.19 12:52:21 2: syntax error at (eval 53067) line 2, near "\
+elsif"
+syntax error at (eval 53067) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53072) line 2, near "\
+elsif"
+syntax error at (eval 53072) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53073) line 2, near "\
+elsif"
+syntax error at (eval 53073) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53075) line 2, near "\
+elsif"
+syntax error at (eval 53075) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53076) line 2, near "\
+elsif"
+syntax error at (eval 53076) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53078) line 2, near "\
+elsif"
+syntax error at (eval 53078) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53079) line 2, near "\
+elsif"
+syntax error at (eval 53079) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53081) line 2, near "\
+elsif"
+syntax error at (eval 53081) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53082) line 2, near "\
+elsif"
+syntax error at (eval 53082) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53084) line 2, near "\
+elsif"
+syntax error at (eval 53084) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53085) line 2, near "\
+elsif"
+syntax error at (eval 53085) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53087) line 2, near "\
+elsif"
+syntax error at (eval 53087) line 3, near "\
+elsif"
+
+2022.01.19 12:52:22 2: syntax error at (eval 53088) line 2, near "\
+elsif"
+syntax error at (eval 53088) line 3, near "\
+elsif"
+
+2022.01.19 12:52:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:53:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:53:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:54:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:54:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:55:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:55:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:56:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:56:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:57:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:58:02 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:58:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:58:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:59:20 3: SensorHobbyraum: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
+2022.01.19 12:59:57 3: Windsensor: Read callback: Error: read from https://measurements.mobile-alerts.eu:443 timed out
