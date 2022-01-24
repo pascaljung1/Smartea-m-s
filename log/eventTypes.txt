@@ -1,143 +1,184 @@
-18 Abfallkalender calname: Abfallkalender Stuttgart
-18 Abfallkalender lastUpdate: .*
-18 Abfallkalender nextUpdate: .*
-18 Abfallkalender nextWakeup: .*
+23 Abfallkalender calname: Abfallkalender Stuttgart
+1 Abfallkalender changed: Icala72e7f7cdfe7033f56de8bcd1bb57630 start
+23 Abfallkalender lastUpdate: .*
+23 Abfallkalender nextUpdate: .*
+24 Abfallkalender nextWakeup: .*
+1 Abfallkalender start: Icala72e7f7cdfe7033f56de8bcd1bb57630
 1 Abfallkalender state: initialized
-18 Abfallkalender state: parsed
-18 Abfallkalender state: retrieved
-18 Abfallkalender state: triggered
-76 BoilerA6.4 state: off
+23 Abfallkalender state: parsed
+23 Abfallkalender state: retrieved
+24 Abfallkalender state: triggered
+8 BoeeNotification cmd: .*
+4 BoeeNotification cmd_event: boeeSchwelle
+3 BoeeNotification cmd_event: switchNotification
+7 BoeeNotification cmd_nr: .*
+1 BoeeNotification mode: enabled
+3 BoeeNotification state: cmd_1
+4 BoeeNotification state: cmd_2
+1 BoeeNotification state: initialized
+183 BoilerA6.4 state: off
 12 Kann_bearbeitet_werden state: off
-11 Kann_bearbeitet_werden state: on
-17 Muelltonnen .*
-17 Muelltonnen Altpapier_date: .*
-17 Muelltonnen Altpapier_days: .*
-17 Muelltonnen Altpapier_description:
-17 Muelltonnen Altpapier_location: Stuttgart
-17 Muelltonnen Altpapier_text: Altpapier
-17 Muelltonnen Altpapier_uid: Ical7376944099598c184cf8992404d62c68
-17 Muelltonnen Altpapier_weekday: Donnerstag
-17 Muelltonnen Biomuell_date: .*
-17 Muelltonnen Biomuell_days: .*
-17 Muelltonnen Biomuell_description:
-17 Muelltonnen Biomuell_location: Stuttgart
-17 Muelltonnen Biomuell_text: Biomüll
-17 Muelltonnen Biomuell_uid: Icala72e7f7cdfe7033f56de8bcd1bb57630
-17 Muelltonnen Biomuell_weekday: Mittwoch
-17 Muelltonnen GelberSack_date: .*
-17 Muelltonnen GelberSack_days: .*
-17 Muelltonnen GelberSack_description:
-17 Muelltonnen GelberSack_location: Stuttgart
-17 Muelltonnen GelberSack_text: Gelber Sack
-17 Muelltonnen GelberSack_uid: Ical2a6f7737c22036eab7d9f01077820b4f
-17 Muelltonnen GelberSack_weekday: Mittwoch
-17 Muelltonnen Restmuell_date: .*
-17 Muelltonnen Restmuell_days: .*
-17 Muelltonnen Restmuell_description:
-17 Muelltonnen Restmuell_location: Stuttgart
-17 Muelltonnen Restmuell_text: Restmüll
-17 Muelltonnen Restmuell_uid: Ical4db8f1f8c7a0c9a944129c9fe914da8e
-17 Muelltonnen Restmuell_weekday: Donnerstag
-2 Muelltonnen next: Altpapier_16
+12 Kann_bearbeitet_werden state: on
+31 Muelltonnen .*
+23 Muelltonnen Altpapier_date: .*
+23 Muelltonnen Altpapier_days: .*
+23 Muelltonnen Altpapier_description:
+23 Muelltonnen Altpapier_location: Stuttgart
+23 Muelltonnen Altpapier_text: Altpapier
+23 Muelltonnen Altpapier_uid: Ical7376944099598c184cf8992404d62c68
+23 Muelltonnen Altpapier_weekday: Donnerstag
+23 Muelltonnen Biomuell_date: .*
+23 Muelltonnen Biomuell_days: .*
+23 Muelltonnen Biomuell_description:
+23 Muelltonnen Biomuell_location: Stuttgart
+3 Muelltonnen Biomuell_pickups: .*
+23 Muelltonnen Biomuell_text: Biomüll
+23 Muelltonnen Biomuell_uid: Icala72e7f7cdfe7033f56de8bcd1bb57630
+23 Muelltonnen Biomuell_weekday: Mittwoch
+23 Muelltonnen GelberSack_date: .*
+23 Muelltonnen GelberSack_days: .*
+23 Muelltonnen GelberSack_description:
+23 Muelltonnen GelberSack_location: Stuttgart
+23 Muelltonnen GelberSack_text: Gelber Sack
+23 Muelltonnen GelberSack_uid: Ical2a6f7737c22036eab7d9f01077820b4f
+23 Muelltonnen GelberSack_weekday: Mittwoch
+23 Muelltonnen Restmuell_date: .*
+23 Muelltonnen Restmuell_days: .*
+23 Muelltonnen Restmuell_description:
+23 Muelltonnen Restmuell_location: Stuttgart
+23 Muelltonnen Restmuell_text: Restmüll
+23 Muelltonnen Restmuell_uid: Ical4db8f1f8c7a0c9a944129c9fe914da8e
+23 Muelltonnen Restmuell_weekday: Donnerstag
+8 Muelltonnen next: Altpapier_15
+4 Muelltonnen next: Altpapier_16
 4 Muelltonnen next: Altpapier_17
 4 Muelltonnen next: Altpapier_18
 4 Muelltonnen next: Altpapier_19
 3 Muelltonnen next: Altpapier_20
-6 Muelltonnen next: Biomuell_1
+12 Muelltonnen next: Biomuell_1
 12 Muelltonnen next: Biomuell_2
 12 Muelltonnen next: Biomuell_3
 12 Muelltonnen next: Biomuell_4
 9 Muelltonnen next: Biomuell_5
-68 Muelltonnen next_date: .*
-68 Muelltonnen next_days: .*
-68 Muelltonnen next_description:
-68 Muelltonnen next_location: Stuttgart
-17 Muelltonnen next_text: Altpapier
-51 Muelltonnen next_text: Biomüll
-17 Muelltonnen next_weekday: Donnerstag
-51 Muelltonnen next_weekday: Mittwoch
-51 Muelltonnen state: .*
-2 Muelltonnen state: Keine Abholungen
-31 Phytenbinding_15733 fhempy: running FHEM/bindings/python/bin/fhempy
+4 Muelltonnen next: GelberSack_14
+4 Muelltonnen next: Restmuell_1
+92 Muelltonnen next_date: .*
+92 Muelltonnen next_days: .*
+92 Muelltonnen next_description:
+92 Muelltonnen next_location: Stuttgart
+27 Muelltonnen next_text: Altpapier
+57 Muelltonnen next_text: Biomüll
+4 Muelltonnen next_text: Gelber Sack
+4 Muelltonnen next_text: Restmüll
+31 Muelltonnen next_weekday: Donnerstag
+61 Muelltonnen next_weekday: Mittwoch
+12 Muelltonnen now: Biomuell
+12 Muelltonnen now_date: .*
+12 Muelltonnen now_description:
+12 Muelltonnen now_location: Stuttgart
+12 Muelltonnen now_text: Biomüll
+12 Muelltonnen now_weekday: Mittwoch
+61 Muelltonnen state: .*
+3 Muelltonnen state: Keine Abholungen
+32 Phytenbinding_15733 fhempy: running FHEM/bindings/python/bin/fhempy
 4 Phytenbinding_15733 fhempy: stopped
 1 Phytenbinding_15733 fhempy: stopping
 1 Phytenbinding_15733 state: active
-2 Pushsafer01 availableMessages: .*
-2 Pushsafer01 lastSuccess: message transmitted
+15 Pushsafer01 availableMessages: .*
+15 Pushsafer01 lastSuccess: message transmitted
 1 Pushsafer01 message hello
 1 SVG_StromverbrauchLOG_1 copyGplotFile
 1 SVG_StromverbrauchLOG_2 copyGplotFile
 1 SVG_StromverbrauchLOG_3 copyGplotFile
+1 SVG_StromverbrauchLOG_4 copyGplotFile
 2 SensorHobbyraum LAST_ERROR: connect to https://measurements.mobile-alerts.eu:.* timed out
 48 SensorHobbyraum LAST_ERROR: gethostbyname measurements.mobile-alerts.eu failed
-3082 SensorHobbyraum LAST_ERROR: read from https://measurements.mobile-alerts.eu:.* timed out
-928 SensorHobbyraum Luftfeuchte: .*
-950 SensorHobbyraum Temperatur: .*
+4328 SensorHobbyraum LAST_ERROR: read from https://measurements.mobile-alerts.eu:.* timed out
+1158 SensorHobbyraum Luftfeuchte: .*
+1180 SensorHobbyraum Temperatur: .*
 10 SensorHobbyraum reread
+1269 Stromverbrauch state: Next: .*
+2 StromverbrauchJahr Verbrauch: .*
 1 StromverbrauchLOG clear
 1 StromverbrauchLOG logEntry: .*
+2 StromverbrauchMonat Verbrauch: .*
+12 StromverbrauchTag Verbrauch: .*
+3 StromverbrauchTag VerbrauchVortag: .*
+2 StromverbrauchWoche Verbrauch: .*
 1 WEB JS:location.href='/fhem?detail=m2s'
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax active_time: .*
-539 WLAN_Steckdose_bfadefdc3b039db8d0ttax add_ele: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax biz_type: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax category: cz
-539 WLAN_Steckdose_bfadefdc3b039db8d0ttax countdown_1: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax create_time: .*
-539 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_current: .*
-539 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_power: .*
-539 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_voltage: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax id: bfadefdc3b039db8d0ttax
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax ip: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax lat: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax local_key: 6462e67f1fad3677
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax lon: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax name: WLAN Steckdose
-12 WLAN_Steckdose_bfadefdc3b039db8d0ttax off
-15 WLAN_Steckdose_bfadefdc3b039db8d0ttax on
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax online: on
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax owner_id: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_id: fbvia0apnlnattcy
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_name: Smart Socket-16A
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax active_time: .*
+565 WLAN_Steckdose_bfadefdc3b039db8d0ttax add_ele: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax biz_type: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax category: cz
+565 WLAN_Steckdose_bfadefdc3b039db8d0ttax countdown_1: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax create_time: .*
+565 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_current: .*
+565 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_power: .*
+565 WLAN_Steckdose_bfadefdc3b039db8d0ttax cur_voltage: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax id: bfadefdc3b039db8d0ttax
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax ip: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax lat: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax local_key: 6462e67f1fad3677
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax lon: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax name: WLAN Steckdose
+13 WLAN_Steckdose_bfadefdc3b039db8d0ttax off
+16 WLAN_Steckdose_bfadefdc3b039db8d0ttax on
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax online: on
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax owner_id: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_id: fbvia0apnlnattcy
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax product_name: Smart Socket-16A
 1 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Installation finished. Please wait...
 1 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Installing updates...
 2 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: Python server offline
-523 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: off
-16 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: on
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: ready
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax sub: off
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax time_zone: +.*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax uid: eu1637938451839MThWC
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax update_time: .*
-26 WLAN_Steckdose_bfadefdc3b039db8d0ttax uuid: bdf36574c645ebc7
+531 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: off
+34 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: on
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax state: ready
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax sub: off
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax time_zone: +.*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax uid: eu1637938451839MThWC
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax update_time: .*
+27 WLAN_Steckdose_bfadefdc3b039db8d0ttax uuid: bdf36574c645ebc7
+10 WindNotification cmd: .*
+2 WindNotification cmd_event: switchNotification
+7 WindNotification cmd_event: windSchwelle
+9 WindNotification cmd_nr: .*
+1 WindNotification mode: enabled
+4 WindNotification state: cmd_1
+5 WindNotification state: cmd_2
+1 WindNotification state: initialized
 3 Windsensor LAST_ERROR: connect to https://measurements.mobile-alerts.eu:.* timed out
 48 Windsensor LAST_ERROR: gethostbyname measurements.mobile-alerts.eu failed
-3228 Windsensor LAST_ERROR: read from https://measurements.mobile-alerts.eu:.* timed out
-859 Windsensor Windböe: .*
-859 Windsensor Windgeschwindigkeit: .*
+4328 Windsensor LAST_ERROR: read from https://measurements.mobile-alerts.eu:.* timed out
+1277 Windsensor Windböe: .*
+1277 Windsensor Windgeschwindigkeit: .*
 2 Windsensor reread
 16 arbeitszeit state: .*
 1 boeeSchwelle state: -.*
-3 boeeSchwelle state: .*
+16 boeeSchwelle state: .*
+2 boilerausschalter state: active
+2 boilerausschaltzeit state: .*
+1 boilereinschalter state: active
+1 boilereinschaltzeit state: .*
 89374 check state: Next: .*
 36 check state: inactive
-1233 checkWattIntervall state: Next: .*
-81 checkWattSolar state: Next: .*
-24 checkinterval state: .*
+1909 checkWattIntervall state: Next: .*
+188 checkWattSolar state: Next: .*
+25 checkinterval state: .*
 7 funk_kette state: off
 4 funk_kette state: on
-3 funk_kette_an_aus ausschaltzeit: .*
-11 funk_kette_an_aus cmd: .*
-4 funk_kette_an_aus cmd_event: timer_1
+7 funk_kette_an_aus ausschaltzeit: .*
+13 funk_kette_an_aus cmd: .*
+5 funk_kette_an_aus cmd_event: timer_1
 1 funk_kette_an_aus cmd_event: timer_2
 1 funk_kette_an_aus cmd_event: timer_3
-6 funk_kette_an_aus cmd_nr: .*
-3 funk_kette_an_aus einschaltzeit: .*
-6 funk_kette_an_aus mode: enabled
-3 funk_kette_an_aus state: cmd_1
+7 funk_kette_an_aus cmd_nr: .*
+7 funk_kette_an_aus einschaltzeit: .*
+8 funk_kette_an_aus mode: enabled
+4 funk_kette_an_aus state: cmd_1
 1 funk_kette_an_aus state: cmd_2
 2 funk_kette_an_aus state: cmd_3
-1 funk_kette_an_aus state: initialize
-5 funk_kette_an_aus state: initialized
+2 funk_kette_an_aus state: initialize
+6 funk_kette_an_aus state: initialized
 1 funk_kette_till state: Next: .*
 2 funksteckdose dim: dimup
 7 funksteckdose dim: off
@@ -155,25 +196,25 @@
 4 iPhone4 state: timeout
 1 infrarotheizung cloud: disabled
 1 infrarotheizung config: mode=relay [channel s]
-430 infrarotheizung energy_0: .*
+466 infrarotheizung energy_0: .*
 395 infrarotheizung energy_1: .*
 5 infrarotheizung firmware: v1.*
 6 infrarotheizung firmware: v1.*)
-5985 infrarotheizung network: not connected
+5986 infrarotheizung network: not connected
 86664 infrarotheizung off
 633 infrarotheizung on
 1 infrarotheizung overpower_0: .*
 65101 infrarotheizung overpower_1: .*
-786 infrarotheizung power_0: .*
+840 infrarotheizung power_0: .*
 782 infrarotheizung power_1: .*
-25 infrarotheizung relay_0: off
-23 infrarotheizung relay_0: on
+34 infrarotheizung relay_0: off
+32 infrarotheizung relay_0: on
 64469 infrarotheizung relay_1: off
 632 infrarotheizung relay_1: on
-28194 infrarotheizung state: Error
-65130 infrarotheizung state: OK
-22 infrarotheizung state: initialized
-28 local_pybinding CONNECTED
+28195 infrarotheizung state: Error
+65131 infrarotheizung state: OK
+23 infrarotheizung state: initialized
+29 local_pybinding CONNECTED
 5 local_pybinding DISCONNECTED
 3 local_pybinding state: Python server offline
 1 local_pybinding update
@@ -184,19 +225,47 @@
 1 luftMax state: desired-temp .*
 2 luftMin state: .*
 1 luftMin state: desired-temp .*
-1 meinDepot add GOOGL
-1 meinDepot add SAP
-1 meinDepot add TSLA
-11 meinDepot depot_buy_value_total: .*
-11 meinDepot depot_cur_value_total: .*
-11 meinDepot depot_p_change: .*
-11 meinDepot depot_p_change_total: .*
-11 meinDepot depot_value_diff: .*
-11 meinDepot depot_value_diff_total: .*
-11 meinDepot state: .*
+1 meinDepot SAP.DE_close: .*
+1 meinDepot SAP.DE_currency: EUR
+1 meinDepot SAP.DE_d_buy_quote: .*
+1 meinDepot SAP.DE_d_buy_value_total: .*
+22 meinDepot SAP.DE_d_cur_value_total: .*
+22 meinDepot SAP.DE_d_p_change_total: .*
+1 meinDepot SAP.DE_d_prev_value_total: .*
+1 meinDepot SAP.DE_d_stockcount: .*
+21 meinDepot SAP.DE_d_value_diff: -.*
+1 meinDepot SAP.DE_d_value_diff: .*
+22 meinDepot SAP.DE_d_value_diff_total: .*
+1 meinDepot SAP.DE_date: .*
+1 meinDepot SAP.DE_div_yield: .*
+1 meinDepot SAP.DE_eps: .*
+1 meinDepot SAP.DE_exchange: Sourced from Yahoo Finance (as JSON)
+8 meinDepot SAP.DE_high: .*
+1 meinDepot SAP.DE_isodate: .*
+22 meinDepot SAP.DE_last: .*
+1 meinDepot SAP.DE_low: .*
+1 meinDepot SAP.DE_method: yahoo_json
+1 meinDepot SAP.DE_name: SAP.DE (SAP SE)
+2 meinDepot SAP.DE_open: .*
+22 meinDepot SAP.DE_pe: .*
+1 meinDepot SAP.DE_success: .*
+1 meinDepot SAP.DE_symbol: SAP.DE
+1 meinDepot SAP.DE_type: EQUITY
+22 meinDepot SAP.DE_volume: .*
+1 meinDepot SAP.DE_year_range: .*
+1 meinDepot buy SAP.DE .*
+23 meinDepot depot_buy_value_total: .*
+23 meinDepot depot_cur_value_total: .*
+21 meinDepot depot_p_change: -.*
+2 meinDepot depot_p_change: .*
+23 meinDepot depot_p_change_total: .*
+21 meinDepot depot_value_diff: -.*
+2 meinDepot depot_value_diff: .*
+23 meinDepot depot_value_diff_total: .*
+23 meinDepot state: .*
 1 meinDepot state: Initialized
-11 meinDepot state: Updating
-31 myCUL CONNECTED
+23 meinDepot state: Updating
+32 myCUL CONNECTED
 4 myCUL DISCONNECTED
 1 myCUL UNKNOWNCODE KFC
 1 myCUL UNKNOWNCODE i99a699a65555559da
@@ -228,86 +297,53 @@
 2 myCUL raw: isF00000F000FF
 8 myCUL state: Initialized
 2 myCUL version: V .* nanoCUL433
-1 n_PushsaferBoee state: active
-1 n_PushsaferWind state: active
 15 optimiertesHeizen state: active
 24 optimiertesHeizen state: inactive
 1 optimiertesHeizen state: off
 1 optimiertesHeizen state: on
-12 pausenzeit state: .*
+15 pausenzeit state: .*
 21 schaltercheck state: active
 24 schaltercheck state: inactive
 4 schaltercheck state: off
 6 schaltercheck state: on
-28 schwelle state: .*
+29 schwelle state: .*
 6 schwelle state: desired-temp .*
 1 schwelle state: set schwelle state .*
 2 schwelle state: state .*
 1 shelly cloud: disabled
 1 shelly config: mode=relay [channel s]
-438 shelly energy_0: .*
+474 shelly energy_0: .*
 397 shelly energy_1: .*
 3 shelly firmware: v1.*
 4 shelly firmware: v1.*)
 2 shelly logEntry: .*
-14467 shelly network: not connected
-53 shelly off
+14468 shelly network: not connected
+63 shelly off
 2 shelly off .*
-50 shelly on
+61 shelly on
 2 shelly on .*
 19 shelly overpower_0&.*
-85 shelly overpower_0: .*
+106 shelly overpower_0: .*
 3 shelly overpower_1: .*
-595 shelly power_0: .*
+654 shelly power_0: .*
 465 shelly power_1: .*
 1 shelly relay_0 off
 1 shelly relay_0 on
 10 shelly relay_0&.*: off
 9 shelly relay_0&.*: on
-52 shelly relay_0: off
-50 shelly relay_0: on
+63 shelly relay_0: off
+62 shelly relay_0: on
 69 shelly relay_1: off
 70 shelly relay_1: on
-14483 shelly state: Error
-156 shelly state: OK
+14485 shelly state: Error
+178 shelly state: OK
 24 shelly state: initialized
-1225 solarstromInWatt state: .*
-67 stromverbrauchRechner shelly_power_0_CounterCurrent: .*
-3 stromverbrauchRechner shelly_power_0_CounterDay1st: .*
-3 stromverbrauchRechner shelly_power_0_CounterDayLast: .*
-1 stromverbrauchRechner shelly_power_0_CounterMeter1st: .*
-1 stromverbrauchRechner shelly_power_0_CounterMeterLast: .*
-1 stromverbrauchRechner shelly_power_0_CounterMonth1st: .*
-1 stromverbrauchRechner shelly_power_0_CounterMonthLast: .*
-1 stromverbrauchRechner shelly_power_0_CounterYear1st: .*
-1 stromverbrauchRechner shelly_power_0_CounterYearLast: .*
-21 stromverbrauchRechner shelly_power_0_EnergyCostDay: -.*
-46 stromverbrauchRechner shelly_power_0_EnergyCostDay: .*
-1 stromverbrauchRechner shelly_power_0_EnergyCostDayLast: -.*
-1 stromverbrauchRechner shelly_power_0_EnergyCostDayLast: .*
-67 stromverbrauchRechner shelly_power_0_EnergyCostMeter: -.*
-67 stromverbrauchRechner shelly_power_0_EnergyCostMonth: -.*
-67 stromverbrauchRechner shelly_power_0_EnergyCostYear: -.*
-21 stromverbrauchRechner shelly_power_0_EnergyDay: -.*
-46 stromverbrauchRechner shelly_power_0_EnergyDay: .*
-1 stromverbrauchRechner shelly_power_0_EnergyDayLast: -.*
-1 stromverbrauchRechner shelly_power_0_EnergyDayLast: .*
-67 stromverbrauchRechner shelly_power_0_EnergyMeter: -.*
-67 stromverbrauchRechner shelly_power_0_EnergyMonth: -.*
-67 stromverbrauchRechner shelly_power_0_EnergyYear: -.*
-67 stromverbrauchRechner shelly_power_0_FinanceReserve: .*
-67 stromverbrauchRechner shelly_power_0_MonthMeterReading: .*
-5 stromverbrauchRechner shelly_power_0_PowerCurrent: -.*
-62 stromverbrauchRechner shelly_power_0_PowerCurrent: .*
-64 stromverbrauchRechner shelly_power_0_PowerDayAver: -.*
-3 stromverbrauchRechner shelly_power_0_PowerDayAver: .*
-6 stromverbrauchRechner shelly_power_0_PowerDayMax: .*
-3 stromverbrauchRechner shelly_power_0_PowerDayMin: -.*
-1 stromverbrauchRechner shelly_power_0_WFRDayMax: .*
-1 stromverbrauchRechner shelly_power_0_WFRDayMin: .*
+1898 solarstromInWatt state: .*
+4 stromaenderungShelly state: active
+5 switchNotification state: off
+5 switchNotification state: on
 2 tempMax state: .*
 3 tempMin state: .*
-4 testDummy state: .*
 1 testPushsafer state: active
 18 triggerLuftMax state: active
 26 triggerLuftMax state: inactive
@@ -327,9 +363,9 @@
 1 triggerWattIntervall state: active
 1 tuya_cloud_connector1 state: Installation finished. Please wait...
 1 tuya_cloud_connector1 state: Installing updates...
-26 tuya_cloud_connector1 state: connected
-26 tuya_cloud_connector1 state: connecting
-7 wattIntervall state: .*
+27 tuya_cloud_connector1 state: connected
+27 tuya_cloud_connector1 state: connecting
+10 wattIntervall state: .*
 1 wetter cloudBaseMax: .*
 1 wetter cloudBaseMin: .*
 1 wetter dewPoint: -.*
@@ -988,15 +1024,17 @@
 1 wetter weather: stark bewölkt
 1 wetter wind: .*
 1 wetter windDir: .*
-7 windSchwelle state: .*
-10 wlan_kette_an_aus ausschaltzeit: .*
-8 wlan_kette_an_aus cmd: .*
-2 wlan_kette_an_aus cmd_event: timer_1
+33 windSchwelle state: .*
+26 wlan_kette_an_aus ausschaltzeit: .*
+6 wlan_kette_an_aus ausschaltzeit: Keine Einschaltung geplant
+16 wlan_kette_an_aus cmd: .*
+3 wlan_kette_an_aus cmd_event: timer_1
 1 wlan_kette_an_aus cmd_event: timer_4
-3 wlan_kette_an_aus cmd_nr: .*
-10 wlan_kette_an_aus einschaltzeit: .*
-8 wlan_kette_an_aus mode: enabled
-2 wlan_kette_an_aus state: cmd_1
+4 wlan_kette_an_aus cmd_nr: .*
+26 wlan_kette_an_aus einschaltzeit: .*
+6 wlan_kette_an_aus einschaltzeit: Keine Einschaltung geplant
+22 wlan_kette_an_aus mode: enabled
+3 wlan_kette_an_aus state: cmd_1
 1 wlan_kette_an_aus state: cmd_2
-3 wlan_kette_an_aus state: initialize
-5 wlan_kette_an_aus state: initialized
+10 wlan_kette_an_aus state: initialize
+12 wlan_kette_an_aus state: initialized

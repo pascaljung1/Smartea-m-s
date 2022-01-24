@@ -1,0 +1,4 @@
+2022-01-19 14:58:57,341 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2022-01-19 14:58:57,365 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2022-01-19 14:58:57,478 - WARNING  - asyncio: Executing <Task pending name='Task-1' coro=<async_main() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py:530> wait_for=<_GatheringFuture pending cb=[<TaskWakeupMethWrapper object at 0x7507e5c8>()] created at /usr/lib/python3.9/asyncio/tasks.py:704> cb=[_run_until_complete_cb() at /usr/lib/python3.9/asyncio/base_events.py:184] created at /usr/lib/python3.9/asyncio/base_events.py:621> took 0.136 seconds
+2022-01-19 14:58:57,482 - INFO     - websockets.server: server listening on 0.0.0.0:15733
