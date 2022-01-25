@@ -3,3 +3,62 @@
 [2022-01-25 03:56:58,637] [tuya-openmq] Unexpected disconnection.16
 2022-01-25 03:56:58,637 - ERROR    - tuya_iot: Unexpected disconnection.16
 2022-01-25 03:57:18,696 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737e8c28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
+2022-01-25 14:58:30,797 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2022-01-25 14:58:30,821 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2022-01-25 14:58:30,954 - WARNING  - asyncio: Executing <Task pending name='Task-1' coro=<async_main() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py:530> wait_for=<_GatheringFuture pending cb=[<TaskWakeupMethWrapper object at 0x75028550>()] created at /usr/lib/python3.9/asyncio/tasks.py:704> cb=[_run_until_complete_cb() at /usr/lib/python3.9/asyncio/base_events.py:184] created at /usr/lib/python3.9/asyncio/base_events.py:621> took 0.156 seconds
+2022-01-25 14:58:30,959 - INFO     - websockets.server: server listening on 0.0.0.0:15733
+2022-01-25 15:19:33,542 - INFO     - websockets.server: connection open
+2022-01-25 15:19:33,547 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
+2022-01-25 15:19:33,704 - WARNING  - zeroconf: Error with socket 9 (('10.6.0.1', 5353))): [Errno 126] Required key not available
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/selector_events.py", line 1056, in sendto
+    self._sock.sendto(data, addr)
+OSError: [Errno 126] Required key not available
+2022-01-25 15:19:44,570 - WARNING  - asyncio: Executing <Task pending name='Task-18' coro=<tuya_cloud.Define() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/tuya_cloud/tuya_cloud.py:16> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x75028e68>()] created at /usr/lib/python3.9/asyncio/base_events.py:424> cb=[_release_waiter(<Future pendi...events.py:424>)() at /usr/lib/python3.9/asyncio/tasks.py:416] created at /usr/lib/python3.9/asyncio/tasks.py:462> took 7.693 seconds
+2022-01-25 15:19:44,991 - WARNING  - asyncio: Executing <Task pending name='Task-18' coro=<tuya_cloud.Define() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/tuya_cloud/tuya_cloud.py:31> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x74779070>()] created at /usr/lib/python3.9/asyncio/base_events.py:424> cb=[_release_waiter(<Future pendi...events.py:424>)() at /usr/lib/python3.9/asyncio/tasks.py:416] created at /usr/lib/python3.9/asyncio/tasks.py:462> took 0.207 seconds
+2022-01-25 15:35:04,032 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2022-01-25 15:35:04,052 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2022-01-25 15:35:04,163 - WARNING  - asyncio: Executing <Task pending name='Task-1' coro=<async_main() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py:530> wait_for=<_GatheringFuture pending cb=[<TaskWakeupMethWrapper object at 0x74fea550>()] created at /usr/lib/python3.9/asyncio/tasks.py:704> cb=[_run_until_complete_cb() at /usr/lib/python3.9/asyncio/base_events.py:184] created at /usr/lib/python3.9/asyncio/base_events.py:621> took 0.131 seconds
+2022-01-25 15:35:04,167 - INFO     - websockets.server: server listening on 0.0.0.0:15733
+2022-01-25 15:36:44,387 - INFO     - websockets.server: connection open
+2022-01-25 15:36:44,395 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
+2022-01-25 15:36:44,463 - WARNING  - zeroconf: Error with socket 9 (('10.6.0.1', 5353))): [Errno 126] Required key not available
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/selector_events.py", line 1056, in sendto
+    self._sock.sendto(data, addr)
+OSError: [Errno 126] Required key not available
+2022-01-25 15:45:34,599 - INFO     - fhempy.lib.fhem_pythonbinding: Starting fhempy...
+2022-01-25 15:45:34,618 - INFO     - fhempy.lib.fhem_pythonbinding: Waiting for FHEM connection
+2022-01-25 15:45:34,812 - WARNING  - asyncio: Executing <Task pending name='Task-1' coro=<async_main() running at /opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py:530> wait_for=<_GatheringFuture pending cb=[<TaskWakeupMethWrapper object at 0x75029568>()] created at /usr/lib/python3.9/asyncio/tasks.py:704> cb=[_run_until_complete_cb() at /usr/lib/python3.9/asyncio/base_events.py:184] created at /usr/lib/python3.9/asyncio/base_events.py:621> took 0.212 seconds
+2022-01-25 15:45:34,817 - INFO     - websockets.server: server listening on 0.0.0.0:15733
+2022-01-25 15:45:47,863 - WARNING  - asyncio: Executing <Handle BaseSelectorEventLoop._accept_connection(functools.par..., logger=None), <socket.socke....0.0', 15733)>, None, <Server socke...0', 15733)>,)>, 100, None) created at /usr/lib/python3.9/asyncio/selector_events.py:259> took 1.191 seconds
+2022-01-25 15:45:50,345 - WARNING  - asyncio: Executing <Task pending name='Task-3' coro=<BaseSelectorEventLoop._accept_connection2() running at /usr/lib/python3.9/asyncio/selector_events.py:218> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x750293a0>()] created at /usr/lib/python3.9/asyncio/base_events.py:424> created at /usr/lib/python3.9/asyncio/selector_events.py:196> took 2.480 seconds
+2022-01-25 15:45:50,367 - INFO     - websockets.server: connection open
+2022-01-25 15:45:50,373 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
+2022-01-25 15:45:50,432 - ERROR    - websockets.server: connection handler failed
+Traceback (most recent call last):
+  File "/opt/fhem/.local/lib/python3.9/site-packages/websockets/legacy/server.py", line 224, in handler
+    await self.ws_handler(self, path)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py", line 97, in pybinding
+    await fhem.send_version()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem.py", line 276, in send_version
+    await wsconnection.send(msg)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/fhempy/lib/fhem_pythonbinding.py", line 118, in send
+    await self.wsconnection.send(msg.encode("utf-8"))
+  File "/opt/fhem/.local/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 631, in send
+    await self.write_frame(True, opcode, data)
+  File "/opt/fhem/.local/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 1188, in write_frame
+    await self.drain()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 1177, in drain
+    await self.ensure_open()
+  File "/opt/fhem/.local/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 920, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: no close frame received or sent
+2022-01-25 15:45:50,477 - INFO     - websockets.server: connection closed
+2022-01-25 15:45:50,508 - WARNING  - zeroconf: Error with socket 10 (('10.6.0.1', 5353))): [Errno 126] Required key not available
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/selector_events.py", line 1056, in sendto
+    self._sock.sendto(data, addr)
+OSError: [Errno 126] Required key not available
+2022-01-25 15:46:03,256 - INFO     - websockets.server: connection open
+2022-01-25 15:46:03,264 - INFO     - fhempy.lib.fhem_pythonbinding: Incoming FHEM connection: 127.0.0.1
