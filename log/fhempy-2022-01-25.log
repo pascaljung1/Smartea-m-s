@@ -1,0 +1,5 @@
+[2022-01-25 03:56:58,609] [tuya-openmq] Unexpected disconnection.16
+2022-01-25 03:56:58,609 - ERROR    - tuya_iot: Unexpected disconnection.16
+[2022-01-25 03:56:58,637] [tuya-openmq] Unexpected disconnection.16
+2022-01-25 03:56:58,637 - ERROR    - tuya_iot: Unexpected disconnection.16
+2022-01-25 03:57:18,696 - WARNING  - urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x737e8c28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/6031048/store/
